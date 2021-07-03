@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NabokD/pockettube/blob/main/logo.svg" alt="PocketTube logo"/>
+  <img src="https://github.com/NabokD/pockettube/blob/main/assets/logo.svg" alt="PocketTube logo"/>
 </p>
 
 [PocketTube](//yousub.info) is a browser extension for managing YouTube subscriptions list
