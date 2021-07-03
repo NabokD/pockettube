@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/NabokD/pockettube/blob/main/logo.svg" alt="PocketTube logo"/>
+</p>
+
 [PocketTube](//yousub.info) is a browser extension for managing YouTube subscriptions list
 
 Since PocketTube is not fully open-source, this repository serves as a place for bug reports, feature requests, translations and general discussion.
