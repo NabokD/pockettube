@@ -13,7 +13,7 @@ Since PocketTube is not fully open-source, this repository serves as a place for
 - [Edge](//microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home)
 - [Opera](//addons.opera.com/en/extensions/details/pockettube-youtube-subscription-manager)
 
-### Mobile apps:
+### Mobile Apps:
 - [Android](//play.google.com/store/apps/details?id=com.youtubesubscriptionmanager)
 - [iOS](//apps.apple.com/us/app/pockettube-subscription-manage/id1475688814)
 
@@ -24,7 +24,10 @@ Since PocketTube is not fully open-source, this repository serves as a place for
 - :orange_book: [reddit.com/r/pockettube](//www.reddit.com/r/pockettube)
 - :tada: [yousub.info](//yousub.info)
 
-### Supporting the project
+### Other
+- [Translations](//translations.yousub.info)
+
+### Supporting The Project
 Become a Patreon to help support the continued development of this plugin, if you enjoy it! It takes time to update the extension every time Youtube changes internally❤️
 
 <a href="https://patreon.com/ysub"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dysub%26type%3Dpatrons&style=for-the-badge" alt="Support me on Patreon" /></a>
