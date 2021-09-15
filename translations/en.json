@@ -270,5 +270,18 @@
     "disable removing the channel from the group after unsubscribing": "disable removing the channel from the group after unsubscribing",
     "lock position in the custom sort view": "lock position in the custom sort view",
     "Download link": "Download link",
-    "You'll see new videos here after getting the notification": "You'll see new videos here after getting the notification"
+    "You'll see new videos here after getting the notification": "You'll see new videos here after getting the notification",
+    "color for count on the icon": "color for count on the icon",
+    "show notifications count on the icon": "show notifications count on the icon",
+    "enable push notifications": "enable push notifications",
+    "You have set group to getting notifications": "You have set group to getting notifications",
+    "Not set": "Not set",
+    "Set group for notifications": "Set group for notifications",
+    "Subscribe now": "Subscribe now",
+    "Use YouTube account": "Use YouTube account",
+    "Change plan": "Change plan",
+    "Manage membership": "Manage membership",
+    "Montly": "Montly",
+    "Annual": "Annual",
+    "Your access expire": "Your access expire"
 }
