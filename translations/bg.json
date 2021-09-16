@@ -278,5 +278,19 @@
     "You have to set the group to get notifications": "Трябва да настроите групата да получава известия",
     "color on the icon": "цвят на иконата",
     "show notifications count near on the icon": "показване на броя на известията близо до иконата",
-    "enable push notifications": "активирайте push известия"
+    "enable push notifications": "активирайте push известия",
+    "Manage membership": "Управление на членството",
+    "A new video is available": "Наличен е нов видеоклип",
+    "Disable push notifications": "Деактивирайте push известията",
+    "Change plan": "Промяна на плана",
+    "Annual": "Годишни",
+    "Your access expires": "Достъпът ви изтича",
+    "Subscription plan": "Абонаментен план",
+    "Switch to annual": "Преминете към годишен",
+    "Change": "Промяна",
+    "Payment data": "Данни за плащане",
+    "Email is not detected. Please log in on youtube and retry": "Имейлът не е открит. Моля, влезте в youtube и опитайте отново",
+    "PocketTube notification": "Известие от PocketTube",
+    "Monthly": "Месечно",
+    "Next billing date": "Следваща дата на таксуване"
 }
