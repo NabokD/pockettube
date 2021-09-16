@@ -269,5 +269,14 @@
     "hide new videos count": "скрий брой нови видеа",
     "disable removing the channel from the group after unsubscribing": "изключи премахване на канал от група след деабонирате",
     "lock position in the custom sort view": "заключи персонална позиция в лентата",
-    "Download link": "Изтегли линк"
+    "Download link": "Изтегли линк",
+    "You'll see new videos here after getting the notification": "Тук ще видите нови видеоклипове, след като получите известието",
+    "Not set": "Не е зададено",
+    "Set group for notifications": "Задайте група за известия",
+    "Subscribe now": "Абонирай се сега",
+    "Use YouTube account": "Използвайте акаунт в YouTube",
+    "You have to set the group to get notifications": "Трябва да настроите групата да получава известия",
+    "color on the icon": "цвят на иконата",
+    "show notifications count near on the icon": "показване на броя на известията близо до иконата",
+    "enable push notifications": "активирайте push известия"
 }
