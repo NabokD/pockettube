@@ -271,7 +271,7 @@
     "lock position in the custom sort view": "заблокувати положення у власному режимі сортування",
     "Download link": "Посилання для завантаження",
     "You'll see new videos here after getting the notification": "Після отримання сповіщення ви побачите нові відео тут",
-    "show notifications count on the icon": "показувати кількість повідомлень на іконці",
+    "show notifications count near on the icon": "показувати кількість повідомлень на іконці",
     "enable push notifications": "увімкнути push-сповіщення",
     "Not set": "Не встановлено",
     "Set group for notifications": "Встановити групу сповіщень",
@@ -289,7 +289,7 @@
     "A new video is available": "Доступне нове відео",
     "Disable push notifications": "Вимкнути push-сповіщення",
     "You have to set the group to get notifications": "Ви повинні встановити групу для отримання сповіщень",
-    "color for the count on the icon": "колір для іконки",
+    "color on the icon": "колір для іконки",
     "Subscribe now": "Підпишись зараз",
     "Manage membership": "Керувати підпискою",
     "Payment data": "Платіжні дані"
