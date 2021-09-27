@@ -278,10 +278,10 @@
     "Use YouTube account": "YouTube-Konto verwenden",
     "Change plan": "Plan ändern",
     "Manage membership": "Mitgliedschaft verwalten",
-    "Annual": "Jährlich",
+    "Annually": "Jährlich",
     "Your access expires": "Ihr Zugang läuft ab",
     "Subscription plan": "Abonnementplan",
-    "Switch to annual": "Auf jährlich umstellen",
+    "Switch to annually": "Auf jährlich umstellen",
     "Change": "Ändern",
     "Payment data": "Zahlungsdaten",
     "Email is not detected. Please log in on youtube and retry": "E-Mail wird nicht erkannt. Bitte loggen Sie sich auf YouTube ein und versuchen Sie es erneut",
@@ -292,5 +292,7 @@
     "Monthly": "Monatlich",
     "Next billing date": "Nächstes Abrechnungsdatum",
     "color on the icon": "Farbe auf dem Symbol",
-    "show notifications count near on the icon": "Benachrichtigungen anzeigen zählen in der Nähe des Symbols"
+    "show notifications count near on the icon": "Benachrichtigungen anzeigen zählen in der Nähe des Symbols",
+    "Choose a plan": "",
+    "Demo": ""
 }

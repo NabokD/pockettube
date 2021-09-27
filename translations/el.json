@@ -280,10 +280,10 @@
     "Use YouTube account": "Χρήση λογαριασμού YouTube",
     "Change plan": "Αλλαγή σχεδίου",
     "Manage membership": "Διαχείριση συνδρομής",
-    "Annual": "Ετήσιο",
+    "Annually": "Ετήσιο",
     "Your access expires": "Η πρόσβασή σας λήγει",
     "Subscription plan": "Σχέδιο συνδρομής",
-    "Switch to annual": "Μετάβαση σε ετήσια",
+    "Switch to annually": "Μετάβαση σε ετήσια",
     "Change": "Αλλαγή",
     "Email is not detected. Please log in on youtube and retry": "Το email δεν ανιχνεύεται. Συνδεθείτε στο youtube και προσπαθήστε ξανά",
     "PocketTube notification": "Ειδοποίηση PocketTube",
@@ -292,5 +292,7 @@
     "You have to set the group to get notifications": "Πρέπει να ρυθμίσετε την ομάδα για να λαμβάνετε ειδοποιήσεις",
     "Monthly": "Μηνιαίο",
     "Next billing date": "Επόμενη ημερομηνία χρέωσης",
-    "color on the icon": "χρώμα στο εικονίδιο"
+    "color on the icon": "χρώμα στο εικονίδιο",
+    "Choose a plan": "",
+    "Demo": ""
 }

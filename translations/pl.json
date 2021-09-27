@@ -278,9 +278,9 @@
     "Use YouTube account": "Użyj konta YouTube",
     "Change plan": "Zmień plan",
     "Manage membership": "Zarządzaj subskrypcją",
-    "Annual": "Coroczny",
+    "Annually": "Coroczny",
     "Your access expires": "Twój dostęp wygasa",
-    "Switch to annual": "Przełącz na roczny",
+    "Switch to annually": "Przełącz na roczny",
     "Change": "Reszta",
     "PocketTube notification": "Powiadomienie PocketTube",
     "A new video is available": "Dostępny jest nowy film",
@@ -292,5 +292,7 @@
     "show notifications count near on the icon": "pokaż liczbę powiadomień blisko ikony",
     "Subscription plan": "Plan abonamentowy",
     "Payment data": "Dane dotyczące płatności",
-    "Email is not detected. Please log in on youtube and retry": "E-mail nie został wykryty. Zaloguj się na youtube i spróbuj ponownie"
+    "Email is not detected. Please log in on youtube and retry": "E-mail nie został wykryty. Zaloguj się na youtube i spróbuj ponownie",
+    "Choose a plan": "",
+    "Demo": ""
 }

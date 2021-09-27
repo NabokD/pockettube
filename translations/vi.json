@@ -279,9 +279,9 @@
     "Subscribe now": "Theo dõi ngay",
     "Use YouTube account": "Sử dụng tài khoản YouTube",
     "Change plan": "Thay đổi kế hoạch",
-    "Annual": "Hàng năm",
+    "Annually": "Hàng năm",
     "Your access expires": "Quyền truy cập của bạn hết hạn",
-    "Switch to annual": "Chuyển sang hàng năm",
+    "Switch to annually": "Chuyển sang hàng năm",
     "Change": "Thay đổi",
     "Payment data": "Dữ liệu thanh toán",
     "Email is not detected. Please log in on youtube and retry": "Email không được phát hiện. Vui lòng đăng nhập trên youtube và thử lại",
@@ -292,5 +292,7 @@
     "Monthly": "Hàng tháng",
     "Next billing date": "Ngày thanh toán tiếp theo",
     "color on the icon": "màu sắc trên biểu tượng",
-    "show notifications count near on the icon": "hiển thị số lượng thông báo gần trên biểu tượng"
+    "show notifications count near on the icon": "hiển thị số lượng thông báo gần trên biểu tượng",
+    "Choose a plan": "",
+    "Demo": ""
 }

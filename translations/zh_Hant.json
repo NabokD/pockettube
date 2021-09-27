@@ -278,10 +278,10 @@
     "Set group for notifications": "設置通知組",
     "Use YouTube account": "使用 YouTube 帳戶",
     "Change plan": "更改計劃",
-    "Annual": "年度的",
+    "Annually": "年度的",
     "Your access expires": "您的訪問權限已過期",
     "Subscription plan": "訂閱計劃",
-    "Switch to annual": "切換到年度",
+    "Switch to annually": "切換到年度",
     "Change": "改變",
     "Payment data": "支付數據",
     "Email is not detected. Please log in on youtube and retry": "未檢測到電子郵件。 請登錄 YouTube 並重試",
@@ -292,5 +292,7 @@
     "Monthly": "每月",
     "Next billing date": "下次帳單日期",
     "color on the icon": "圖標上的顏色",
-    "show notifications count near on the icon": "在圖標附近顯示通知計數"
+    "show notifications count near on the icon": "在圖標附近顯示通知計數",
+    "Choose a plan": "",
+    "Demo": ""
 }

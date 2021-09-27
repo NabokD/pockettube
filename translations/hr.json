@@ -280,10 +280,10 @@
     "Subscribe now": "Pretplatite se sada",
     "Use YouTube account": "Koristite račun YouTube",
     "Manage membership": "Upravljanje pretplatom",
-    "Annual": "Godišnji",
+    "Annually": "Godišnji",
     "Your access expires": "Vaš pristup istječe",
     "Subscription plan": "Pretplatnički plan",
-    "Switch to annual": "Prebacite se na godišnji",
+    "Switch to annually": "Prebacite se na godišnji",
     "Change": "Promijeniti",
     "Payment data": "Podaci o plaćanju",
     "PocketTube notification": "PocketTube obavijest",
@@ -292,5 +292,7 @@
     "Next billing date": "Sljedeći datum naplate",
     "Monthly": "Mjesečno",
     "color on the icon": "boja na ikoni",
-    "show notifications count near on the icon": "prikaži broj obavijesti blizu ikone"
+    "show notifications count near on the icon": "prikaži broj obavijesti blizu ikone",
+    "Choose a plan": "",
+    "Demo": ""
 }

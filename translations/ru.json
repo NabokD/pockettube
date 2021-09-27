@@ -277,11 +277,11 @@
     "Use YouTube account": "Использовать аккаунт YouTube",
     "Change plan": "Изменить план",
     "Monthly": "Ежемесячно",
-    "Annual": "Ежегодно",
+    "Annually": "Ежегодно",
     "Your access expires": "Ваш доступ истекает",
     "Next billing date": "Дата следующего платежа",
     "Subscription plan": "План подписки",
-    "Switch to annual": "Перейти на годовой",
+    "Switch to annually": "Перейти на годовой",
     "Change": "Изменить",
     "PocketTube notification": "Уведомление PocketTube",
     "A new video is available": "Доступно новое видео",
@@ -292,5 +292,7 @@
     "Subscribe now": "Подписаться сейчас",
     "Manage membership": "Продлить или изменить",
     "Payment data": "Платежные данные",
-    "Email is not detected. Please log in on youtube and retry": "Электронная почта не обнаружена. Пожалуйста, войдите на YouTube и повторите попытку"
+    "Email is not detected. Please log in on youtube and retry": "Электронная почта не обнаружена. Пожалуйста, войдите на YouTube и повторите попытку",
+    "Choose a plan": "",
+    "Demo": ""
 }

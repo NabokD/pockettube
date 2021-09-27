@@ -281,9 +281,9 @@
     "Set group for notifications": "Imposta gruppo per le notifiche",
     "Use YouTube account": "Usa l'account YouTube",
     "Change plan": "Cambia piano",
-    "Annual": "Annuale",
+    "Annually": "Annuale",
     "Your access expires": "Il tuo accesso scade",
-    "Switch to annual": "Passa all'annuale",
+    "Switch to annually": "Passa all'annuale",
     "Change": "Modificare",
     "Email is not detected. Please log in on youtube and retry": "L'e-mail non viene rilevata. Accedi su youtube e riprova",
     "PocketTube notification": "Notifica PocketTube",
@@ -292,5 +292,7 @@
     "You have to set the group to get notifications": "Devi impostare il gruppo per ricevere le notifiche",
     "Monthly": "Mensile",
     "color on the icon": "colore sull'icona",
-    "show notifications count near on the icon": "mostra il conteggio delle notifiche vicino all'icona"
+    "show notifications count near on the icon": "mostra il conteggio delle notifiche vicino all'icona",
+    "Choose a plan": "",
+    "Demo": ""
 }

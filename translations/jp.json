@@ -279,10 +279,10 @@
     "Subscribe now": "サブスクリプションを購入",
     "Use YouTube account": "YouTubeアカウントを使用する",
     "Change plan": "プラン変更",
-    "Annual": "年間",
+    "Annually": "年間",
     "Your access expires": "アクセスの有効期限が切れます",
     "Subscription plan": "サブスクリプションプラン",
-    "Switch to annual": "年次に切り替える",
+    "Switch to annually": "年次に切り替える",
     "Change": "変化する",
     "Payment data": "支払いデータ",
     "Email is not detected. Please log in on youtube and retry": "電子メールが検出されません。 YouTubeにログインして再試行してください",
@@ -292,5 +292,7 @@
     "You have to set the group to get notifications": "通知を受け取るには、グループを設定する必要があります",
     "Monthly": "毎月",
     "color on the icon": "アイコンの色",
-    "show notifications count near on the icon": "アイコンの近くに通知カウントを表示する"
+    "show notifications count near on the icon": "アイコンの近くに通知カウントを表示する",
+    "Choose a plan": "",
+    "Demo": ""
 }

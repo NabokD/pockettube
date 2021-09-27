@@ -282,15 +282,17 @@
     "Change plan": "",
     "Manage membership": "",
     "Monthly": "",
-    "Annual": "",
+    "Annually": "",
     "Your access expires": "",
     "Next billing date": "",
     "Subscription plan": "",
-    "Switch to annual": "",
+    "Switch to annually": "",
     "Change": "",
     "Payment data": "",
     "Email is not detected. Please log in on youtube and retry": "",
     "PocketTube notification": "",
     "A new video is available": "",
-    "Disable push notifications": ""
+    "Disable push notifications": "",
+    "Choose a plan": "",
+    "Demo": ""
 }

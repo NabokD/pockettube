@@ -279,10 +279,10 @@
     "Use YouTube account": "Bruk YouTube -konto",
     "Change plan": "Endre plan",
     "Manage membership": "Administrer abonnementet",
-    "Annual": "Årlig",
+    "Annually": "Årlig",
     "Your access expires": "Din tilgang utløper",
     "Subscription plan": "Abonnementsplan",
-    "Switch to annual": "Bytt til årlig",
+    "Switch to annually": "Bytt til årlig",
     "Change": "Endring",
     "Payment data": "Betalingsdata",
     "Email is not detected. Please log in on youtube and retry": "E -post er ikke oppdaget. Logg deg på YouTube og prøv igjen",
@@ -292,5 +292,7 @@
     "You have to set the group to get notifications": "Du må sette gruppen til å få varsler",
     "Monthly": "Månedlig",
     "color on the icon": "farge på ikonet",
-    "show notifications count near on the icon": "vis varsler teller i nærheten av ikonet"
+    "show notifications count near on the icon": "vis varsler teller i nærheten av ikonet",
+    "Choose a plan": "",
+    "Demo": ""
 }

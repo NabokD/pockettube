@@ -279,10 +279,10 @@
     "Use YouTube account": "Použite účet YouTube",
     "Change plan": "Zmeniť plán",
     "Manage membership": "Správa členstva",
-    "Annual": "Výročný",
+    "Annually": "Výročný",
     "Your access expires": "Váš prístup vyprší",
     "Subscription plan": "Predplatný plán",
-    "Switch to annual": "Prepnúť na ročné",
+    "Switch to annually": "Prepnúť na ročné",
     "Change": "Zmeniť",
     "Email is not detected. Please log in on youtube and retry": "E -mail nie je rozpoznaný. Prihláste sa na youtube a skúste to znova",
     "PocketTube notification": "Upozornenie na PocketTube",
@@ -292,5 +292,7 @@
     "Next billing date": "Dátum ďalšej fakturácie",
     "Monthly": "Mesačne",
     "color on the icon": "farba na ikone",
-    "show notifications count near on the icon": "na ikone zobraziť počet upozornení"
+    "show notifications count near on the icon": "na ikone zobraziť počet upozornení",
+    "Choose a plan": "",
+    "Demo": ""
 }

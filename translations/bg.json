@@ -283,14 +283,16 @@
     "A new video is available": "Наличен е нов видеоклип",
     "Disable push notifications": "Деактивирайте push известията",
     "Change plan": "Промяна на плана",
-    "Annual": "Годишни",
+    "Annually": "Годишни",
     "Your access expires": "Достъпът ви изтича",
     "Subscription plan": "Абонаментен план",
-    "Switch to annual": "Преминете към годишен",
+    "Switch to annually": "Преминете към годишен",
     "Change": "Промяна",
     "Payment data": "Данни за плащане",
     "Email is not detected. Please log in on youtube and retry": "Имейлът не е открит. Моля, влезте в youtube и опитайте отново",
     "PocketTube notification": "Известие от PocketTube",
     "Monthly": "Месечно",
-    "Next billing date": "Следваща дата на таксуване"
+    "Next billing date": "Следваща дата на таксуване",
+    "Choose a plan": "",
+    "Demo": ""
 }

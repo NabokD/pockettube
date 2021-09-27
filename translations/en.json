@@ -282,15 +282,17 @@
     "Change plan": "Change plan",
     "Manage membership": "Manage membership",
     "Monthly": "Monthly",
-    "Annual": "Annual",
+    "Annually": "Annually",
     "Your access expires": "Your access expires",
     "Next billing date": "Next billing date",
     "Subscription plan": "Subscription plan",
-    "Switch to annual": "Switch to annual",
+    "Switch to annually": "Switch to annually",
     "Change": "Change",
     "Payment data": "Payment data",
     "Email is not detected. Please log in on youtube and retry": "Email is not detected. Please log in on youtube and retry",
     "PocketTube notification": "PocketTube notification",
     "A new video is available": "A new video is available",
-    "Disable push notifications": "Disable push notifications"
+    "Disable push notifications": "Disable push notifications",
+    "Choose a plan": "Choose a plan",
+    "Demo": "Demo"
 }

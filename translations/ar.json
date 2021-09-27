@@ -276,10 +276,10 @@
     "Subscribe now": "اشترك الآن",
     "Use YouTube account": "استخدم حساب YouTube",
     "Change plan": "خطة التغيير",
-    "Annual": "سنوي",
+    "Annually": "سنوي",
     "Your access expires": "وصولك تنتهي",
     "Subscription plan": "خطة الاشتراك",
-    "Switch to annual": "قم بالتبديل إلى سنوي",
+    "Switch to annually": "قم بالتبديل إلى سنوي",
     "Change": "يتغيرون",
     "Payment data": "بيانات الدفع",
     "A new video is available": "يتوفر فيديو جديد",
@@ -292,5 +292,7 @@
     "enable push notifications": "تمكين دفع الإشعارات",
     "Manage membership": "إدارة الاشتراك",
     "Email is not detected. Please log in on youtube and retry": "لم يتم الكشف عن البريد الإلكتروني. الرجاء تسجيل الدخول على يوتيوب وأعد المحاولة",
-    "PocketTube notification": "إشعار PocketTube"
+    "PocketTube notification": "إشعار PocketTube",
+    "Choose a plan": "",
+    "Demo": ""
 }

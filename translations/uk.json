@@ -278,11 +278,11 @@
     "Use YouTube account": "Використати YouTube аккаунт",
     "Change plan": "Змінити план",
     "Monthly": "Місячний",
-    "Annual": "Річний",
+    "Annually": "Річний",
     "Your access expires": "Ваш доступ закінчується",
     "Next billing date": "Дата наступного платежу",
     "Subscription plan": "План передплати",
-    "Switch to annual": "Перейти на річний",
+    "Switch to annually": "Перейти на річний",
     "Change": "Змінити",
     "Email is not detected. Please log in on youtube and retry": "Електронна пошта не виявлена. Увійдіть на YouTube та повторіть спробу",
     "PocketTube notification": "Сповіщення PocketTube",
@@ -292,5 +292,7 @@
     "color on the icon": "колір для іконки",
     "Subscribe now": "Підпишись зараз",
     "Manage membership": "Керувати підпискою",
-    "Payment data": "Платіжні дані"
+    "Payment data": "Платіжні дані",
+    "Choose a plan": "",
+    "Demo": ""
 }

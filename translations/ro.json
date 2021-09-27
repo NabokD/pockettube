@@ -281,9 +281,9 @@
     "Use YouTube account": "Folosiți contul YouTube",
     "Change plan": "Schimbați planul",
     "Manage membership": "Gestionează calitatea de membru",
-    "Annual": "Anual",
+    "Annually": "Anual",
     "Subscription plan": "Plan de abonament",
-    "Switch to annual": "Treceți la anual",
+    "Switch to annually": "Treceți la anual",
     "Change": "Schimbare",
     "Payment data": "Date de plată",
     "Email is not detected. Please log in on youtube and retry": "E-mailul nu este detectat. Vă rugăm să vă conectați pe YouTube și să încercați din nou",
@@ -292,5 +292,7 @@
     "Disable push notifications": "Dezactivați notificările push",
     "You have to set the group to get notifications": "Trebuie să setați grupul pentru a primi notificări",
     "Monthly": "Lunar",
-    "color on the icon": "culoare pe pictogramă"
+    "color on the icon": "culoare pe pictogramă",
+    "Choose a plan": "",
+    "Demo": ""
 }

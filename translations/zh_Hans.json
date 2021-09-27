@@ -278,10 +278,10 @@
     "Use YouTube account": "使用 YouTube 帐户",
     "Change plan": "改变计划",
     "Manage membership": "管理会员资格",
-    "Annual": "年度的",
+    "Annually": "年度的",
     "Your access expires": "您的访问权限已过期",
     "Subscription plan": "订阅计划",
-    "Switch to annual": "切换到年度",
+    "Switch to annually": "切换到年度",
     "Change": "改变",
     "Payment data": "支付数据",
     "Email is not detected. Please log in on youtube and retry": "未检测到电子邮件。 请登录 YouTube 并重试",
@@ -292,5 +292,7 @@
     "Monthly": "每月",
     "Next billing date": "下次结算日期",
     "color on the icon": "图标上的颜色",
-    "show notifications count near on the icon": "在图标附近显示通知计数"
+    "show notifications count near on the icon": "在图标附近显示通知计数",
+    "Choose a plan": "",
+    "Demo": ""
 }

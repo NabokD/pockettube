@@ -279,10 +279,10 @@
     "Use YouTube account": "Gunakan akun YouTube",
     "Change plan": "Ubah rencana",
     "Manage membership": "Kelola langganan",
-    "Annual": "Tahunan",
+    "Annually": "Tahunan",
     "Your access expires": "Akses Anda kedaluwarsa",
     "Subscription plan": "Paket berlangganan",
-    "Switch to annual": "Beralih ke tahunan",
+    "Switch to annually": "Beralih ke tahunan",
     "Change": "Mengubah",
     "Payment data": "Data pembayaran",
     "Email is not detected. Please log in on youtube and retry": "Email tidak terdeteksi. Silakan masuk di youtube dan coba lagi",
@@ -292,5 +292,7 @@
     "You have to set the group to get notifications": "Anda harus mengatur grup untuk mendapatkan notifikasi",
     "Monthly": "Bulanan",
     "Next billing date": "Tanggal penagihan berikutnya",
-    "color on the icon": "warna pada ikon"
+    "color on the icon": "warna pada ikon",
+    "Choose a plan": "",
+    "Demo": ""
 }

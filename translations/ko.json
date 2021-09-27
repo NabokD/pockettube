@@ -280,9 +280,9 @@
     "Use YouTube account": "YouTube 계정 사용",
     "Change plan": "플랜 변경",
     "Manage membership": "멤버십 관리",
-    "Annual": "연간",
+    "Annually": "연간",
     "Subscription plan": "구독 계획",
-    "Switch to annual": "연간으로 전환",
+    "Switch to annually": "연간으로 전환",
     "Change": "변화",
     "Payment data": "결제 데이터",
     "PocketTube notification": "PocketTube 알림",
@@ -292,5 +292,7 @@
     "Monthly": "월간 간행물",
     "Next billing date": "다음 결제일",
     "color on the icon": "아이콘의 색상",
-    "show notifications count near on the icon": "아이콘 근처에 알림 수 표시"
+    "show notifications count near on the icon": "아이콘 근처에 알림 수 표시",
+    "Choose a plan": "",
+    "Demo": ""
 }
