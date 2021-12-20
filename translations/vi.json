@@ -334,5 +334,18 @@
     "Flexible configuration for channels status": "Cấu hình linh hoạt cho trạng thái kênh",
     "All videos were watched": "Tất cả các video đã được xem",
     "Unlock the full potential of PocketTube": "Khai thác toàn bộ tiềm năng của PocketTube",
-    "Add to queue": "Thêm vào danh sách chờ"
+    "Add to queue": "Thêm vào danh sách chờ",
+    "Add column": "Thêm cột",
+    "Move left": "Di chuyển sang trái",
+    "Delete column": "Xóa cột",
+    "Select channel for the new column": "Chọn kênh cho cột mới",
+    "Select group for the new column": "Chọn nhóm cho cột mới",
+    "Show tutorial video": "Hiển thị video hướng dẫn",
+    "Hide watched videos": "Ẩn các video đã xem",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Bạn có thể có một cột nhóm và một cột kênh. Hỗ trợ chúng tôi để làm cho nó không giới hạn",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Bạn phải tạo nhóm. Nhấp vào 'Nhóm đăng ký' ở thanh bên trái",
+    "Nested groups": "Nhóm lồng nhau",
+    "Full access to": "Toàn quyền truy cập vào",
+    "Group": "Tập đoàn",
+    "This group column exists": "Cột nhóm này tồn tại"
 }
