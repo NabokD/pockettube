@@ -334,5 +334,18 @@
     "All videos were watched": "Všetky videá boli pozreté",
     "Unlimited tags filtering": "Neobmedzené filtrovanie značiek",
     "This was not saved. You have to turn on watch history on YouTube": "Toto nebolo uložené. Na YouTube si musíte zapnúť históriu pozerania",
-    "Add to queue": "Pridať do poradia"
+    "Add to queue": "Pridať do poradia",
+    "Add column": "Pridať stĺpec",
+    "Group": "Skupina",
+    "Delete column": "Odstrániť stĺpec",
+    "Select channel for the new column": "Vyberte kanál pre nový stĺpec",
+    "Select group for the new column": "Vyberte skupinu pre nový stĺpec",
+    "Show tutorial video": "Zobraziť výukové video",
+    "Hide watched videos": "Skryť sledované videá",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Môžete mať jeden stĺpec skupiny a jeden stĺpec kanála. Podporte nás, aby to bolo neobmedzené",
+    "Nested groups": "Vnorené skupiny",
+    "Full access to": "Úplný prístup k",
+    "Move left": "Presuňte sa doľava",
+    "This group column exists": "Tento stĺpec skupiny existuje",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Musíte vytvoriť skupiny. Kliknite na „Skupiny odberov“ na ľavom bočnom paneli"
 }
