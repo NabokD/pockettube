@@ -334,5 +334,18 @@
     "All videos were watched": "Wszystkie filmy zostały obejrzane",
     "Auto tags on the channels tab": "Automatyczne tagi na karcie kanałów",
     "Flexible configuration for channels status": "Elastyczna konfiguracja statusu kanałów",
-    "Add to queue": "Dodaj do kolejki"
+    "Add to queue": "Dodaj do kolejki",
+    "Add column": "Dodaj kolumnę",
+    "Group": "Grupa",
+    "Move left": "Przesuń w lewo",
+    "Delete column": "Usuń kolumnę",
+    "Select channel for the new column": "Wybierz kanał dla nowej kolumny",
+    "Select group for the new column": "Wybierz grupę dla nowej kolumny",
+    "Show tutorial video": "Pokaż film instruktażowy",
+    "Hide watched videos": "Ukryj obejrzane filmy",
+    "This group column exists": "Ta kolumna grupy istnieje",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Możesz mieć jedną kolumnę grupy i jedną kolumnę kanału. Wesprzyj nas, aby było nieograniczone",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Musisz tworzyć grupy. Kliknij „Grupy subskrypcji” na lewym pasku bocznym",
+    "Full access to": "Pełny dostęp do",
+    "Nested groups": "Grupy zagnieżdżone"
 }
