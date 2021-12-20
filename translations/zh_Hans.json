@@ -334,5 +334,18 @@
     "All videos were watched": "所有视频都看过",
     "Unlimited 'mark as watched' for videos": "对视频无限制地“标记为已观看”",
     "By signing in, you agree to our": "登录即表示您同意我们的",
-    "Add to queue": "添加到队列"
+    "Add to queue": "添加到队列",
+    "Add column": "添加列",
+    "Group": "团体",
+    "Move left": "向左移动",
+    "Delete column": "删除列",
+    "Select channel for the new column": "为新列选择频道",
+    "Select group for the new column": "为新列选择组",
+    "Show tutorial video": "显示教程视频",
+    "Hide watched videos": "隐藏观看的视频",
+    "You can have one group column and one channel column. Support us to make it unlimited": "您可以有一个组列和一个通道列。支持我们让它无限",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "您必须创建组。单击左侧栏中的“订阅组”",
+    "Nested groups": "嵌套组",
+    "Full access to": "完全访问",
+    "This group column exists": "此组列存在"
 }
