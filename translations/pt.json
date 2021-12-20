@@ -334,5 +334,18 @@
     "Flexible configuration for channels status": "Configuração flexível para status de canais",
     "All videos were watched": "Todos os vídeos foram assistidos",
     "Full access to community tab with latest posts": "Acesso total à guia da comunidade com as últimas postagens",
-    "Add to queue": "Adicionar à fila"
+    "Add to queue": "Adicionar à fila",
+    "Add column": "Adicionar coluna",
+    "Group": "Grupo",
+    "Move left": "Mova para a esquerda",
+    "Delete column": "Apagar coluna",
+    "Select channel for the new column": "Selecione o canal para a nova coluna",
+    "Select group for the new column": "Selecione o grupo para a nova coluna",
+    "Hide watched videos": "Ocultar vídeos assistidos",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Você pode ter uma coluna de grupo e uma coluna de canal. Ajude-nos a torná-lo ilimitado",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Você tem que criar grupos. Clique em 'Grupos de inscrição' na barra lateral esquerda",
+    "Nested groups": "Grupos aninhados",
+    "Full access to": "Acesso total a",
+    "Show tutorial video": "Mostrar vídeo tutorial",
+    "This group column exists": "Esta coluna de grupo existe"
 }
