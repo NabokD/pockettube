@@ -334,5 +334,18 @@
     "All videos were watched": "Toate videoclipurile au fost vizionate",
     "Join 1,000+ people who’ve already supported us": "Alăturați-vă celor peste 1.000 de persoane care ne-au susținut deja",
     "Flexible configuration for channels status": "Configurare flexibilă pentru starea canalelor",
-    "Add to queue": "Adaugă în coadă"
+    "Add to queue": "Adaugă în coadă",
+    "Add column": "Adăugați coloană",
+    "Group": "grup",
+    "Delete column": "Ștergeți coloana",
+    "Select channel for the new column": "Selectați canalul pentru noua coloană",
+    "Select group for the new column": "Selectați grupul pentru noua coloană",
+    "Show tutorial video": "Afișați videoclipul tutorial",
+    "Hide watched videos": "Ascunde videoclipurile vizionate",
+    "This group column exists": "Această coloană de grup există",
+    "Nested groups": "Grupuri imbricate",
+    "Full access to": "Acces complet la",
+    "Move left": "Mută la stânga",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Puteți avea o coloană de grup și o coloană de canal. Sprijină-ne să-l facem nelimitat",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Trebuie să creezi grupuri. Faceți clic pe „Grupuri de abonament” în bara laterală din stânga"
 }
