@@ -335,5 +335,18 @@
     "PocketTube for Playlists": "PocketTube для плейлистов",
     "This was not saved. You have to turn on watch history on YouTube": "Это не сохранилось. Вы должны включить историю просмотров на YouTube",
     "By signing in, you agree to our": "Регистрируясь, вы соглашаетесь с нашими",
-    "Add to queue": "Добавить в очередь"
+    "Add to queue": "Добавить в очередь",
+    "Group": "Группа",
+    "Delete column": "Удалить столбец",
+    "Select channel for the new column": "Выберите канал для нового столбца",
+    "Select group for the new column": "Выберите группу для нового столбца",
+    "Hide watched videos": "Скрыть просмотренные видео",
+    "This group column exists": "Этот столбец группы существует",
+    "You can have one group column and one channel column. Support us to make it unlimited": "У вас может быть один столбец группы и один столбец канала. Поддержите нас, чтобы сделать его безграничным",
+    "Full access to": "Полный доступ к",
+    "Add column": "Добавить столбец",
+    "Move left": "Движение влево",
+    "Show tutorial video": "Показать обучающее видео",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Вы должны создавать группы. Нажмите \"Группы подписки\" на левой боковой панели.",
+    "Nested groups": "Вложенные группы"
 }
