@@ -334,5 +334,18 @@
     "Status for channels on the channels tab": "Statut des chaînes dans l'onglet des chaînes",
     "Flexible configuration for channels status": "Configuration flexible pour l'état des canaux",
     "All videos were watched": "Toutes les vidéos ont été visionnées",
-    "Add to queue": "Ajouter à la file d'attente"
+    "Add to queue": "Ajouter à la file d'attente",
+    "Add column": "Ajouter une colonne",
+    "Move left": "Se déplacer à gauche",
+    "Delete column": "Supprimer la colonne",
+    "Select channel for the new column": "Sélectionnez le canal pour la nouvelle colonne",
+    "Select group for the new column": "Sélectionnez le groupe pour la nouvelle colonne",
+    "Show tutorial video": "Afficher la vidéo du didacticiel",
+    "Hide watched videos": "Masquer les vidéos regardées",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Vous pouvez avoir une colonne de groupe et une colonne de canal. Soutenez-nous pour le rendre illimité",
+    "Nested groups": "Groupes imbriqués",
+    "Group": "Grouper",
+    "This group column exists": "Cette colonne de groupe existe",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Vous devez créer des groupes. Cliquez sur « Groupes d'abonnement » dans la barre latérale gauche",
+    "Full access to": "Accès complet à"
 }
