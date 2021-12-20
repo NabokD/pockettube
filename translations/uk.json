@@ -335,5 +335,18 @@
     "PocketTube for Playlists": "PocketTube для списків відтворення",
     "Unlimited tags filtering": "Необмежена фільтрація тегів",
     "Full access to community tab with latest posts": "Повний доступ до вкладки спільноти з останніми публікаціями",
-    "Add to queue": "Додати в чергу"
+    "Add to queue": "Додати в чергу",
+    "Add column": "Додати стовпець",
+    "Group": "Група",
+    "Move left": "Рухайтеся вліво",
+    "Delete column": "Видалити стовпець",
+    "Select group for the new column": "Виберіть групу для нового стовпця",
+    "Show tutorial video": "Показати навчальне відео",
+    "Hide watched videos": "Приховати переглянуті відео",
+    "This group column exists": "Цей стовпець групи існує",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Треба створювати групи. Натисніть «Групи підписки» на лівій бічній панелі",
+    "Nested groups": "Вкладені групи",
+    "Select channel for the new column": "Виберіть канал для нового стовпця",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Ви можете мати один стовпець групи та один стовпець каналу. Підтримайте нас, щоб зробити його необмеженим",
+    "Full access to": "Повний доступ до"
 }
