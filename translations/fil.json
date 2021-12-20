@@ -334,5 +334,18 @@
     "All videos were watched": "Lahat ng mga video ay pinanood",
     "Unlock the full potential of PocketTube": "I-unlock ang buong potensyal ng PocketTube",
     "By signing in, you agree to our": "Sa pamamagitan ng pag-sign in, sumasang-ayon ka sa aming",
-    "Add to queue": "Idagdag sa queue"
+    "Add to queue": "Idagdag sa queue",
+    "Add column": "Magdagdag ng column",
+    "Group": "Grupo",
+    "Move left": "Lumipat pakaliwa",
+    "Delete column": "Tanggalin ang column",
+    "Select group for the new column": "Pumili ng pangkat para sa bagong column",
+    "Hide watched videos": "Itago ang mga napanood na video",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Maaari kang magkaroon ng isang column ng pangkat at isang column ng channel. Suportahan kami upang gawin itong walang limitasyon",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Kailangan mong lumikha ng mga grupo. Mag-click sa 'Mga pangkat ng subscription' sa kaliwang sidebar",
+    "Nested groups": "Mga nested na grupo",
+    "Full access to": "Buong pag-access sa",
+    "Select channel for the new column": "Pumili ng channel para sa bagong column",
+    "Show tutorial video": "Ipakita ang tutorial na video",
+    "This group column exists": "Umiiral ang column ng pangkat na ito"
 }
