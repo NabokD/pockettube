@@ -334,5 +334,18 @@
     "Access to all features for": "الوصول إلى جميع الميزات لـ",
     "Flexible configuration for channels status": "تكوين مرن لحالة القنوات",
     "All videos were watched": "تمت مشاهدة جميع مقاطع الفيديو",
-    "Add to queue": "الإضافة إلى قائمة المحتوى التالي"
+    "Add to queue": "الإضافة إلى قائمة المحتوى التالي",
+    "Add column": "أضف العمود",
+    "Group": "مجموعة",
+    "Delete column": "حذف العمود",
+    "Select channel for the new column": "حدد قناة للعمود الجديد",
+    "Select group for the new column": "حدد مجموعة للعمود الجديد",
+    "Show tutorial video": "عرض فيديو تعليمي",
+    "Hide watched videos": "إخفاء الفيديوهات التي شاهدتها",
+    "This group column exists": "عمود المجموعة هذا موجود",
+    "Full access to": "الوصول الكامل إلى",
+    "Move left": "تحرك يسارا",
+    "You can have one group column and one channel column. Support us to make it unlimited": "يمكن أن يكون لديك عمود مجموعة واحد وعمود قناة واحد. ادعمنا لجعلها غير محدودة",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "عليك إنشاء مجموعات. انقر فوق \"مجموعات الاشتراك\" في الشريط الجانبي الأيسر",
+    "Nested groups": "مجموعات متداخلة"
 }
