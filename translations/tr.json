@@ -334,5 +334,18 @@
     "Status for channels on the channels tab": "Kanallar sekmesindeki kanalların durumu",
     "All videos were watched": "Tüm videolar izlendi",
     "Flexible configuration for channels status": "Kanal durumu için esnek yapılandırma",
-    "Add to queue": "Sıraya ekle"
+    "Add to queue": "Sıraya ekle",
+    "Group": "Grup",
+    "Move left": "Sola hareket et",
+    "Delete column": "Sütunu sil",
+    "Select channel for the new column": "Yeni sütun için kanal seçin",
+    "Select group for the new column": "Yeni sütun için grup seçin",
+    "Show tutorial video": "Eğitim videosunu göster",
+    "This group column exists": "Bu grup sütunu var",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Bir grup sütununuz ve bir kanal sütununuz olabilir. Sınırsız yapmak için bize destek olun",
+    "Full access to": "Tam erişim",
+    "Add column": "Sütun ekle",
+    "Hide watched videos": "İzlenen videoları gizle",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Gruplar oluşturmalısınız. Sol kenar çubuğundaki 'Abonelik grupları'nı tıklayın",
+    "Nested groups": "iç içe gruplar"
 }
