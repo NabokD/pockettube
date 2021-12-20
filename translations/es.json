@@ -334,5 +334,18 @@
     "This was not saved. You have to turn on watch history on YouTube": "Esto no se salvó. Tienes que activar el historial de reproducciones en YouTube.",
     "Status for channels on the channels tab": "Estado de los canales en la pestaña de canales",
     "Flexible configuration for channels status": "Configuración flexible para el estado de los canales",
-    "Add to queue": "Añadir a la cola"
+    "Add to queue": "Añadir a la cola",
+    "Add column": "Añadir columna",
+    "Group": "Grupo",
+    "Move left": "Mover hacia la izquierda",
+    "Delete column": "Eliminar columna",
+    "Show tutorial video": "Mostrar video tutorial",
+    "Hide watched videos": "Ocultar videos vistos",
+    "This group column exists": "Esta columna de grupo existe",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Puede tener una columna de grupo y una columna de canal. Apóyanos para hacerlo ilimitado",
+    "Nested groups": "Grupos anidados",
+    "Full access to": "Acceso completo a",
+    "Select channel for the new column": "Seleccionar canal para la nueva columna",
+    "Select group for the new column": "Seleccionar grupo para la nueva columna",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Tienes que crear grupos. Haga clic en 'Grupos de suscripción' en la barra lateral izquierda"
 }
