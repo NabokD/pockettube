@@ -334,5 +334,18 @@
     "Join 1,000+ people who’ve already supported us": "Join 1,000+ people who’ve already supported us",
     "PocketTube for Playlists": "PocketTube for Playlists",
     "soon": "soon",
-    "Add to queue": "Add to queue"
+    "Add to queue": "Add to queue",
+    "Add column": "Add column",
+    "Group": "Group",
+    "Move left": "Move left",
+    "Delete column": "Delete column",
+    "Select channel for the new column": "Select channel for the new column",
+    "Select group for the new column": "Select group for the new column",
+    "Show tutorial video": "Show tutorial video",
+    "Hide watched videos": "Hide watched videos",
+    "This group column exists": "This group column exists",
+    "You can have one group column and one channel column. Support us to make it unlimited": "You can have one group column and one channel column. Support us to make it unlimited",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "You have to create groups. Click on 'Subscription groups' in the left sidebar",
+    "Nested groups": "Nested groups",
+    "Full access to": "Full access to"
 }
