@@ -334,5 +334,18 @@
     "Auto tags on the channels tab": "Automatische tags op het tabblad kanalen",
     "Access to all features for": "Toegang tot alle functies voor",
     "All videos were watched": "Alle video's zijn bekeken",
-    "Add to queue": "Toevoegen aan wachtrij"
+    "Add to queue": "Toevoegen aan wachtrij",
+    "Add column": "Kolom toevoegen",
+    "Group": "Groep",
+    "Move left": "Ga naar links",
+    "Delete column": "Kolom verwijderen",
+    "Select channel for the new column": "Selecteer kanaal voor de nieuwe kolom",
+    "Select group for the new column": "Selecteer groep voor de nieuwe kolom",
+    "Show tutorial video": "Instructievideo weergeven",
+    "Hide watched videos": "Verberg bekeken video's",
+    "You can have one group column and one channel column. Support us to make it unlimited": "U kunt één groepskolom en één kanaalkolom hebben. Steun ons om het onbeperkt te maken",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Je moet groepen aanmaken. Klik op 'Abonnementsgroepen' in de linkerzijbalk",
+    "Nested groups": "Geneste groepen",
+    "Full access to": "Volledige toegang tot",
+    "This group column exists": "Deze groepskolom bestaat"
 }
