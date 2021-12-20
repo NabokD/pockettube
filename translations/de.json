@@ -334,5 +334,18 @@
     "Status for channels on the channels tab": "Status für Kanäle auf der Registerkarte Kanäle",
     "Flexible configuration for channels status": "Flexible Konfiguration für Kanalstatus",
     "All videos were watched": "Alle Videos wurden angeschaut",
-    "Add to queue": "In die Wiedergabeliste"
+    "Add to queue": "In die Wiedergabeliste",
+    "Add column": "Spalte hinzufügen",
+    "Group": "Gruppe",
+    "Move left": "Geh nach links",
+    "Delete column": "Spalte löschen",
+    "Select channel for the new column": "Kanal für die neue Spalte auswählen",
+    "Select group for the new column": "Gruppe für die neue Spalte auswählen",
+    "Show tutorial video": "Tutorial-Video anzeigen",
+    "Hide watched videos": "Angesehene Videos ausblenden",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Sie können eine Gruppenspalte und eine Kanalspalte haben. Unterstützen Sie uns, um es unbegrenzt zu machen",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Sie müssen Gruppen erstellen. Klicken Sie in der linken Seitenleiste auf \"Abonnementgruppen\".",
+    "Nested groups": "Verschachtelte Gruppen",
+    "Full access to": "Voller Zugriff auf",
+    "This group column exists": "Diese Gruppenspalte existiert"
 }
