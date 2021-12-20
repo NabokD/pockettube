@@ -334,5 +334,18 @@
     "Full access to video sorting on feed": "Пълен достъп до сортиране на видео във емисия",
     "Please login to PocketTube": "Моля, влезте в PocketTube",
     "PocketTube for Playlists": "PocketTube за плейлисти",
-    "Add to queue": "Добавяне в опашката"
+    "Add to queue": "Добавяне в опашката",
+    "Move left": "Мръдни на ляво",
+    "Delete column": "Изтриване на колона",
+    "Select channel for the new column": "Изберете канал за новата колона",
+    "Show tutorial video": "Покажете видео с урок",
+    "Hide watched videos": "Скриване на гледани видеоклипове",
+    "Add column": "Добавете колона",
+    "Group": "Група",
+    "Select group for the new column": "Изберете група за новата колона",
+    "This group column exists": "Тази групова колона съществува",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Можете да имате една колона за група и една колона за канал. Подкрепете ни, за да го направим неограничено",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Трябва да създадете групи. Щракнете върху „Абонаментни групи“ в лявата странична лента",
+    "Nested groups": "Вложени групи",
+    "Full access to": "Пълен достъп до"
 }
