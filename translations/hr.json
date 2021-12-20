@@ -334,5 +334,18 @@
     "All videos were watched": "Svi videi su pogledani",
     "Full access to community tab with latest posts": "Potpuni pristup kartici zajednice s najnovijim objavama",
     "Flexible configuration for channels status": "Fleksibilna konfiguracija za status kanala",
-    "Add to queue": "Dodaj u red čekanja"
+    "Add to queue": "Dodaj u red čekanja",
+    "Add column": "Dodaj stupac",
+    "Move left": "Pomaknite se lijevo",
+    "Delete column": "Izbriši stupac",
+    "Select channel for the new column": "Odaberite kanal za novi stupac",
+    "Show tutorial video": "Prikaži video tutorial",
+    "Hide watched videos": "Sakrij gledane videozapise",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Možete imati jedan stupac grupe i jedan stupac kanala. Podržite nas da bude neograničeno",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Morate stvoriti grupe. Kliknite na 'Grupe pretplate' na lijevoj bočnoj traci",
+    "Nested groups": "Ugniježđene grupe",
+    "Full access to": "Potpuni pristup",
+    "Group": "Skupina",
+    "Select group for the new column": "Odaberite grupu za novi stupac",
+    "This group column exists": "Ovaj stupac grupe postoji"
 }
