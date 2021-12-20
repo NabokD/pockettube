@@ -334,5 +334,18 @@
     "All videos were watched": "Όλα τα βίντεο παρακολουθήθηκαν",
     "This was not saved. You have to turn on watch history on YouTube": "Αυτό δεν σώθηκε. Πρέπει να ενεργοποιήσετε το ιστορικό παρακολούθησης στο YouTube",
     "Flexible configuration for channels status": "Ευέλικτη διαμόρφωση για την κατάσταση των καναλιών",
-    "Add to queue": "Προσθήκη στην ουρά"
+    "Add to queue": "Προσθήκη στην ουρά",
+    "Add column": "Προσθήκη στήλης",
+    "Group": "Ομάδα",
+    "Move left": "Κινήσου αριστερά",
+    "Select channel for the new column": "Επιλέξτε κανάλι για τη νέα στήλη",
+    "Select group for the new column": "Επιλέξτε ομάδα για τη νέα στήλη",
+    "Show tutorial video": "Εμφάνιση εκπαιδευτικού βίντεο",
+    "Hide watched videos": "Απόκρυψη βίντεο που παρακολουθήσατε",
+    "This group column exists": "Αυτή η στήλη ομάδας υπάρχει",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Μπορείτε να έχετε μία στήλη ομάδας και μία στήλη καναλιού. Υποστηρίξτε μας για να το κάνουμε απεριόριστο",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Πρέπει να δημιουργήσετε ομάδες. Κάντε κλικ στις «Ομάδες συνδρομών» στην αριστερή πλαϊνή γραμμή",
+    "Nested groups": "Ένθετες ομάδες",
+    "Full access to": "Πλήρης πρόσβαση σε",
+    "Delete column": "Διαγραφή στήλης"
 }
