@@ -334,5 +334,18 @@
     "Flexible configuration for channels status": "通道狀態靈活配置",
     "All videos were watched": "所有視頻都看過",
     "Join 1,000+ people who’ve already supported us": "加入 1,000 多名已經支持我們的人",
-    "Add to queue": "加入待播清單"
+    "Add to queue": "加入待播清單",
+    "Add column": "添加列",
+    "Group": "團體",
+    "Move left": "向左移動",
+    "Delete column": "刪除列",
+    "Select channel for the new column": "為新列選擇頻道",
+    "Select group for the new column": "為新列選擇組",
+    "Show tutorial video": "顯示教程視頻",
+    "Hide watched videos": "隱藏觀看的視頻",
+    "You can have one group column and one channel column. Support us to make it unlimited": "您可以有一個組列和一個通道列。支持我們讓它無限",
+    "Nested groups": "嵌套組",
+    "Full access to": "完全訪問",
+    "This group column exists": "此組列存在",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "您必須創建組。單擊左側欄中的“訂閱組”"
 }
