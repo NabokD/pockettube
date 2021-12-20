@@ -334,5 +334,18 @@
     "By signing in, you agree to our": "サインインすると、",
     "This was not saved. You have to turn on watch history on YouTube": "これは保存されませんでした。 YouTubeで視聴履歴をオンにする必要があります",
     "Status for channels on the channels tab": "[チャンネル]タブのチャンネルのステータス",
-    "Add to queue": "キューに追加"
+    "Add to queue": "キューに追加",
+    "Add column": "列を追加",
+    "Group": "グループ",
+    "Delete column": "列を削除",
+    "Select channel for the new column": "新しい列のチャネルを選択します",
+    "Show tutorial video": "チュートリアルビデオを表示する",
+    "You can have one group column and one channel column. Support us to make it unlimited": "1つのグループ列と1つのチャネル列を持つことができます。無制限にするために私たちをサポートしてください",
+    "Nested groups": "ネストされたグループ",
+    "Full access to": "フルアクセス",
+    "Move left": "左に移動",
+    "Select group for the new column": "新しい列のグループを選択します",
+    "Hide watched videos": "視聴した動画を非表示にする",
+    "This group column exists": "このグループ列が存在します",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "グループを作成する必要があります。左側のサイドバーにある[サブスクリプショングループ]をクリックします"
 }
