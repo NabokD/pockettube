@@ -334,5 +334,18 @@
     "Flexible configuration for channels status": "Fleksibel konfigurasjon for kanalstatus",
     "All videos were watched": "Alle videoene ble sett",
     "This was not saved. You have to turn on watch history on YouTube": "Dette ble ikke lagret. Du må slå på seerloggen på YouTube",
-    "Add to queue": "Legg i køen"
+    "Add to queue": "Legg i køen",
+    "Add column": "Legg til kolonne",
+    "Group": "Gruppe",
+    "Move left": "Gå til venstre",
+    "Delete column": "Slett kolonne",
+    "Select group for the new column": "Velg gruppe for den nye kolonnen",
+    "Show tutorial video": "Vis opplæringsvideo",
+    "Hide watched videos": "Skjul videoer du har sett",
+    "You can have one group column and one channel column. Support us to make it unlimited": "Du kan ha én gruppekolonne og én kanalkolonne. Støtt oss for å gjøre det ubegrenset",
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "Du må opprette grupper. Klikk på 'Abonnementsgrupper' i venstre sidefelt",
+    "Nested groups": "Nestede grupper",
+    "Full access to": "Full tilgang til",
+    "Select channel for the new column": "Velg kanal for den nye kolonnen",
+    "This group column exists": "Denne gruppekolonnen eksisterer"
 }
