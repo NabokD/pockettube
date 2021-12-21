@@ -347,5 +347,6 @@
     "Select channel for the new column": "새 열의 채널 선택",
     "This group column exists": "이 그룹 열이 있습니다.",
     "You have to create groups. Click on 'Subscription groups' in the left sidebar": "그룹을 생성해야 합니다. 왼쪽 사이드바에서 '구독 그룹'을 클릭합니다.",
-    "Full access to": "전체 액세스"
+    "Full access to": "전체 액세스",
+    "Show watched videos": "시청한 동영상 표시"
 }
