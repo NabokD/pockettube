@@ -347,5 +347,6 @@
     "Select group for the new column": "新しい列のグループを選択します",
     "Hide watched videos": "視聴した動画を非表示にする",
     "This group column exists": "このグループ列が存在します",
-    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "グループを作成する必要があります。左側のサイドバーにある[サブスクリプショングループ]をクリックします"
+    "You have to create groups. Click on 'Subscription groups' in the left sidebar": "グループを作成する必要があります。左側のサイドバーにある[サブスクリプショングループ]をクリックします",
+    "Show watched videos": "視聴した動画を表示する"
 }
