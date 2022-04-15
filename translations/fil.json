@@ -355,5 +355,14 @@
     "Watched": "Napanood",
     "Exclude": "Ibukod",
     "Hide filter": "Itago ang filter",
-    "Show filter": "Ipakita ang filter"
+    "Show filter": "Ipakita ang filter",
+    "Select playlist type for the new column": "Piliin ang uri ng playlist para sa bagong column",
+    "Watch later": "Panoorin mamaya",
+    "My playlists": "Aking mga playlist",
+    "Channel playlists": "Mga playlist ng channel",
+    "Channel without playlist": "Channel na walang playlist",
+    "Select the channel with playlists for the new column": "Piliin ang channel na may mga playlist para sa bagong column",
+    "Select playlist for the new column": "Pumili ng playlist para sa bagong column",
+    "Removed from playlist": "Inalis sa playlist",
+    "Remove from list": "Alisin sa listahan"
 }
