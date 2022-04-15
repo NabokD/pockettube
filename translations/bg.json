@@ -355,5 +355,14 @@
     "Watched": "Гледах",
     "Exclude": "Изключете",
     "Hide filter": "Скриване на филтъра",
-    "Show filter": "Покажи филтър"
+    "Show filter": "Покажи филтър",
+    "Select playlist type for the new column": "Изберете тип плейлист за новата колона",
+    "Watch later": "Гледай по-късно",
+    "My playlists": "Моите плейлисти",
+    "Channel playlists": "Плейлисти с канали",
+    "Channel without playlist": "Канал без плейлист",
+    "Select the channel with playlists for the new column": "Изберете канала с плейлисти за новата колона",
+    "Select playlist for the new column": "Изберете плейлист за новата колона",
+    "Removed from playlist": "Премахнато от плейлиста",
+    "Remove from list": "Премахни от списъка"
 }
