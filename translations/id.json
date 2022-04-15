@@ -355,5 +355,14 @@
     "Watched": "Ditonton",
     "Exclude": "Mengecualikan",
     "Hide filter": "Sembunyikan filter",
-    "Show filter": "Tampilkan filter"
+    "Show filter": "Tampilkan filter",
+    "Select playlist type for the new column": "Pilih jenis daftar putar untuk kolom baru",
+    "Watch later": "Lihat nanti",
+    "My playlists": "Daftar putar saya",
+    "Channel without playlist": "Saluran tanpa daftar putar",
+    "Select the channel with playlists for the new column": "Pilih saluran dengan daftar putar untuk kolom baru",
+    "Select playlist for the new column": "Pilih daftar putar untuk kolom baru",
+    "Removed from playlist": "Dihapus dari daftar putar",
+    "Remove from list": "Hapus dari daftar",
+    "Channel playlists": "Daftar putar saluran"
 }
