@@ -355,5 +355,14 @@
     "Watched": "Gledao",
     "Exclude": "Isključiti",
     "Hide filter": "Sakrij filtar",
-    "Show filter": "Prikaži filtar"
+    "Show filter": "Prikaži filtar",
+    "Select playlist type for the new column": "Odaberite vrstu popisa za reprodukciju za novi stupac",
+    "Watch later": "Gledajte kasnije",
+    "My playlists": "Moje liste za reprodukciju",
+    "Channel playlists": "Popisi za reprodukciju kanala",
+    "Channel without playlist": "Kanal bez popisa za reprodukciju",
+    "Select playlist for the new column": "Odaberite popis za reprodukciju za novi stupac",
+    "Removed from playlist": "Uklonjeno s popisa za reprodukciju",
+    "Remove from list": "Ukloni s popisa",
+    "Select the channel with playlists for the new column": "Odaberite kanal s popisima za reprodukciju za novi stupac"
 }
