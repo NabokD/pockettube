@@ -355,5 +355,14 @@
     "Watched": "Sledované",
     "Exclude": "Vylúčiť",
     "Hide filter": "Skryť filter",
-    "Show filter": "Zobraziť filter"
+    "Show filter": "Zobraziť filter",
+    "Select playlist type for the new column": "Vyberte typ zoznamu skladieb pre nový stĺpec",
+    "Watch later": "Pozrieť neskôr",
+    "My playlists": "Moje zoznamy skladieb",
+    "Channel playlists": "Zoznamy skladieb kanála",
+    "Channel without playlist": "Kanál bez zoznamu skladieb",
+    "Select the channel with playlists for the new column": "Vyberte kanál so zoznamami skladieb pre nový stĺpec",
+    "Select playlist for the new column": "Vyberte zoznam skladieb pre nový stĺpec",
+    "Removed from playlist": "Odstránené zo zoznamu skladieb",
+    "Remove from list": "Vymazať zo zoznamu"
 }
