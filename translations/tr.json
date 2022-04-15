@@ -355,5 +355,14 @@
     "Watched": "izlendi",
     "Exclude": "Hariç tutmak",
     "Hide filter": "Filtreyi gizle",
-    "Show filter": "Filtreyi göster"
+    "Show filter": "Filtreyi göster",
+    "Select playlist type for the new column": "Yeni sütun için oynatma listesi türünü seçin",
+    "Watch later": "Daha sonra izle",
+    "My playlists": "çalma listelerim",
+    "Channel playlists": "Kanal oynatma listeleri",
+    "Select playlist for the new column": "Yeni sütun için oynatma listesi seçin",
+    "Removed from playlist": "Oynatma listesinden kaldırıldı",
+    "Remove from list": "Listeden silmek",
+    "Channel without playlist": "Oynatma listesi olmayan kanal",
+    "Select the channel with playlists for the new column": "Yeni sütun için oynatma listelerinin olduğu kanalı seçin"
 }
