@@ -355,5 +355,14 @@
     "Watched": "見た",
     "Exclude": "除外する",
     "Hide filter": "フィルタを非表示",
-    "Show filter": "フィルタを表示"
+    "Show filter": "フィルタを表示",
+    "Watch later": "後で見る",
+    "My playlists": "私のプレイリスト",
+    "Channel playlists": "チャンネル再生リスト",
+    "Channel without playlist": "再生リストのないチャンネル",
+    "Select the channel with playlists for the new column": "新しい列の再生リストがあるチャンネルを選択します",
+    "Select playlist for the new column": "新しい列のプレイリストを選択します",
+    "Removed from playlist": "プレイリストから削除",
+    "Remove from list": "リストから削除する",
+    "Select playlist type for the new column": "新しい列のプレイリストタイプを選択します"
 }
