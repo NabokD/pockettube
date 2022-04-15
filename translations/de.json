@@ -355,5 +355,14 @@
     "Watched": "Schaute",
     "Exclude": "Ausschließen",
     "Hide filter": "Filter ausblenden",
-    "Show filter": "Filter anzeigen"
+    "Show filter": "Filter anzeigen",
+    "Select playlist type for the new column": "Wählen Sie den Wiedergabelistentyp für die neue Spalte aus",
+    "Watch later": "Später ansehen",
+    "My playlists": "Meine Wiedergabelisten",
+    "Channel playlists": "Kanal-Playlists",
+    "Channel without playlist": "Kanal ohne Wiedergabeliste",
+    "Select the channel with playlists for the new column": "Wählen Sie den Kanal mit Wiedergabelisten für die neue Spalte aus",
+    "Select playlist for the new column": "Playlist für die neue Spalte auswählen",
+    "Removed from playlist": "Aus Playlist entfernt",
+    "Remove from list": "Aus Liste entfernen"
 }
