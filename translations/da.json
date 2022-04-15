@@ -355,5 +355,14 @@
     "Watched": "Så",
     "Exclude": "Udelukke",
     "Hide filter": "Skjul filter",
-    "Show filter": "Vis filter"
+    "Show filter": "Vis filter",
+    "Select playlist type for the new column": "Vælg afspilningslistetype for den nye kolonne",
+    "Watch later": "Se senere",
+    "My playlists": "Mine afspilningslister",
+    "Channel playlists": "Kanalafspilningslister",
+    "Channel without playlist": "Kanal uden afspilningsliste",
+    "Select the channel with playlists for the new column": "Vælg kanalen med afspilningslister til den nye kolonne",
+    "Select playlist for the new column": "Vælg afspilningsliste til den nye kolonne",
+    "Removed from playlist": "Fjernet fra afspilningslisten",
+    "Remove from list": "Fjern fra listen"
 }
