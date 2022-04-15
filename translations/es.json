@@ -355,5 +355,14 @@
     "Watched": "Observó",
     "Exclude": "Excluir",
     "Hide filter": "Ocultar filtro",
-    "Show filter": "Mostrar filtro"
+    "Show filter": "Mostrar filtro",
+    "Watch later": "Ver despues",
+    "My playlists": "mis listas de reproducción",
+    "Channel playlists": "Listas de reproducción de canales",
+    "Channel without playlist": "Canal sin lista de reproducción",
+    "Removed from playlist": "Eliminado de la lista de reproducción",
+    "Remove from list": "Quitar de la lista",
+    "Select playlist type for the new column": "Seleccione el tipo de lista de reproducción para la nueva columna",
+    "Select the channel with playlists for the new column": "Seleccione el canal con listas de reproducción para la nueva columna",
+    "Select playlist for the new column": "Seleccionar lista de reproducción para la nueva columna"
 }
