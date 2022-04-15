@@ -355,5 +355,14 @@
     "Watched": "Regardé",
     "Exclude": "Exclure",
     "Hide filter": "Masquer le filtre",
-    "Show filter": "Afficher le filtre"
+    "Show filter": "Afficher le filtre",
+    "Select playlist type for the new column": "Sélectionnez le type de liste de lecture pour la nouvelle colonne",
+    "Watch later": "Regarder plus tard",
+    "My playlists": "Mes listes de lecture",
+    "Channel playlists": "Listes de lecture des chaînes",
+    "Channel without playlist": "Chaîne sans playlist",
+    "Select playlist for the new column": "Sélectionnez la liste de lecture pour la nouvelle colonne",
+    "Removed from playlist": "Supprimé de la liste de lecture",
+    "Remove from list": "Retirer de la liste",
+    "Select the channel with playlists for the new column": "Sélectionnez la chaîne avec des listes de lecture pour la nouvelle colonne"
 }
