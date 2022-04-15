@@ -355,5 +355,14 @@
     "Watched": "Gekeken",
     "Exclude": "Uitsluiten",
     "Hide filter": "Verberg filter",
-    "Show filter": "Toon filter"
+    "Show filter": "Toon filter",
+    "Watch later": "Later kijken",
+    "My playlists": "Mijn afspeellijsten",
+    "Channel without playlist": "Kanaal zonder afspeellijst",
+    "Select the channel with playlists for the new column": "Selecteer het kanaal met afspeellijsten voor de nieuwe kolom",
+    "Select playlist for the new column": "Selecteer afspeellijst voor de nieuwe kolom",
+    "Removed from playlist": "Verwijderd uit afspeellijst",
+    "Remove from list": "Verwijder van Lijst",
+    "Select playlist type for the new column": "Selecteer afspeellijsttype voor de nieuwe kolom",
+    "Channel playlists": "Kanaalafspeellijsten"
 }
