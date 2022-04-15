@@ -355,5 +355,14 @@
     "Watched": "Privit",
     "Exclude": "Exclude",
     "Hide filter": "Ascunde filtrul",
-    "Show filter": "Afișează filtrul"
+    "Show filter": "Afișează filtrul",
+    "Watch later": "Urmăriți mai târziu",
+    "My playlists": "Listele mele de redare",
+    "Channel without playlist": "Canal fără playlist",
+    "Select the channel with playlists for the new column": "Selectați canalul cu liste de redare pentru noua coloană",
+    "Select playlist for the new column": "Selectați lista de redare pentru noua coloană",
+    "Remove from list": "Sterge din lista",
+    "Select playlist type for the new column": "Selectați tipul listei de redare pentru noua coloană",
+    "Channel playlists": "Liste de redare ale canalelor",
+    "Removed from playlist": "Eliminat din lista de redare"
 }
