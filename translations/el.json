@@ -355,5 +355,14 @@
     "Watched": "Παρακολούθησα",
     "Exclude": "Αποκλείω",
     "Hide filter": "Απόκρυψη φίλτρου",
-    "Show filter": "Εμφάνιση φίλτρου"
+    "Show filter": "Εμφάνιση φίλτρου",
+    "Select playlist type for the new column": "Επιλέξτε τύπο λίστας αναπαραγωγής για τη νέα στήλη",
+    "Watch later": "Παρακολουθήστε αργότερα",
+    "My playlists": "Οι λίστες αναπαραγωγής μου",
+    "Channel playlists": "Λίστες αναπαραγωγής καναλιών",
+    "Channel without playlist": "Κανάλι χωρίς playlist",
+    "Select playlist for the new column": "Επιλέξτε playlist για τη νέα στήλη",
+    "Removed from playlist": "Καταργήθηκε από τη λίστα αναπαραγωγής",
+    "Select the channel with playlists for the new column": "Επιλέξτε το κανάλι με λίστες αναπαραγωγής για τη νέα στήλη",
+    "Remove from list": "Αφαίρεση από τη λίστα"
 }
