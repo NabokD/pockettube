@@ -355,5 +355,14 @@
     "Watched": "Watched",
     "Exclude": "Exclude",
     "Hide filter": "Hide filter",
-    "Show filter": "Show filter"
+    "Show filter": "Show filter",
+    "Select playlist type for the new column": "Select playlist type for the new column",
+    "Watch later": "Watch later",
+    "My playlists": "My playlists",
+    "Channel playlists": "Channel playlists",
+    "Channel without playlist": "Channel without playlist",
+    "Select the channel with playlists for the new column": "Select the channel with playlists for the new column",
+    "Select playlist for the new column": "Select playlist for the new column",
+    "Removed from playlist": "Removed from playlist",
+    "Remove from list": "Remove from list"
 }
