@@ -356,5 +356,14 @@
     "Watched": "Просмотрено",
     "Exclude": "Исключить",
     "Hide filter": "Скрыть фильтр",
-    "Show filter": "Показать фильтр"
+    "Show filter": "Показать фильтр",
+    "Select playlist type for the new column": "Выберите тип плейлиста для нового столбца",
+    "Watch later": "Посмотреть позже",
+    "My playlists": "Мои плейлисты",
+    "Channel without playlist": "Канал без плейлиста",
+    "Select the channel with playlists for the new column": "Выберите канал с плейлистами для новой колонки",
+    "Select playlist for the new column": "Выберите плейлист для нового столбца",
+    "Remove from list": "Убрать из списка",
+    "Channel playlists": "Плейлисты канала",
+    "Removed from playlist": "Удалено из плейлиста"
 }
