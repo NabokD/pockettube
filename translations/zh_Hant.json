@@ -355,5 +355,14 @@
     "Watched": "已觀看",
     "Exclude": "排除",
     "Hide filter": "隱藏過濾器",
-    "Show filter": "顯示過濾器"
+    "Show filter": "顯示過濾器",
+    "Select playlist type for the new column": "為新列選擇播放列表類型",
+    "Watch later": "稍後觀看",
+    "My playlists": "我的播放列表",
+    "Channel playlists": "頻道播放列表",
+    "Channel without playlist": "沒有播放列表的頻道",
+    "Select the channel with playlists for the new column": "為新列選擇帶有播放列表的頻道",
+    "Select playlist for the new column": "選擇新列的播放列表",
+    "Removed from playlist": "從播放列表中刪除",
+    "Remove from list": "從列表中刪除"
 }
