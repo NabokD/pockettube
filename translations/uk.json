@@ -356,5 +356,14 @@
     "Watched": "Переглянуто",
     "Exclude": "Виключити",
     "Hide filter": "Приховати фільтр",
-    "Show filter": "Показати фільтр"
+    "Show filter": "Показати фільтр",
+    "My playlists": "Мої списки відтворення",
+    "Channel playlists": "Списки відтворення каналу",
+    "Select the channel with playlists for the new column": "Виберіть канал зі списками відтворення для нового стовпця",
+    "Select playlist for the new column": "Виберіть список відтворення для нового стовпця",
+    "Removed from playlist": "Видалено зі списку відтворення",
+    "Remove from list": "Видалити зі списку",
+    "Select playlist type for the new column": "Виберіть тип списку відтворення для нового стовпця",
+    "Watch later": "Переглянути пізніше",
+    "Channel without playlist": "Канал без списку відтворення"
 }
