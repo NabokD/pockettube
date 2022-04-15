@@ -355,5 +355,14 @@
     "Watched": "보았다",
     "Exclude": "들어오지 못하게 하다",
     "Hide filter": "필터 숨기기",
-    "Show filter": "필터 표시"
+    "Show filter": "필터 표시",
+    "Select playlist type for the new column": "새 열의 재생 목록 유형 선택",
+    "My playlists": "내 재생 목록",
+    "Channel playlists": "채널 재생목록",
+    "Select the channel with playlists for the new column": "새 열에 대한 재생 목록이 있는 채널 선택",
+    "Select playlist for the new column": "새 열의 재생 목록 선택",
+    "Removed from playlist": "재생목록에서 삭제됨",
+    "Remove from list": "목록에서 제거하다",
+    "Watch later": "나중에 보기",
+    "Channel without playlist": "재생목록이 없는 채널"
 }
