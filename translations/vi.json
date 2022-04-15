@@ -355,5 +355,14 @@
     "Watched": "Đã xem",
     "Exclude": "Loại trừ",
     "Hide filter": "Ẩn bộ lọc",
-    "Show filter": "Hiển thị bộ lọc"
+    "Show filter": "Hiển thị bộ lọc",
+    "Select playlist type for the new column": "Chọn loại danh sách phát cho cột mới",
+    "Watch later": "Xem sau",
+    "My playlists": "Danh sách phát của tôi",
+    "Channel playlists": "Danh sách phát kênh",
+    "Channel without playlist": "Kênh không có danh sách phát",
+    "Select the channel with playlists for the new column": "Chọn kênh có danh sách phát cho cột mới",
+    "Select playlist for the new column": "Chọn danh sách phát cho cột mới",
+    "Removed from playlist": "Đã xóa khỏi danh sách phát",
+    "Remove from list": "Xóa từ danh sách"
 }
