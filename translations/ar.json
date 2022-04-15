@@ -355,5 +355,14 @@
     "Watched": "شاهد",
     "Exclude": "استبعاد",
     "Hide filter": "إخفاء عامل التصفية",
-    "Show filter": "عرض عامل التصفية"
+    "Show filter": "عرض عامل التصفية",
+    "Select playlist type for the new column": "حدد نوع قائمة التشغيل للعمود الجديد",
+    "Watch later": "سأشاهده لاحقا",
+    "My playlists": "قوائم التشغيل الخاصة بي",
+    "Channel playlists": "قوائم تشغيل القناة",
+    "Select playlist for the new column": "حدد قائمة التشغيل للعمود الجديد",
+    "Removed from playlist": "تمت إزالته من قائمة التشغيل",
+    "Remove from list": "ازله من القائمة",
+    "Channel without playlist": "قناة بدون قائمة تشغيل",
+    "Select the channel with playlists for the new column": "حدد القناة مع قوائم التشغيل للعمود الجديد"
 }
