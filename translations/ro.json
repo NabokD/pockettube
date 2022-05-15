@@ -365,5 +365,12 @@
     "Select playlist type for the new column": "Selectați tipul listei de redare pentru noua coloană",
     "Channel playlists": "Liste de redare ale canalelor",
     "Removed from playlist": "Eliminat din lista de redare",
-    "The popup window has been opened": "Fereastra pop-up a fost deschisă"
+    "The popup window has been opened": "Fereastra pop-up a fost deschisă",
+    "Channel Playlists": "Liste de redare ale canalelor",
+    "My Playlists": "Listele mele de redare",
+    "Delete playlist": "Șterge lista de redare",
+    "Filter by type": "Filtrați după tip",
+    "Are you sure you want to delete this item?": "Sigur doriți să ștergeți acest articol?",
+    "Mix": "Mixaj",
+    "Delete playlists": "Șterge listele de redare"
 }
