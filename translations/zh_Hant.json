@@ -365,5 +365,12 @@
     "Select playlist for the new column": "選擇新列的播放列表",
     "Removed from playlist": "從播放列表中刪除",
     "Remove from list": "從列表中刪除",
-    "The popup window has been opened": "彈出窗口已打開"
+    "The popup window has been opened": "彈出窗口已打開",
+    "Channel Playlists": "頻道播放列表",
+    "My Playlists": "我的播放列表",
+    "Delete playlist": "刪除播放列表",
+    "Filter by type": "按類型過濾",
+    "Are you sure you want to delete this item?": "你確定要刪除這個項目嗎？",
+    "Mix": "合輯",
+    "Delete playlists": "刪除播放列表"
 }
