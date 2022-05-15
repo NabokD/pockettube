@@ -366,5 +366,12 @@
     "Remove from list": "Убрать из списка",
     "Channel playlists": "Плейлисты канала",
     "Removed from playlist": "Удалено из плейлиста",
-    "The popup window has been opened": "Всплывающее окно было открыто"
+    "The popup window has been opened": "Всплывающее окно было открыто",
+    "Channel Playlists": "Плейлисты каналов",
+    "My Playlists": "Мои плейлисты",
+    "Delete playlist": "Удалить плейлист",
+    "Filter by type": "Фильтровать по типу",
+    "Are you sure you want to delete this item?": "Вы уверены, что хотите удалить этот элемент?",
+    "Mix": "Микс",
+    "Delete playlists": "Удалить плейлисты"
 }
