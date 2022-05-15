@@ -365,5 +365,12 @@
     "Select playlist for the new column": "Изберете плейлист за новата колона",
     "Removed from playlist": "Премахнато от плейлиста",
     "Remove from list": "Премахни от списъка",
-    "The popup window has been opened": "Изскачащият прозорец е отворен"
+    "The popup window has been opened": "Изскачащият прозорец е отворен",
+    "My Playlists": "Моите плейлисти",
+    "Mix": "Микс",
+    "Channel Playlists": "Плейлисти с канали",
+    "Delete playlist": "Изтриване на плейлист",
+    "Filter by type": "Филтрирайте по тип",
+    "Are you sure you want to delete this item?": "Наистина ли искате да изтриете този елемент?",
+    "Delete playlists": "Изтриване на плейлисти"
 }
