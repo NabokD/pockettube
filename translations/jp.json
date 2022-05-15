@@ -365,5 +365,12 @@
     "Removed from playlist": "プレイリストから削除",
     "Remove from list": "リストから削除する",
     "Select playlist type for the new column": "新しい列のプレイリストタイプを選択します",
-    "The popup window has been opened": "ポップアップウィンドウが開きました"
+    "The popup window has been opened": "ポップアップウィンドウが開きました",
+    "Channel Playlists": "チャンネル再生リスト",
+    "My Playlists": "マイプレイリスト",
+    "Filter by type": "タイプでフィルタリング",
+    "Are you sure you want to delete this item?": "このアイテムを削除してもよろしいですか？",
+    "Mix": "ミックスリスト",
+    "Delete playlists": "プレイリストを削除する",
+    "Delete playlist": "プレイリストを削除する"
 }
