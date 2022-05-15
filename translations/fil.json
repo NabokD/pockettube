@@ -365,5 +365,12 @@
     "Select playlist for the new column": "Pumili ng playlist para sa bagong column",
     "Removed from playlist": "Inalis sa playlist",
     "Remove from list": "Alisin sa listahan",
-    "The popup window has been opened": "Ang popup window ay binuksan"
+    "The popup window has been opened": "Ang popup window ay binuksan",
+    "Channel Playlists": "Mga Playlist ng Channel",
+    "My Playlists": "Aking Mga Playlist",
+    "Filter by type": "I-filter ayon sa uri",
+    "Are you sure you want to delete this item?": "Sigurado ka bang gusto mong tanggalin ang item na ito?",
+    "Mix": "Mix",
+    "Delete playlists": "Tanggalin ang mga playlist",
+    "Delete playlist": "Tanggalin ang playlist"
 }
