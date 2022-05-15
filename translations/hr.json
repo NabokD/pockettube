@@ -365,5 +365,12 @@
     "Removed from playlist": "Uklonjeno s popisa za reprodukciju",
     "Remove from list": "Ukloni s popisa",
     "Select the channel with playlists for the new column": "Odaberite kanal s popisima za reprodukciju za novi stupac",
-    "The popup window has been opened": "Skočni prozor je otvoren"
+    "The popup window has been opened": "Skočni prozor je otvoren",
+    "Channel Playlists": "Popisi za reprodukciju kanala",
+    "My Playlists": "Moji popisi za reprodukciju",
+    "Delete playlist": "Izbriši popis za reprodukciju",
+    "Filter by type": "Filtrirajte prema vrsti",
+    "Are you sure you want to delete this item?": "Jeste li sigurni da želite izbrisati ovu stavku?",
+    "Mix": "Miks",
+    "Delete playlists": "Izbriši popise za reprodukciju"
 }
