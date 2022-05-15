@@ -365,5 +365,12 @@
     "Remove from list": "Rimuovere dalla lista",
     "Select the channel with playlists for the new column": "Seleziona il canale con le playlist per la nuova colonna",
     "Removed from playlist": "Rimosso dalla playlist",
-    "The popup window has been opened": "La finestra popup è stata aperta"
+    "The popup window has been opened": "La finestra popup è stata aperta",
+    "Channel Playlists": "Playlist dei canali",
+    "My Playlists": "Le mie playlist",
+    "Delete playlist": "Elimina playlist",
+    "Filter by type": "Filtra per tipo",
+    "Are you sure you want to delete this item?": "Sei sicuro di voler eliminare questo articolo?",
+    "Mix": "Mix",
+    "Delete playlists": "Elimina playlist"
 }
