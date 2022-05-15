@@ -365,5 +365,12 @@
     "Removed from playlist": "Καταργήθηκε από τη λίστα αναπαραγωγής",
     "Select the channel with playlists for the new column": "Επιλέξτε το κανάλι με λίστες αναπαραγωγής για τη νέα στήλη",
     "Remove from list": "Αφαίρεση από τη λίστα",
-    "The popup window has been opened": "Το αναδυόμενο παράθυρο έχει ανοίξει"
+    "The popup window has been opened": "Το αναδυόμενο παράθυρο έχει ανοίξει",
+    "My Playlists": "Οι λίστες αναπαραγωγής μου",
+    "Delete playlist": "Διαγραφή λίστας αναπαραγωγής",
+    "Filter by type": "Φιλτράρισμα ανά τύπο",
+    "Are you sure you want to delete this item?": "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το στοιχείο;",
+    "Mix": "Μίξη",
+    "Delete playlists": "Διαγραφή λιστών αναπαραγωγής",
+    "Channel Playlists": "Λίστες αναπαραγωγής καναλιών"
 }
