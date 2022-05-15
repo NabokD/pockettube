@@ -366,5 +366,12 @@
     "Select playlist type for the new column": "Виберіть тип списку відтворення для нового стовпця",
     "Watch later": "Переглянути пізніше",
     "Channel without playlist": "Канал без списку відтворення",
-    "The popup window has been opened": "Спливаюче вікно було відкрито"
+    "The popup window has been opened": "Спливаюче вікно було відкрито",
+    "Channel Playlists": "Списки відтворення каналу",
+    "My Playlists": "Мої списки відтворення",
+    "Delete playlist": "Видалити список відтворення",
+    "Filter by type": "Фільтр за типом",
+    "Are you sure you want to delete this item?": "Ви впевнені, що хочете видалити цей елемент?",
+    "Mix": "Добірка",
+    "Delete playlists": "Видалити списки відтворення"
 }
