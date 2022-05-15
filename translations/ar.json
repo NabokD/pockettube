@@ -365,5 +365,12 @@
     "Remove from list": "ازله من القائمة",
     "Channel without playlist": "قناة بدون قائمة تشغيل",
     "Select the channel with playlists for the new column": "حدد القناة مع قوائم التشغيل للعمود الجديد",
-    "The popup window has been opened": "تم فتح النافذة المنبثقة"
+    "The popup window has been opened": "تم فتح النافذة المنبثقة",
+    "Channel Playlists": "قوائم تشغيل القناة",
+    "Delete playlist": "حذف قائمة التشغيل",
+    "Filter by type": "تصفية حسب النوع",
+    "Are you sure you want to delete this item?": "هل أنت متأكد أنك تريد حذف هذا البند؟",
+    "Mix": "تشكيلة",
+    "Delete playlists": "حذف قوائم التشغيل",
+    "My Playlists": "قوائم التشغيل الخاصة بي"
 }
