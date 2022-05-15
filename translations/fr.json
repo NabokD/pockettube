@@ -365,5 +365,12 @@
     "Removed from playlist": "Supprimé de la liste de lecture",
     "Remove from list": "Retirer de la liste",
     "Select the channel with playlists for the new column": "Sélectionnez la chaîne avec des listes de lecture pour la nouvelle colonne",
-    "The popup window has been opened": "La fenêtre popup a été ouverte"
+    "The popup window has been opened": "La fenêtre popup a été ouverte",
+    "Channel Playlists": "Listes de lecture des chaînes",
+    "My Playlists": "Mes listes de lecture",
+    "Delete playlist": "Supprimer la liste de lecture",
+    "Filter by type": "Filtrer par type",
+    "Are you sure you want to delete this item?": "Êtes-vous sûr de bien vouloir supprimer cet élément?",
+    "Mix": "Mix",
+    "Delete playlists": "Supprimer des listes de lecture"
 }
