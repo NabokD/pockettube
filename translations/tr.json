@@ -365,5 +365,12 @@
     "Remove from list": "Listeden silmek",
     "Channel without playlist": "Oynatma listesi olmayan kanal",
     "Select the channel with playlists for the new column": "Yeni sütun için oynatma listelerinin olduğu kanalı seçin",
-    "The popup window has been opened": "Açılır pencere açıldı"
+    "The popup window has been opened": "Açılır pencere açıldı",
+    "My Playlists": "Oynatma Listelerim",
+    "Delete playlist": "Oynatma listesini sil",
+    "Filter by type": "Türe göre filtrele",
+    "Are you sure you want to delete this item?": "Bu öğeyi silmek istediğinizden emin misiniz?",
+    "Mix": "Mix",
+    "Delete playlists": "Oynatma listelerini sil",
+    "Channel Playlists": "Kanal Oynatma Listeleri"
 }
