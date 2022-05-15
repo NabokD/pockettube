@@ -365,5 +365,12 @@
     "Select playlist for the new column": "Chọn danh sách phát cho cột mới",
     "Removed from playlist": "Đã xóa khỏi danh sách phát",
     "Remove from list": "Xóa từ danh sách",
-    "The popup window has been opened": "Cửa sổ bật lên đã được mở"
+    "The popup window has been opened": "Cửa sổ bật lên đã được mở",
+    "Channel Playlists": "Danh sách phát kênh",
+    "My Playlists": "Danh sách phát của tôi",
+    "Delete playlist": "Xóa danh sách phát",
+    "Filter by type": "Lọc theo loại",
+    "Are you sure you want to delete this item?": "bạn có chắc bạn muốn xóa mục này?",
+    "Mix": "Tổng hợp",
+    "Delete playlists": "Xóa danh sách phát"
 }
