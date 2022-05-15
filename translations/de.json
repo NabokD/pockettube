@@ -365,5 +365,12 @@
     "Select playlist for the new column": "Playlist für die neue Spalte auswählen",
     "Removed from playlist": "Aus Playlist entfernt",
     "Remove from list": "Aus Liste entfernen",
-    "The popup window has been opened": "Das Popup-Fenster wurde geöffnet"
+    "The popup window has been opened": "Das Popup-Fenster wurde geöffnet",
+    "Channel Playlists": "Kanal-Playlists",
+    "My Playlists": "Meine Playlisten",
+    "Delete playlist": "Wiedergabeliste löschen",
+    "Mix": "Mix",
+    "Delete playlists": "Wiedergabelisten löschen",
+    "Filter by type": "Filtern Sie nach Typ",
+    "Are you sure you want to delete this item?": "Möchten Sie dieses Element wirklich löschen?"
 }
