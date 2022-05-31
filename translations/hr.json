@@ -372,5 +372,9 @@
     "Filter by type": "Filtrirajte prema vrsti",
     "Are you sure you want to delete this item?": "Jeste li sigurni da želite izbrisati ovu stavku?",
     "Mix": "Miks",
-    "Delete playlists": "Izbriši popise za reprodukciju"
+    "Delete playlists": "Izbriši popise za reprodukciju",
+    "Save to playlist": "Spremi na popis za reprodukciju",
+    "Unlimited filter by videos time in the playlist": "Neograničeno filtriranje prema vremenu videozapisa na popisu za reprodukciju",
+    "Batch selection for Save to Playlist": "Skupni odabir za spremanje na popis za reprodukciju",
+    "Batch selection for Mark as Watched": "Skupni odabir za Označi kao gledano"
 }
