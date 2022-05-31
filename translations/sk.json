@@ -372,5 +372,9 @@
     "Filter by type": "Filtrujte podľa typu",
     "Are you sure you want to delete this item?": "Naozaj chcete odstrániť túto položku?",
     "Mix": "Mix",
-    "Delete playlists": "Odstrániť zoznamy skladieb"
+    "Delete playlists": "Odstrániť zoznamy skladieb",
+    "Save to playlist": "Uložiť do zoznamu",
+    "Unlimited filter by videos time in the playlist": "Neobmedzené filtrovanie podľa času videí v zozname videí",
+    "Batch selection for Save to Playlist": "Dávkový výber pre Uložiť do zoznamu skladieb",
+    "Batch selection for Mark as Watched": "Dávkový výber pre Označiť ako sledované"
 }
