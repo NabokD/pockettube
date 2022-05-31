@@ -372,5 +372,9 @@
     "Are you sure you want to delete this item?": "このアイテムを削除してもよろしいですか？",
     "Mix": "ミックスリスト",
     "Delete playlists": "プレイリストを削除する",
-    "Delete playlist": "プレイリストを削除する"
+    "Delete playlist": "プレイリストを削除する",
+    "Save to playlist": "再生リストに保存",
+    "Batch selection for Mark as Watched": "監視対象としてマークのバッチ選択",
+    "Unlimited filter by videos time in the playlist": "プレイリスト内の動画時間による無制限のフィルター",
+    "Batch selection for Save to Playlist": "プレイリストに保存のバッチ選択"
 }
