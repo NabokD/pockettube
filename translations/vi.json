@@ -372,5 +372,9 @@
     "Filter by type": "Lọc theo loại",
     "Are you sure you want to delete this item?": "bạn có chắc bạn muốn xóa mục này?",
     "Mix": "Tổng hợp",
-    "Delete playlists": "Xóa danh sách phát"
+    "Delete playlists": "Xóa danh sách phát",
+    "Unlimited filter by videos time in the playlist": "Bộ lọc không giới hạn theo thời lượng video trong danh sách phát",
+    "Batch selection for Save to Playlist": "Lựa chọn hàng loạt cho Lưu vào danh sách phát",
+    "Batch selection for Mark as Watched": "Lựa chọn hàng loạt cho Đánh dấu là đã xem",
+    "Save to playlist": "Lưu vào danh sách phát"
 }
