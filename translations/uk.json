@@ -373,5 +373,9 @@
     "Filter by type": "Фільтр за типом",
     "Are you sure you want to delete this item?": "Ви впевнені, що хочете видалити цей елемент?",
     "Mix": "Добірка",
-    "Delete playlists": "Видалити списки відтворення"
+    "Delete playlists": "Видалити списки відтворення",
+    "Unlimited filter by videos time in the playlist": "Необмежений фільтр за часом відео в списку відтворення",
+    "Batch selection for Save to Playlist": "Пакетний вибір для збереження в списку відтворення",
+    "Batch selection for Mark as Watched": "Пакетний вибір для Позначити як переглянуто",
+    "Save to playlist": "Зберегти в списку відтворення"
 }
