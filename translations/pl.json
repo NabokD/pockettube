@@ -372,5 +372,9 @@
     "Filter by type": "Filtruj według typu",
     "Are you sure you want to delete this item?": "Czy na pewno chcesz usunąć ten element?",
     "Mix": "Składanka",
-    "Delete playlists": "Usuń listy odtwarzania"
+    "Delete playlists": "Usuń listy odtwarzania",
+    "Unlimited filter by videos time in the playlist": "Nieograniczone filtrowanie według czasu filmów na liście odtwarzania",
+    "Batch selection for Save to Playlist": "Wybór partii dla Zapisz do listy odtwarzania",
+    "Batch selection for Mark as Watched": "Wybór partii dla oznaczenia jako obserwowany",
+    "Save to playlist": "Zapisz na playliście"
 }
