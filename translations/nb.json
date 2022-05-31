@@ -372,5 +372,9 @@
     "Are you sure you want to delete this item?": "Er du sikker på at du vil slette dette elementet?",
     "Mix": "Miks",
     "Delete playlists": "Slett spillelister",
-    "Channel Playlists": "Kanalspillelister"
+    "Channel Playlists": "Kanalspillelister",
+    "Save to playlist": "Lagre i spilleliste",
+    "Unlimited filter by videos time in the playlist": "Ubegrenset filtrering etter videoens tid i spillelisten",
+    "Batch selection for Save to Playlist": "Batchvalg for Lagre til spilleliste",
+    "Batch selection for Mark as Watched": "Batchvalg for Merk som sett"
 }
