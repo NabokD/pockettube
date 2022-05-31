@@ -372,5 +372,9 @@
     "Filter by type": "Filtrer efter type",
     "Are you sure you want to delete this item?": "Er du sikker på, at du vil slette dette element?",
     "Mix": "Mix",
-    "Delete playlists": "Slet afspilningslister"
+    "Delete playlists": "Slet afspilningslister",
+    "Save to playlist": "Gem på playliste",
+    "Unlimited filter by videos time in the playlist": "Ubegrænset filtrering efter videoens tid på afspilningslisten",
+    "Batch selection for Save to Playlist": "Batchvalg for Gem til afspilningsliste",
+    "Batch selection for Mark as Watched": "Batchvalg for Marker som overvåget"
 }
