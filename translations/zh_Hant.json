@@ -372,5 +372,9 @@
     "Filter by type": "按類型過濾",
     "Are you sure you want to delete this item?": "你確定要刪除這個項目嗎？",
     "Mix": "合輯",
-    "Delete playlists": "刪除播放列表"
+    "Delete playlists": "刪除播放列表",
+    "Unlimited filter by videos time in the playlist": "按播放列表中的視頻時間無限過濾",
+    "Batch selection for Mark as Watched": "標記為已觀看的批次選擇",
+    "Batch selection for Save to Playlist": "批量選擇保存到播放列表",
+    "Save to playlist": "儲存至播放清單"
 }
