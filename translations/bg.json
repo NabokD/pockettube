@@ -372,5 +372,9 @@
     "Delete playlist": "Изтриване на плейлист",
     "Filter by type": "Филтрирайте по тип",
     "Are you sure you want to delete this item?": "Наистина ли искате да изтриете този елемент?",
-    "Delete playlists": "Изтриване на плейлисти"
+    "Delete playlists": "Изтриване на плейлисти",
+    "Save to playlist": "Запазване в плейлист",
+    "Unlimited filter by videos time in the playlist": "Неограничен филтриране по време на видеоклипове в плейлиста",
+    "Batch selection for Mark as Watched": "Избор на партида за Маркиране като гледан",
+    "Batch selection for Save to Playlist": "Пакетен избор за запазване в плейлист"
 }
