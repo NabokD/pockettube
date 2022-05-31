@@ -372,5 +372,9 @@
     "Are you sure you want to delete this item?": "Sigurado ka bang gusto mong tanggalin ang item na ito?",
     "Mix": "Mix",
     "Delete playlists": "Tanggalin ang mga playlist",
-    "Delete playlist": "Tanggalin ang playlist"
+    "Delete playlist": "Tanggalin ang playlist",
+    "Save to playlist": "I-save sa playlist",
+    "Unlimited filter by videos time in the playlist": "Walang limitasyong filter ayon sa oras ng mga video sa playlist",
+    "Batch selection for Save to Playlist": "Batch na pagpili para sa I-save sa Playlist",
+    "Batch selection for Mark as Watched": "Batch na seleksyon para sa Markahan bilang Napanood"
 }
