@@ -372,5 +372,9 @@
     "Are you sure you want to delete this item?": "¿Está seguro de que desea eliminar este elemento?",
     "Mix": "Mix",
     "Delete playlists": "Eliminar listas de reproducción",
-    "Delete playlist": "Eliminar lista de reproducción"
+    "Delete playlist": "Eliminar lista de reproducción",
+    "Save to playlist": "Guardar en una lista de reproducción",
+    "Batch selection for Save to Playlist": "Selección por lotes para Guardar en lista de reproducción",
+    "Unlimited filter by videos time in the playlist": "Filtro ilimitado por tiempo de videos en la lista de reproducción",
+    "Batch selection for Mark as Watched": "Selección por lotes para Marcar como visto"
 }
