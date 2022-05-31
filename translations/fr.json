@@ -372,5 +372,9 @@
     "Filter by type": "Filtrer par type",
     "Are you sure you want to delete this item?": "Êtes-vous sûr de bien vouloir supprimer cet élément?",
     "Mix": "Mix",
-    "Delete playlists": "Supprimer des listes de lecture"
+    "Delete playlists": "Supprimer des listes de lecture",
+    "Save to playlist": "Enregistrer dans une playlist",
+    "Unlimited filter by videos time in the playlist": "Filtre illimité par temps de vidéos dans la playlist",
+    "Batch selection for Save to Playlist": "Sélection par lots pour enregistrer dans la liste de lecture",
+    "Batch selection for Mark as Watched": "Sélection de lots pour Marquer comme surveillé"
 }
