@@ -19,7 +19,6 @@ Since PocketTube is not fully open-source, this repository serves as a place for
 
 ### Where You Can Find Us:
 - :envelope: hello@yousub.info
-- :thumbsup: [facebook.com/YoutubeSubM](//facebook.com/YoutubeSubM)
 - :bird: [twitter.com/YoutubeSubM](//twitter.com/YoutubeSubM)
 - :orange_book: [reddit.com/r/pockettube](//www.reddit.com/r/pockettube)
 - :tada: [yousub.info](//yousub.info)
