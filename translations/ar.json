@@ -376,5 +376,6 @@
     "Save to playlist": "حفظ في قائمة تشغيل",
     "Batch selection for Save to Playlist": "اختيار الدفعة للحفظ في قائمة التشغيل",
     "Unlimited filter by videos time in the playlist": "تصفية غير محدودة حسب وقت مقاطع الفيديو في قائمة التشغيل",
-    "Batch selection for Mark as Watched": "اختيار الدفعة لوضع علامة كمراقب"
+    "Batch selection for Mark as Watched": "اختيار الدفعة لوضع علامة كمراقب",
+    "Filters": "الفلاتر"
 }
