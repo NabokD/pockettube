@@ -376,5 +376,6 @@
     "Save to playlist": "Lagre i spilleliste",
     "Unlimited filter by videos time in the playlist": "Ubegrenset filtrering etter videoens tid i spillelisten",
     "Batch selection for Save to Playlist": "Batchvalg for Lagre til spilleliste",
-    "Batch selection for Mark as Watched": "Batchvalg for Merk som sett"
+    "Batch selection for Mark as Watched": "Batchvalg for Merk som sett",
+    "Filters": "Filtre"
 }
