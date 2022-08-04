@@ -376,5 +376,6 @@
     "Unlimited filter by videos time in the playlist": "按播放列表中的視頻時間無限過濾",
     "Batch selection for Mark as Watched": "標記為已觀看的批次選擇",
     "Batch selection for Save to Playlist": "批量選擇保存到播放列表",
-    "Save to playlist": "儲存至播放清單"
+    "Save to playlist": "儲存至播放清單",
+    "Filters": "篩選器"
 }
