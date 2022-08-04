@@ -376,5 +376,6 @@
     "Save to playlist": "Oynatma listesine kaydet",
     "Unlimited filter by videos time in the playlist": "Oynatma listesindeki video süresine göre sınırsız filtre",
     "Batch selection for Save to Playlist": "Oynatma Listesine Kaydet için toplu seçim",
-    "Batch selection for Mark as Watched": "İzlendi Olarak İşaretle için toplu seçim"
+    "Batch selection for Mark as Watched": "İzlendi Olarak İşaretle için toplu seçim",
+    "Filters": "Filtreler"
 }
