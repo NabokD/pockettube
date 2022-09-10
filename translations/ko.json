@@ -377,5 +377,8 @@
     "Unlimited filter by videos time in the playlist": "재생 목록의 비디오 시간으로 무제한 필터링",
     "Batch selection for Save to Playlist": "재생 목록에 저장을 위한 일괄 선택",
     "Batch selection for Mark as Watched": "시청으로 표시를 위한 일괄 선택",
-    "Filters": "필터"
+    "Filters": "필터",
+    "Set Playlists Order For Left Sidebar": "왼쪽 사이드바의 재생 목록 순서 설정",
+    "Total playlist time": "총 재생목록 시간",
+    "Time watched": "시청 시간"
 }
