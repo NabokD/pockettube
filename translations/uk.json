@@ -378,5 +378,8 @@
     "Batch selection for Save to Playlist": "Пакетний вибір для збереження в списку відтворення",
     "Batch selection for Mark as Watched": "Пакетний вибір для Позначити як переглянуто",
     "Save to playlist": "Зберегти в списку відтворення",
-    "Filters": "Фільтри"
+    "Filters": "Фільтри",
+    "Set Playlists Order For Left Sidebar": "Встановіть порядок списків відтворення для лівої бічної панелі",
+    "Total playlist time": "Загальний час у списку відтворення",
+    "Time watched": "Час дивився"
 }
