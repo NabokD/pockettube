@@ -377,5 +377,8 @@
     "Batch selection for Save to Playlist": "Wybór partii dla Zapisz do listy odtwarzania",
     "Batch selection for Mark as Watched": "Wybór partii dla oznaczenia jako obserwowany",
     "Save to playlist": "Zapisz na playliście",
-    "Filters": "Filtry"
+    "Filters": "Filtry",
+    "Total playlist time": "Całkowity czas odtwarzania",
+    "Set Playlists Order For Left Sidebar": "Ustaw kolejność list odtwarzania dla lewego paska bocznego",
+    "Time watched": "Oglądany czas"
 }
