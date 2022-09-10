@@ -377,5 +377,8 @@
     "Unlimited filter by videos time in the playlist": "Walang limitasyong filter ayon sa oras ng mga video sa playlist",
     "Batch selection for Save to Playlist": "Batch na pagpili para sa I-save sa Playlist",
     "Batch selection for Mark as Watched": "Batch na seleksyon para sa Markahan bilang Napanood",
-    "Filters": "Mga Filter"
+    "Filters": "Mga Filter",
+    "Set Playlists Order For Left Sidebar": "Itakda ang Order ng Mga Playlist Para sa Kaliwang Sidebar",
+    "Total playlist time": "Kabuuang oras ng playlist",
+    "Time watched": "Time watched"
 }
