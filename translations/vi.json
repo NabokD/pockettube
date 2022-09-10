@@ -377,5 +377,8 @@
     "Batch selection for Save to Playlist": "Lựa chọn hàng loạt cho Lưu vào danh sách phát",
     "Batch selection for Mark as Watched": "Lựa chọn hàng loạt cho Đánh dấu là đã xem",
     "Save to playlist": "Lưu vào danh sách phát",
-    "Filters": "Bộ lọc"
+    "Filters": "Bộ lọc",
+    "Set Playlists Order For Left Sidebar": "Đặt thứ tự danh sách phát cho thanh bên trái",
+    "Total playlist time": "Tổng thời gian của danh sách phát",
+    "Time watched": "Thời gian đã xem"
 }
