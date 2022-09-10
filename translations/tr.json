@@ -377,5 +377,8 @@
     "Unlimited filter by videos time in the playlist": "Oynatma listesindeki video süresine göre sınırsız filtre",
     "Batch selection for Save to Playlist": "Oynatma Listesine Kaydet için toplu seçim",
     "Batch selection for Mark as Watched": "İzlendi Olarak İşaretle için toplu seçim",
-    "Filters": "Filtreler"
+    "Filters": "Filtreler",
+    "Set Playlists Order For Left Sidebar": "Sol Kenar Çubuğu İçin Çalma Listeleri Sırasını Ayarla",
+    "Total playlist time": "Toplam oynatma listesi süresi",
+    "Time watched": "İzlenen süre"
 }
