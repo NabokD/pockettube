@@ -377,5 +377,8 @@
     "Unlimited filter by videos time in the playlist": "Filtre illimité par temps de vidéos dans la playlist",
     "Batch selection for Save to Playlist": "Sélection par lots pour enregistrer dans la liste de lecture",
     "Batch selection for Mark as Watched": "Sélection de lots pour Marquer comme surveillé",
-    "Filters": "Filtres"
+    "Filters": "Filtres",
+    "Total playlist time": "Durée totale de la liste de lecture",
+    "Time watched": "Temps regardé",
+    "Set Playlists Order For Left Sidebar": "Définir l'ordre des listes de lecture pour la barre latérale gauche"
 }
