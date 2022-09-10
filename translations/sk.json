@@ -377,5 +377,8 @@
     "Unlimited filter by videos time in the playlist": "Neobmedzené filtrovanie podľa času videí v zozname videí",
     "Batch selection for Save to Playlist": "Dávkový výber pre Uložiť do zoznamu skladieb",
     "Batch selection for Mark as Watched": "Dávkový výber pre Označiť ako sledované",
-    "Filters": "Filtre"
+    "Filters": "Filtre",
+    "Set Playlists Order For Left Sidebar": "Nastavte poradie zoznamov skladieb pre ľavý bočný panel",
+    "Total playlist time": "Celkový čas zoznamu skladieb",
+    "Time watched": "Čas sledoval"
 }
