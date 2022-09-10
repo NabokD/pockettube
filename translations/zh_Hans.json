@@ -377,5 +377,8 @@
     "Unlimited filter by videos time in the playlist": "按播放列表中的视频时间无限过滤",
     "Batch selection for Save to Playlist": "批量选择保存到播放列表",
     "Batch selection for Mark as Watched": "标记为已观看的批次选择",
-    "Filters": "过滤"
+    "Filters": "过滤",
+    "Set Playlists Order For Left Sidebar": "设置左侧边栏的播放列表顺序",
+    "Total playlist time": "总播放列表时间",
+    "Time watched": "观看时间"
 }
