@@ -377,5 +377,8 @@
     "Unlimited filter by videos time in the playlist": "Filtrare nelimitată după durata videoclipurilor din lista de redare",
     "Batch selection for Save to Playlist": "Selectare lot pentru Salvare în lista de redare",
     "Batch selection for Mark as Watched": "Selectarea lotului pentru Marcare ca urmărit",
-    "Filters": "Filtre"
+    "Filters": "Filtre",
+    "Total playlist time": "Durata totală a listei de redare",
+    "Time watched": "Timpul a privit",
+    "Set Playlists Order For Left Sidebar": "Setați ordinea listelor de redare pentru bara laterală din stânga"
 }
