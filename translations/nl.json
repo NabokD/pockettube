@@ -377,5 +377,8 @@
     "Unlimited filter by videos time in the playlist": "Onbeperkt filteren op video's tijd in de afspeellijst",
     "Batch selection for Save to Playlist": "Batchselectie voor Opslaan in afspeellijst",
     "Batch selection for Mark as Watched": "Batchselectie voor Markeren als bekeken",
-    "Filters": "Filters"
+    "Filters": "Filters",
+    "Set Playlists Order For Left Sidebar": "Volgorde van afspeellijsten instellen voor linkerzijbalk",
+    "Total playlist time": "Totale speelduur",
+    "Time watched": "Tijd bekeken"
 }
