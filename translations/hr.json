@@ -377,5 +377,8 @@
     "Unlimited filter by videos time in the playlist": "Neograničeno filtriranje prema vremenu videozapisa na popisu za reprodukciju",
     "Batch selection for Save to Playlist": "Skupni odabir za spremanje na popis za reprodukciju",
     "Batch selection for Mark as Watched": "Skupni odabir za Označi kao gledano",
-    "Filters": "Filtri"
+    "Filters": "Filtri",
+    "Total playlist time": "Ukupno vrijeme popisa za reprodukciju",
+    "Time watched": "Vrijeme promatrano",
+    "Set Playlists Order For Left Sidebar": "Postavite redoslijed popisa za reprodukciju za lijevu bočnu traku"
 }
