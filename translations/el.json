@@ -377,5 +377,8 @@
     "Batch selection for Save to Playlist": "Μαζική επιλογή για Αποθήκευση στη λίστα αναπαραγωγής",
     "Batch selection for Mark as Watched": "Επιλογή παρτίδας για Επισήμανση ως παρακολούθησης",
     "Save to playlist": "Αποθήκευση στο playlist",
-    "Filters": "Φίλτρα"
+    "Filters": "Φίλτρα",
+    "Time watched": "Ο χρόνος παρακολουθούσε",
+    "Set Playlists Order For Left Sidebar": "Ορίστε τη σειρά των λιστών αναπαραγωγής για την αριστερή πλευρική γραμμή",
+    "Total playlist time": "Συνολικός χρόνος λίστας αναπαραγωγής"
 }
