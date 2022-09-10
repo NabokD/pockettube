@@ -378,5 +378,8 @@
     "Batch selection for Save to Playlist": "Пакетный выбор для сохранения в плейлист",
     "Batch selection for Mark as Watched": "Пакетный выбор для пометки как просмотренный",
     "Unlimited filter by videos time in the playlist": "Неограниченный фильтр по времени видео в плейлисте",
-    "Filters": "Фильтры"
+    "Filters": "Фильтры",
+    "Set Playlists Order For Left Sidebar": "Установить порядок списков воспроизведения для левой боковой панели",
+    "Time watched": "Время просмотра",
+    "Total playlist time": "Общее время плейлиста"
 }
