@@ -377,5 +377,8 @@
     "Batch selection for Save to Playlist": "Selección por lotes para Guardar en lista de reproducción",
     "Unlimited filter by videos time in the playlist": "Filtro ilimitado por tiempo de videos en la lista de reproducción",
     "Batch selection for Mark as Watched": "Selección por lotes para Marcar como visto",
-    "Filters": "Filtros"
+    "Filters": "Filtros",
+    "Set Playlists Order For Left Sidebar": "Establecer el orden de las listas de reproducción para la barra lateral izquierda",
+    "Total playlist time": "Tiempo total de la lista de reproducción",
+    "Time watched": "tiempo observado"
 }
