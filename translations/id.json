@@ -377,5 +377,8 @@
     "Unlimited filter by videos time in the playlist": "Filter tanpa batas berdasarkan waktu video di daftar putar",
     "Batch selection for Save to Playlist": "Pilihan batch untuk Simpan ke Daftar Putar",
     "Batch selection for Mark as Watched": "Pilihan batch untuk Tandai sebagai Ditonton",
-    "Filters": "Filter"
+    "Filters": "Filter",
+    "Set Playlists Order For Left Sidebar": "Atur Urutan Daftar Putar Untuk Bilah Sisi Kiri",
+    "Total playlist time": "Total waktu daftar putar",
+    "Time watched": "Waktu menonton"
 }
