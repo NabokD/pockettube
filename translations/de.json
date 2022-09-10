@@ -377,5 +377,8 @@
     "Batch selection for Mark as Watched": "Stapelauswahl für Als beobachtet markieren",
     "Unlimited filter by videos time in the playlist": "Unbegrenzter Filter nach Videozeit in der Wiedergabeliste",
     "Batch selection for Save to Playlist": "Stapelauswahl zum Speichern in Playlist",
-    "Filters": "Filter"
+    "Filters": "Filter",
+    "Set Playlists Order For Left Sidebar": "Legen Sie die Reihenfolge der Wiedergabelisten für die linke Seitenleiste fest",
+    "Total playlist time": "Gesamtzeit der Wiedergabeliste",
+    "Time watched": "Zeit beobachtet"
 }
