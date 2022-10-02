@@ -257,7 +257,7 @@
     "Export Bookmarks": "Export to your bookmarks [folder PocketTube in root]",
     "hide grouped channels from subscriptions list sidebar": "hide grouped channels from subscriptions list sidebar",
     "hide video collection container from YouTube main page": "hide video collection container from YouTube main page",
-    "remove playlist link in TV mode": "remove playlist link in TV mode",
+    "remove playlist link in TV mode": "don't create a playlist in feed mode",
     "hide icons": "hide icons",
     "hide new videos count": "hide new videos count",
     "disable removing the channel from the group after unsubscribing": "disable removing the channel from the group after unsubscribing",
