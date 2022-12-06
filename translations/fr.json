@@ -380,5 +380,6 @@
     "Filters": "Filtres",
     "Total playlist time": "Durée totale de la liste de lecture",
     "Time watched": "Durée de visionnage",
-    "Set Playlists Order For Left Sidebar": "Définir l'ordre des listes de lecture pour la barre latérale gauche"
+    "Set Playlists Order For Left Sidebar": "Définir l'ordre des listes de lecture pour la barre latérale gauche",
+    "enable rectangle thumbnails on PocketTube": "activer les vignettes rectangulaires sur PocketTube"
 }
