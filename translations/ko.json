@@ -380,5 +380,6 @@
     "Filters": "필터",
     "Set Playlists Order For Left Sidebar": "왼쪽 사이드바의 재생 목록 순서 설정",
     "Total playlist time": "총 재생목록 시간",
-    "Time watched": "시청 시간"
+    "Time watched": "시청 시간",
+    "enable rectangle thumbnails on PocketTube": "PocketTube에서 사각형 축소판 활성화"
 }
