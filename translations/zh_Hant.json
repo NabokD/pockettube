@@ -380,5 +380,6 @@
     "Filters": "篩選器",
     "Total playlist time": "播放清單總時數",
     "Time watched": "已觀看時間",
-    "Set Playlists Order For Left Sidebar": "設置左側邊欄的播放列表順序"
+    "Set Playlists Order For Left Sidebar": "設置左側邊欄的播放列表順序",
+    "enable rectangle thumbnails on PocketTube": "在 PocketTube 上啟用矩形縮略圖"
 }
