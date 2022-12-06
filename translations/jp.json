@@ -380,5 +380,6 @@
     "Filters": "フィルタ",
     "Set Playlists Order For Left Sidebar": "左サイドバーのプレイリストの順序を設定する",
     "Total playlist time": "総再生時間",
-    "Time watched": "視聴時間"
+    "Time watched": "視聴時間",
+    "enable rectangle thumbnails on PocketTube": "PocketTube で長方形のサムネイルを有効にする"
 }
