@@ -381,5 +381,6 @@
     "Filters": "Фільтри",
     "Set Playlists Order For Left Sidebar": "Встановіть порядок списків відтворення для лівої бічної панелі",
     "Total playlist time": "Загальний час у списку відтворення",
-    "Time watched": "Тривалість перегляду"
+    "Time watched": "Тривалість перегляду",
+    "enable rectangle thumbnails on PocketTube": "увімкнути ескізи прямокутників на PocketTube"
 }
