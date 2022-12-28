@@ -393,5 +393,6 @@
     "Are you sure you want to restore this item?": "Jeste li sigurni da želite vratiti ovu stavku?",
     "New backup has been created successfully!": "Nova sigurnosna kopija je uspješno stvorena!",
     "The data has been restored successfully!": "Podaci su uspješno vraćeni!",
-    "Backup list is empty": "Popis rezervnih kopija je prazan"
+    "Backup list is empty": "Popis pričuvnih kopija je prazan",
+    "Auto backup in the cloud": "Automatsko sigurnosno kopiranje u oblaku"
 }
