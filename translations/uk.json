@@ -382,5 +382,17 @@
     "Set Playlists Order For Left Sidebar": "Встановіть порядок списків відтворення для лівої бічної панелі",
     "Total playlist time": "Загальний час у списку відтворення",
     "Time watched": "Тривалість перегляду",
-    "enable rectangle thumbnails on PocketTube": "увімкнути ескізи прямокутників на PocketTube"
+    "enable rectangle thumbnails on PocketTube": "увімкнути ескізи прямокутників на PocketTube",
+    "New": "новий",
+    "Restore": "Відновлювати",
+    "Created date": "Дата створення",
+    "Manage": "Керувати",
+    "Backup list": "Резервний список",
+    "Create New": "Створити новий",
+    "Are you sure you want to restore this item?": "Ви впевнені, що бажаєте відновити цей елемент?",
+    "The data has been restored successfully!": "Дані успішно відновлено!",
+    "Just reload the YouTube page": "Просто оновіть сторінку YouTube",
+    "Backup list is empty": "Резервний список порожній",
+    "Download": "Завантажити",
+    "New backup has been created successfully!": "Нову резервну копію успішно створено!"
 }
