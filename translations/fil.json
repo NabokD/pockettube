@@ -381,5 +381,17 @@
     "Set Playlists Order For Left Sidebar": "Itakda ang Order ng Mga Playlist Para sa Kaliwang Sidebar",
     "Total playlist time": "Kabuuang oras ng playlist",
     "Time watched": "Tagal ng panonood",
-    "enable rectangle thumbnails on PocketTube": "paganahin ang mga rectangle thumbnail sa PocketTube"
+    "enable rectangle thumbnails on PocketTube": "paganahin ang mga rectangle thumbnail sa PocketTube",
+    "Restore": "Ibalik",
+    "Manage": "Pamahalaan",
+    "Create New": "Gumawa ng bago",
+    "Are you sure you want to restore this item?": "Sigurado ka bang gusto mong ibalik ang item na ito?",
+    "New backup has been created successfully!": "Matagumpay na nalikha ang bagong backup!",
+    "Just reload the YouTube page": "I-reload lang ang YouTube page",
+    "Backup list is empty": "Walang laman ang listahan ng backup",
+    "New": "Bago",
+    "Download": "I-download",
+    "Created date": "Nilikha ang petsa",
+    "Backup list": "Listahan ng backup",
+    "The data has been restored successfully!": "Matagumpay na naibalik ang data!"
 }
