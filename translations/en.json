@@ -381,5 +381,17 @@
     "Set Playlists Order For Left Sidebar": "Set Playlists Order For Left Sidebar",
     "Total playlist time": "Total playlist time",
     "Time watched": "Time watched",
-    "enable rectangle thumbnails on PocketTube": "enable rectangle thumbnails on PocketTube"
+    "enable rectangle thumbnails on PocketTube": "enable rectangle thumbnails on PocketTube",
+    "New": "New",
+    "Download": "Download",
+    "Restore": "Restore",
+    "Created date": "Created date",
+    "Manage": "Manage",
+    "Backup list": "Backup list",
+    "Create New": "Create New",
+    "Are you sure you want to restore this item?": "Are you sure you want to restore this item?",
+    "New backup has been created successfully!": "New backup has been created successfully!",
+    "The data has been restored successfully!": "The data has been restored successfully!",
+    "Just reload the YouTube page": "Just reload the YouTube page",
+    "Backup list is empty": "Backup list is empty"
 }
