@@ -381,5 +381,17 @@
     "Total playlist time": "Durata totală a listei de redare",
     "Time watched": "Durata de vizionare",
     "Set Playlists Order For Left Sidebar": "Setați ordinea listelor de redare pentru bara laterală din stânga",
-    "enable rectangle thumbnails on PocketTube": "activați miniaturile dreptunghiulare pe PocketTube"
+    "enable rectangle thumbnails on PocketTube": "activați miniaturile dreptunghiulare pe PocketTube",
+    "Download": "Descarca",
+    "Restore": "Restabili",
+    "Created date": "Data creata",
+    "Manage": "Administra",
+    "Backup list": "Lista de rezervă",
+    "Are you sure you want to restore this item?": "Sigur doriți să restaurați acest articol?",
+    "Just reload the YouTube page": "Doar reîncărcați pagina YouTube",
+    "Backup list is empty": "Lista de rezervă este goală",
+    "New": "Nou",
+    "Create New": "Creaza nou",
+    "New backup has been created successfully!": "Un nou backup a fost creat cu succes!",
+    "The data has been restored successfully!": "Datele au fost restaurate cu succes!"
 }
