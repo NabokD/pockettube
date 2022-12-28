@@ -381,5 +381,17 @@
     "Set Playlists Order For Left Sidebar": "Atur Urutan Daftar Putar Untuk Bilah Sisi Kiri",
     "Total playlist time": "Total waktu daftar putar",
     "Time watched": "Waktu tonton",
-    "enable rectangle thumbnails on PocketTube": "aktifkan thumbnail persegi panjang di PocketTube"
+    "enable rectangle thumbnails on PocketTube": "aktifkan thumbnail persegi panjang di PocketTube",
+    "New": "Baru",
+    "Download": "Unduh",
+    "Restore": "Memulihkan",
+    "Created date": "Tanggal dibuat",
+    "Manage": "Mengelola",
+    "Backup list": "Daftar cadangan",
+    "Create New": "Membuat baru",
+    "Are you sure you want to restore this item?": "Yakin ingin memulihkan item ini?",
+    "New backup has been created successfully!": "Cadangan baru berhasil dibuat!",
+    "The data has been restored successfully!": "Data telah berhasil dipulihkan!",
+    "Just reload the YouTube page": "Cukup muat ulang halaman YouTube",
+    "Backup list is empty": "Daftar cadangan kosong"
 }
