@@ -392,6 +392,7 @@
     "Backup list is empty": "La liste de sauvegarde est vide",
     "Create New": "Créer un nouveau",
     "Are you sure you want to restore this item?": "Voulez-vous vraiment restaurer cet élément ?",
-    "New backup has been created successfully!": "La nouvelle sauvegarde a été créée avec succès !",
-    "Just reload the YouTube page": "Rechargez simplement la page YouTube"
+    "New backup has been created successfully!": "Une nouvelle sauvegarde a été créée avec succès !",
+    "Just reload the YouTube page": "Rechargez simplement la page YouTube",
+    "Auto backup in the cloud": "Sauvegarde automatique dans le cloud"
 }
