@@ -390,8 +390,9 @@
     "Backup list": "danh sách sao lưu",
     "Create New": "Tạo mới",
     "Are you sure you want to restore this item?": "Bạn có chắc chắn muốn khôi phục mục này không?",
-    "New backup has been created successfully!": "Sao lưu mới đã được tạo thành công!",
+    "New backup has been created successfully!": "Một bản sao lưu mới đã được tạo thành công!",
     "The data has been restored successfully!": "Dữ liệu đã được khôi phục thành công!",
     "Just reload the YouTube page": "Chỉ cần tải lại trang YouTube",
-    "Backup list is empty": "Danh sách sao lưu trống"
+    "Backup list is empty": "Danh sách sao lưu trống",
+    "Auto backup in the cloud": "Tự động sao lưu trên đám mây"
 }
