@@ -394,5 +394,6 @@
     "Just reload the YouTube page": "Просто оновіть сторінку YouTube",
     "Backup list is empty": "Резервний список порожній",
     "Download": "Завантажити",
-    "New backup has been created successfully!": "Нову резервну копію успішно створено!"
+    "New backup has been created successfully!": "Нову резервну копію успішно створено!",
+    "Auto backup in the cloud": "Автоматичне резервне копіювання в хмарі"
 }
