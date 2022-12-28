@@ -381,5 +381,17 @@
     "Total playlist time": "Ukupno vrijeme popisa za reprodukciju",
     "Time watched": "Vrijeme gledanja",
     "Set Playlists Order For Left Sidebar": "Postavite redoslijed popisa za reprodukciju za lijevu bočnu traku",
-    "enable rectangle thumbnails on PocketTube": "omogućiti pravokutne sličice na PocketTubeu"
+    "enable rectangle thumbnails on PocketTube": "omogućiti pravokutne sličice na PocketTubeu",
+    "Restore": "Vratiti",
+    "Just reload the YouTube page": "Samo ponovno učitajte YouTube stranicu",
+    "New": "Novi",
+    "Download": "preuzimanje datoteka",
+    "Created date": "Datum kreiranja",
+    "Manage": "Upravljati",
+    "Backup list": "Rezervni popis",
+    "Create New": "Stvori novo",
+    "Are you sure you want to restore this item?": "Jeste li sigurni da želite vratiti ovu stavku?",
+    "New backup has been created successfully!": "Nova sigurnosna kopija je uspješno stvorena!",
+    "The data has been restored successfully!": "Podaci su uspješno vraćeni!",
+    "Backup list is empty": "Popis rezervnih kopija je prazan"
 }
