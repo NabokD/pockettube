@@ -381,5 +381,17 @@
     "Set Playlists Order For Left Sidebar": "设置左侧边栏的播放列表顺序",
     "Total playlist time": "总播放列表时间",
     "Time watched": "观看时长",
-    "enable rectangle thumbnails on PocketTube": "在 PocketTube 上启用矩形缩略图"
+    "enable rectangle thumbnails on PocketTube": "在 PocketTube 上启用矩形缩略图",
+    "New": "新的",
+    "Download": "下载",
+    "Restore": "恢复",
+    "Created date": "创建日期",
+    "Create New": "创建新的",
+    "Are you sure you want to restore this item?": "您确定要恢复此项目吗？",
+    "The data has been restored successfully!": "数据已成功恢复！",
+    "Just reload the YouTube page": "只需重新加载 YouTube 页面",
+    "Backup list is empty": "备份列表为空",
+    "Manage": "管理",
+    "Backup list": "备份列表",
+    "New backup has been created successfully!": "已成功创建新备份！"
 }
