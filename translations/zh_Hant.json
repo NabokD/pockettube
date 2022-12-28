@@ -393,5 +393,6 @@
     "New backup has been created successfully!": "已成功創建新備份！",
     "The data has been restored successfully!": "數據已成功恢復！",
     "Just reload the YouTube page": "只需重新加載 YouTube 頁面",
-    "Backup list is empty": "備份列表為空"
+    "Backup list is empty": "備份列表為空",
+    "Auto backup in the cloud": "雲端自動備份"
 }
