@@ -381,5 +381,17 @@
     "Set Playlists Order For Left Sidebar": "왼쪽 사이드바의 재생 목록 순서 설정",
     "Total playlist time": "총 재생목록 시간",
     "Time watched": "시청 시간",
-    "enable rectangle thumbnails on PocketTube": "PocketTube에서 사각형 축소판 활성화"
+    "enable rectangle thumbnails on PocketTube": "PocketTube에서 사각형 축소판 활성화",
+    "Download": "다운로드",
+    "Restore": "복원",
+    "Created date": "만든 날짜",
+    "Backup list": "백업 목록",
+    "Create New": "새로 만들기",
+    "Are you sure you want to restore this item?": "이 항목을 복원하시겠습니까?",
+    "New backup has been created successfully!": "새 백업이 성공적으로 생성되었습니다!",
+    "Just reload the YouTube page": "YouTube 페이지를 새로고침하세요.",
+    "New": "새로운",
+    "Manage": "관리하다",
+    "The data has been restored successfully!": "데이터가 성공적으로 복원되었습니다!",
+    "Backup list is empty": "백업 목록이 비어 있습니다."
 }
