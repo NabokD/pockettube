@@ -381,5 +381,17 @@
     "Set Playlists Order For Left Sidebar": "Nastavte poradie zoznamov skladieb pre ľavý bočný panel",
     "Total playlist time": "Celkový čas zoznamu skladieb",
     "Time watched": "Celkový čas pozerania",
-    "enable rectangle thumbnails on PocketTube": "povoliť obdĺžnikové miniatúry na PocketTube"
+    "enable rectangle thumbnails on PocketTube": "povoliť obdĺžnikové miniatúry na PocketTube",
+    "New": "Nový",
+    "Download": "Stiahnuť ▼",
+    "Restore": "Obnoviť",
+    "Backup list": "Zoznam záloh",
+    "Create New": "Vytvor nový",
+    "Are you sure you want to restore this item?": "Naozaj chcete obnoviť túto položku?",
+    "Just reload the YouTube page": "Stačí znova načítať stránku YouTube",
+    "Backup list is empty": "Zoznam záloh je prázdny",
+    "Created date": "Dátum vytvorenia",
+    "Manage": "Spravovať",
+    "New backup has been created successfully!": "Nová záloha bola úspešne vytvorená!",
+    "The data has been restored successfully!": "Údaje boli úspešne obnovené!"
 }
