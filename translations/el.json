@@ -387,11 +387,12 @@
     "Created date": "Ημερομηνία δημιουργίας",
     "Create New": "Δημιουργία νέου",
     "Are you sure you want to restore this item?": "Είστε βέβαιοι ότι θέλετε να επαναφέρετε αυτό το στοιχείο;",
-    "New backup has been created successfully!": "Νέο αντίγραφο ασφαλείας δημιουργήθηκε με επιτυχία!",
+    "New backup has been created successfully!": "Ένα νέο αντίγραφο ασφαλείας δημιουργήθηκε με επιτυχία!",
     "The data has been restored successfully!": "Τα δεδομένα αποκαταστάθηκαν με επιτυχία!",
     "Just reload the YouTube page": "Απλώς φορτώστε ξανά τη σελίδα YouTube",
     "Backup list is empty": "Η λίστα αντιγράφων ασφαλείας είναι κενή",
     "New": "Νέος",
     "Manage": "Διαχειρίζονται",
-    "Backup list": "Εφεδρική λίστα"
+    "Backup list": "Εφεδρική λίστα",
+    "Auto backup in the cloud": "Αυτόματη δημιουργία αντιγράφων ασφαλείας στο cloud"
 }
