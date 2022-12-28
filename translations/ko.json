@@ -393,5 +393,6 @@
     "New": "새로운",
     "Manage": "관리하다",
     "The data has been restored successfully!": "데이터가 성공적으로 복원되었습니다!",
-    "Backup list is empty": "백업 목록이 비어 있습니다."
+    "Backup list is empty": "백업 목록이 비어 있습니다.",
+    "Auto backup in the cloud": "클라우드에서 자동 백업"
 }
