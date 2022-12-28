@@ -381,5 +381,17 @@
     "Set Playlists Order For Left Sidebar": "Volgorde van afspeellijsten instellen voor linkerzijbalk",
     "Total playlist time": "Totale speelduur",
     "Time watched": "Kijktijd",
-    "enable rectangle thumbnails on PocketTube": "schakel rechthoekige miniaturen in op PocketTube"
+    "enable rectangle thumbnails on PocketTube": "schakel rechthoekige miniaturen in op PocketTube",
+    "Just reload the YouTube page": "Laad gewoon de YouTube-pagina opnieuw",
+    "Backup list is empty": "Back-uplijst is leeg",
+    "New": "Nieuw",
+    "Download": "Downloaden",
+    "Restore": "Herstellen",
+    "Created date": "Gemaakte datum",
+    "Manage": "Beheren",
+    "Backup list": "Back-up lijst",
+    "Create New": "Maak nieuw",
+    "Are you sure you want to restore this item?": "Weet u zeker dat u dit item wilt herstellen?",
+    "New backup has been created successfully!": "Nieuwe back-up is met succes gemaakt!",
+    "The data has been restored successfully!": "De gegevens zijn succesvol hersteld!"
 }
