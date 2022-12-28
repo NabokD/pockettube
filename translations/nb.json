@@ -381,5 +381,17 @@
     "Set Playlists Order For Left Sidebar": "Angi spillelisterekkefølge for venstre sidefelt",
     "Total playlist time": "Total spillelistetid",
     "Time watched": "Seertid",
-    "enable rectangle thumbnails on PocketTube": "aktiver rektangulære miniatyrbilder på PocketTube"
+    "enable rectangle thumbnails on PocketTube": "aktiver rektangulære miniatyrbilder på PocketTube",
+    "New": "Ny",
+    "Restore": "Restaurere",
+    "Created date": "Opprettet dato",
+    "Manage": "Få til",
+    "Backup list": "Sikkerhetskopieringsliste",
+    "Create New": "Lag ny",
+    "Are you sure you want to restore this item?": "Er du sikker på at du vil gjenopprette dette elementet?",
+    "Just reload the YouTube page": "Bare last YouTube-siden på nytt",
+    "Backup list is empty": "Sikkerhetskopieringslisten er tom",
+    "Download": "nedlasting",
+    "New backup has been created successfully!": "Ny sikkerhetskopi er opprettet!",
+    "The data has been restored successfully!": "Dataene har blitt gjenopprettet!"
 }
