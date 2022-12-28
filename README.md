@@ -2,14 +2,14 @@
   <img src="https://github.com/NabokD/pockettube/blob/main/assets/logo.svg" alt="PocketTube logo"/>
 </p>
 
-[PocketTube](//yousub.info) is a browser extension for managing YouTube subscriptions list
+[PocketTube](//pockettube.io) is a browser extension for managing YouTube subscriptions list
 
 Since PocketTube is not fully open-source, this repository serves as a place for bug reports, feature requests, translations and general discussion.
 
 ### Supported Browsers:
 - [Chrome](//chrome.google.com/webstore/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb)
 - [Firefox](//addons.mozilla.org/en-US/firefox/addon/youtube-subscription-groups)
-- [Safari](//apps.apple.com/us/app/id1533703891)
+- [Safari](//pockettube.io/install/PocketTube.dmg)
 - [Edge](//microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home)
 - [Opera](//addons.opera.com/en/extensions/details/pockettube-youtube-subscription-manager)
 
@@ -21,7 +21,7 @@ Since PocketTube is not fully open-source, this repository serves as a place for
 - :envelope: hello@yousub.info
 - :bird: [twitter.com/YoutubeSubM](//twitter.com/YoutubeSubM)
 - :orange_book: [reddit.com/r/pockettube](//www.reddit.com/r/pockettube)
-- :tada: [yousub.info](//yousub.info)
+- :tada: [yousub.info](//pockettube.io)
 
 ### Other
 - [Translations](//translations.yousub.info)
