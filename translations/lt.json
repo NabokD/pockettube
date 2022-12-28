@@ -393,5 +393,6 @@
     "New backup has been created successfully!": "Nauja atsarginė kopija sėkmingai sukurta!",
     "The data has been restored successfully!": "Duomenys sėkmingai atkurti!",
     "Just reload the YouTube page": "Tiesiog iš naujo įkelkite „YouTube“ puslapį",
-    "Backup list is empty": "Atsarginių kopijų sąrašas tuščias"
+    "Backup list is empty": "Atsarginių kopijų sąrašas tuščias",
+    "Auto backup in the cloud": "Automatinis atsarginis kopijavimas debesyje"
 }
