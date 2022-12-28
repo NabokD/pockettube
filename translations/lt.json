@@ -381,5 +381,17 @@
     "Set Playlists Order For Left Sidebar": "Nustatyti grojaraščių tvarką kairėje šoninėje juostoje",
     "Total playlist time": "Bendra grojaraščio trukmė",
     "Time watched": "Žiūrėtas laikas",
-    "enable rectangle thumbnails on PocketTube": "įgalinti stačiakampes miniatiūras PocketTube"
+    "enable rectangle thumbnails on PocketTube": "įgalinti stačiakampes miniatiūras PocketTube",
+    "New": "Nauja",
+    "Download": "parsisiųsti",
+    "Restore": "Atkurti",
+    "Created date": "Sukūrimo data",
+    "Manage": "Tvarkyti",
+    "Backup list": "Atsarginis sąrašas",
+    "Create New": "Sukurk naują",
+    "Are you sure you want to restore this item?": "Ar tikrai norite atkurti šį elementą?",
+    "New backup has been created successfully!": "Nauja atsarginė kopija sėkmingai sukurta!",
+    "The data has been restored successfully!": "Duomenys sėkmingai atkurti!",
+    "Just reload the YouTube page": "Tiesiog iš naujo įkelkite „YouTube“ puslapį",
+    "Backup list is empty": "Atsarginių kopijų sąrašas tuščias"
 }
