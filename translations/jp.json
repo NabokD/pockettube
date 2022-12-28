@@ -393,5 +393,6 @@
     "New backup has been created successfully!": "新しいバックアップが正常に作成されました!",
     "The data has been restored successfully!": "データは正常に復元されました。",
     "Backup list is empty": "バックアップ リストが空です",
-    "Just reload the YouTube page": "YouTube ページをリロードするだけです"
+    "Just reload the YouTube page": "YouTube ページをリロードするだけです",
+    "Auto backup in the cloud": "クラウドでの自動バックアップ"
 }
