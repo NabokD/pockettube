@@ -392,6 +392,7 @@
     "Backup list is empty": "A lista de backup está vazia",
     "Manage": "Gerenciar",
     "Backup list": "lista de backup",
-    "New backup has been created successfully!": "O novo backup foi criado com sucesso!",
-    "Just reload the YouTube page": "Basta recarregar a página do YouTube"
+    "New backup has been created successfully!": "Um novo backup foi criado com sucesso!",
+    "Just reload the YouTube page": "Basta recarregar a página do YouTube",
+    "Auto backup in the cloud": "Backup automático na nuvem"
 }
