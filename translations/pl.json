@@ -393,5 +393,6 @@
     "Backup list is empty": "Lista kopii zapasowych jest pusta",
     "Backup list": "Lista zapasowa",
     "Create New": "Tworzyć nowe",
-    "Are you sure you want to restore this item?": "Czy na pewno chcesz przywrócić ten element?"
+    "Are you sure you want to restore this item?": "Czy na pewno chcesz przywrócić ten element?",
+    "Auto backup in the cloud": "Automatyczna kopia zapasowa w chmurze"
 }
