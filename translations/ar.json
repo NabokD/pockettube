@@ -393,5 +393,6 @@
     "Are you sure you want to restore this item?": "هل أنت متأكد أنك تريد استعادة هذا العنصر؟",
     "New backup has been created successfully!": "تم إنشاء نسخة احتياطية جديدة بنجاح!",
     "The data has been restored successfully!": "تمت استعادة البيانات بنجاح!",
-    "Just reload the YouTube page": "فقط أعد تحميل صفحة يوتيوب"
+    "Just reload the YouTube page": "فقط أعد تحميل صفحة يوتيوب",
+    "Auto backup in the cloud": "النسخ الاحتياطي التلقائي في السحابة"
 }
