@@ -385,7 +385,7 @@
     "Restore": "Gendan",
     "Manage": "Styre",
     "Are you sure you want to restore this item?": "Er du sikker på, at du vil gendanne dette element?",
-    "New backup has been created successfully!": "Ny backup er blevet oprettet!",
+    "New backup has been created successfully!": "En ny sikkerhedskopi er blevet oprettet!",
     "Just reload the YouTube page": "Genindlæs bare YouTube-siden",
     "Backup list is empty": "Sikkerhedskopieringslisten er tom",
     "New": "Ny",
@@ -393,5 +393,6 @@
     "Created date": "Oprettet dato",
     "Backup list": "Backup liste",
     "Create New": "Lav ny",
-    "The data has been restored successfully!": "Dataene er blevet gendannet med succes!"
+    "The data has been restored successfully!": "Dataene er blevet gendannet med succes!",
+    "Auto backup in the cloud": "Automatisk backup i skyen"
 }
