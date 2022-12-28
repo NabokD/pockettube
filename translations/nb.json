@@ -392,6 +392,7 @@
     "Just reload the YouTube page": "Bare last YouTube-siden på nytt",
     "Backup list is empty": "Sikkerhetskopieringslisten er tom",
     "Download": "nedlasting",
-    "New backup has been created successfully!": "Ny sikkerhetskopi er opprettet!",
-    "The data has been restored successfully!": "Dataene har blitt gjenopprettet!"
+    "New backup has been created successfully!": "En ny sikkerhetskopi er opprettet!",
+    "The data has been restored successfully!": "Dataene har blitt gjenopprettet!",
+    "Auto backup in the cloud": "Automatisk sikkerhetskopiering i skyen"
 }
