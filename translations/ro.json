@@ -392,6 +392,7 @@
     "Backup list is empty": "Lista de rezervă este goală",
     "New": "Nou",
     "Create New": "Creaza nou",
-    "New backup has been created successfully!": "Un nou backup a fost creat cu succes!",
-    "The data has been restored successfully!": "Datele au fost restaurate cu succes!"
+    "New backup has been created successfully!": "O nouă copie de rezervă a fost creată cu succes!",
+    "The data has been restored successfully!": "Datele au fost restaurate cu succes!",
+    "Auto backup in the cloud": "Backup automat în cloud"
 }
