@@ -393,5 +393,6 @@
     "Just reload the YouTube page": "Basta ricaricare la pagina di YouTube",
     "Backup list is empty": "L'elenco di backup è vuoto",
     "Are you sure you want to restore this item?": "Sei sicuro di voler ripristinare questo elemento?",
-    "New backup has been created successfully!": "Il nuovo backup è stato creato con successo!"
+    "New backup has been created successfully!": "Un nuovo backup è stato creato con successo!",
+    "Auto backup in the cloud": "Backup automatico nel cloud"
 }
