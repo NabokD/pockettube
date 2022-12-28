@@ -393,5 +393,6 @@
     "New backup has been created successfully!": "Cadangan baru berhasil dibuat!",
     "The data has been restored successfully!": "Data telah berhasil dipulihkan!",
     "Just reload the YouTube page": "Cukup muat ulang halaman YouTube",
-    "Backup list is empty": "Daftar cadangan kosong"
+    "Backup list is empty": "Daftar cadangan kosong",
+    "Auto backup in the cloud": "Pencadangan otomatis di cloud"
 }
