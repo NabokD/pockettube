@@ -381,5 +381,17 @@
     "Total playlist time": "Całkowity czas odtwarzania",
     "Set Playlists Order For Left Sidebar": "Ustaw kolejność list odtwarzania dla lewego paska bocznego",
     "Time watched": "Czas oglądania",
-    "enable rectangle thumbnails on PocketTube": "włącz prostokątne miniatury w PocketTube"
+    "enable rectangle thumbnails on PocketTube": "włącz prostokątne miniatury w PocketTube",
+    "New": "Nowy",
+    "Download": "Ściągnij",
+    "Restore": "Przywrócić",
+    "Created date": "Stworz Date",
+    "Manage": "Zarządzanie",
+    "New backup has been created successfully!": "Pomyślnie utworzono nową kopię zapasową!",
+    "The data has been restored successfully!": "Dane zostały pomyślnie przywrócone!",
+    "Just reload the YouTube page": "Po prostu ponownie załaduj stronę YouTube",
+    "Backup list is empty": "Lista kopii zapasowych jest pusta",
+    "Backup list": "Lista zapasowa",
+    "Create New": "Tworzyć nowe",
+    "Are you sure you want to restore this item?": "Czy na pewno chcesz przywrócić ten element?"
 }
