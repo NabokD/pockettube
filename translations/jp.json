@@ -381,5 +381,17 @@
     "Set Playlists Order For Left Sidebar": "左サイドバーのプレイリストの順序を設定する",
     "Total playlist time": "総再生時間",
     "Time watched": "視聴時間",
-    "enable rectangle thumbnails on PocketTube": "PocketTube で長方形のサムネイルを有効にする"
+    "enable rectangle thumbnails on PocketTube": "PocketTube で長方形のサムネイルを有効にする",
+    "New": "新しい",
+    "Download": "ダウンロード",
+    "Restore": "戻す",
+    "Created date": "作成日",
+    "Manage": "管理",
+    "Backup list": "バックアップリスト",
+    "Create New": "新しく作る",
+    "Are you sure you want to restore this item?": "このアイテムを復元してもよろしいですか?",
+    "New backup has been created successfully!": "新しいバックアップが正常に作成されました!",
+    "The data has been restored successfully!": "データは正常に復元されました。",
+    "Backup list is empty": "バックアップ リストが空です",
+    "Just reload the YouTube page": "YouTube ページをリロードするだけです"
 }
