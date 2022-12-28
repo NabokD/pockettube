@@ -386,12 +386,13 @@
     "Manage": "Pamahalaan",
     "Create New": "Gumawa ng bago",
     "Are you sure you want to restore this item?": "Sigurado ka bang gusto mong ibalik ang item na ito?",
-    "New backup has been created successfully!": "Matagumpay na nalikha ang bagong backup!",
+    "New backup has been created successfully!": "Matagumpay na nalikha ang isang bagong backup!",
     "Just reload the YouTube page": "I-reload lang ang YouTube page",
-    "Backup list is empty": "Walang laman ang listahan ng backup",
+    "Backup list is empty": "Walang laman ang backup na listahan",
     "New": "Bago",
     "Download": "I-download",
     "Created date": "Nilikha ang petsa",
     "Backup list": "Listahan ng backup",
-    "The data has been restored successfully!": "Matagumpay na naibalik ang data!"
+    "The data has been restored successfully!": "Matagumpay na naibalik ang data!",
+    "Auto backup in the cloud": "Auto backup sa cloud"
 }
