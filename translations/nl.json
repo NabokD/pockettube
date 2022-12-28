@@ -383,7 +383,7 @@
     "Time watched": "Kijktijd",
     "enable rectangle thumbnails on PocketTube": "schakel rechthoekige miniaturen in op PocketTube",
     "Just reload the YouTube page": "Laad gewoon de YouTube-pagina opnieuw",
-    "Backup list is empty": "Back-uplijst is leeg",
+    "Backup list is empty": "De back-uplijst is leeg",
     "New": "Nieuw",
     "Download": "Downloaden",
     "Restore": "Herstellen",
@@ -392,6 +392,7 @@
     "Backup list": "Back-up lijst",
     "Create New": "Maak nieuw",
     "Are you sure you want to restore this item?": "Weet u zeker dat u dit item wilt herstellen?",
-    "New backup has been created successfully!": "Nieuwe back-up is met succes gemaakt!",
-    "The data has been restored successfully!": "De gegevens zijn succesvol hersteld!"
+    "New backup has been created successfully!": "Er is een nieuwe back-up gemaakt!",
+    "The data has been restored successfully!": "De gegevens zijn succesvol hersteld!",
+    "Auto backup in the cloud": "Automatische back-up in de cloud"
 }
