@@ -381,5 +381,17 @@
     "Set Playlists Order For Left Sidebar": "Legen Sie die Reihenfolge der Wiedergabelisten für die linke Seitenleiste fest",
     "Total playlist time": "Gesamtzeit der Wiedergabeliste",
     "Time watched": "Wiedergabezeit",
-    "enable rectangle thumbnails on PocketTube": "Aktivieren Sie rechteckige Miniaturansichten auf PocketTube"
+    "enable rectangle thumbnails on PocketTube": "Aktivieren Sie rechteckige Miniaturansichten auf PocketTube",
+    "New": "Neu",
+    "Manage": "Verwalten",
+    "Backup list": "Sicherungsliste",
+    "Create New": "Erstelle neu",
+    "New backup has been created successfully!": "Neues Backup wurde erfolgreich erstellt!",
+    "Just reload the YouTube page": "Laden Sie einfach die YouTube-Seite neu",
+    "Backup list is empty": "Sicherungsliste ist leer",
+    "Download": "Download",
+    "Restore": "Wiederherstellen",
+    "Created date": "Erstellungsdatum",
+    "Are you sure you want to restore this item?": "Möchten Sie dieses Element wirklich wiederherstellen?",
+    "The data has been restored successfully!": "Die Daten wurden erfolgreich wiederhergestellt!"
 }
