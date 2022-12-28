@@ -381,5 +381,17 @@
     "Set Playlists Order For Left Sidebar": "Đặt thứ tự danh sách phát cho thanh bên trái",
     "Total playlist time": "Tổng thời gian của danh sách phát",
     "Time watched": "Thời lượng đã xem",
-    "enable rectangle thumbnails on PocketTube": "bật hình thu nhỏ hình chữ nhật trên PocketTube"
+    "enable rectangle thumbnails on PocketTube": "bật hình thu nhỏ hình chữ nhật trên PocketTube",
+    "New": "Mới mẻ",
+    "Download": "Tải xuống",
+    "Restore": "Khôi phục",
+    "Created date": "Ngày tạo ra",
+    "Manage": "Quản lý",
+    "Backup list": "danh sách sao lưu",
+    "Create New": "Tạo mới",
+    "Are you sure you want to restore this item?": "Bạn có chắc chắn muốn khôi phục mục này không?",
+    "New backup has been created successfully!": "Sao lưu mới đã được tạo thành công!",
+    "The data has been restored successfully!": "Dữ liệu đã được khôi phục thành công!",
+    "Just reload the YouTube page": "Chỉ cần tải lại trang YouTube",
+    "Backup list is empty": "Danh sách sao lưu trống"
 }
