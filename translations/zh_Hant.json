@@ -381,5 +381,17 @@
     "Total playlist time": "播放清單總時數",
     "Time watched": "已觀看時間",
     "Set Playlists Order For Left Sidebar": "設置左側邊欄的播放列表順序",
-    "enable rectangle thumbnails on PocketTube": "在 PocketTube 上啟用矩形縮略圖"
+    "enable rectangle thumbnails on PocketTube": "在 PocketTube 上啟用矩形縮略圖",
+    "New": "新的",
+    "Download": "下載",
+    "Restore": "恢復",
+    "Created date": "創建日期",
+    "Manage": "管理",
+    "Backup list": "備份列表",
+    "Create New": "創建新的",
+    "Are you sure you want to restore this item?": "您確定要恢復此項目嗎？",
+    "New backup has been created successfully!": "已成功創建新備份！",
+    "The data has been restored successfully!": "數據已成功恢復！",
+    "Just reload the YouTube page": "只需重新加載 YouTube 頁面",
+    "Backup list is empty": "備份列表為空"
 }
