@@ -388,10 +388,11 @@
     "Are you sure you want to restore this item?": "Bu öğeyi geri yüklemek istediğinizden emin misiniz?",
     "The data has been restored successfully!": "Veriler başarıyla geri yüklendi!",
     "Just reload the YouTube page": "Sadece YouTube sayfasını yeniden yükleyin",
-    "Backup list is empty": "Yedekleme listesi boş",
+    "Backup list is empty": "Yedek listesi boş",
     "Download": "İndirmek",
     "Restore": "Onarmak",
     "Manage": "Üstesinden gelmek",
     "Create New": "Yeni oluşturmak",
-    "New backup has been created successfully!": "Yeni yedekleme başarıyla oluşturuldu!"
+    "New backup has been created successfully!": "Yeni bir yedek başarıyla oluşturuldu!",
+    "Auto backup in the cloud": "Bulutta otomatik yedekleme"
 }
