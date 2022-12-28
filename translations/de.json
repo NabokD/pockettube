@@ -386,12 +386,13 @@
     "Manage": "Verwalten",
     "Backup list": "Sicherungsliste",
     "Create New": "Erstelle neu",
-    "New backup has been created successfully!": "Neues Backup wurde erfolgreich erstellt!",
+    "New backup has been created successfully!": "Ein neues Backup wurde erfolgreich erstellt!",
     "Just reload the YouTube page": "Laden Sie einfach die YouTube-Seite neu",
-    "Backup list is empty": "Sicherungsliste ist leer",
+    "Backup list is empty": "Die Sicherungsliste ist leer",
     "Download": "Download",
     "Restore": "Wiederherstellen",
     "Created date": "Erstellungsdatum",
     "Are you sure you want to restore this item?": "Möchten Sie dieses Element wirklich wiederherstellen?",
-    "The data has been restored successfully!": "Die Daten wurden erfolgreich wiederhergestellt!"
+    "The data has been restored successfully!": "Die Daten wurden erfolgreich wiederhergestellt!",
+    "Auto backup in the cloud": "Automatische Sicherung in der Cloud"
 }
