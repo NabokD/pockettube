@@ -393,5 +393,6 @@
     "New backup has been created successfully!": "A new backup has been created successfully!",
     "The data has been restored successfully!": "The data has been restored successfully!",
     "Just reload the YouTube page": "Just reload the YouTube page",
-    "Backup list is empty": "The backup list is empty"
+    "Backup list is empty": "The backup list is empty",
+    "Auto backup in the cloud": "Auto backup in the cloud"
 }
