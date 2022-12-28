@@ -393,5 +393,6 @@
     "Created date": "Dátum vytvorenia",
     "Manage": "Spravovať",
     "New backup has been created successfully!": "Nová záloha bola úspešne vytvorená!",
-    "The data has been restored successfully!": "Údaje boli úspešne obnovené!"
+    "The data has been restored successfully!": "Údaje boli úspešne obnovené!",
+    "Auto backup in the cloud": "Automatické zálohovanie v cloude"
 }
