@@ -393,5 +393,6 @@
     "Backup list": "Резервен списък",
     "Are you sure you want to restore this item?": "Сигурни ли сте, че искате да възстановите този елемент?",
     "The data has been restored successfully!": "Данните са възстановени успешно!",
-    "Backup list is empty": "Резервният списък е празен"
+    "Backup list is empty": "Резервният списък е празен",
+    "Auto backup in the cloud": "Автоматично архивиране в облака"
 }
