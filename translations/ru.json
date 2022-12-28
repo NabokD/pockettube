@@ -382,5 +382,17 @@
     "Set Playlists Order For Left Sidebar": "Установить порядок списков воспроизведения для левой боковой панели",
     "Time watched": "Время просмотра",
     "Total playlist time": "Общее время плейлиста",
-    "enable rectangle thumbnails on PocketTube": "включить миниатюры прямоугольников на PocketTube"
+    "enable rectangle thumbnails on PocketTube": "включить миниатюры прямоугольников на PocketTube",
+    "New": "Новый",
+    "Download": "Скачать",
+    "Restore": "Восстановить",
+    "Manage": "Управлять",
+    "Create New": "Создать новое",
+    "Are you sure you want to restore this item?": "Вы уверены, что хотите восстановить этот элемент?",
+    "The data has been restored successfully!": "Данные успешно восстановлены!",
+    "Just reload the YouTube page": "Просто перезагрузите страницу YouTube",
+    "Created date": "Дата создания",
+    "Backup list": "Список резервных копий",
+    "New backup has been created successfully!": "Новая резервная копия успешно создана!",
+    "Backup list is empty": "Список резервных копий пуст"
 }
