@@ -393,5 +393,6 @@
     "Backup list is empty": "备份列表为空",
     "Manage": "管理",
     "Backup list": "备份列表",
-    "New backup has been created successfully!": "已成功创建新备份！"
+    "New backup has been created successfully!": "已成功创建新备份！",
+    "Auto backup in the cloud": "云端自动备份"
 }
