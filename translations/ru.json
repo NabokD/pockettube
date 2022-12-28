@@ -394,5 +394,6 @@
     "Created date": "Дата создания",
     "Backup list": "Список резервных копий",
     "New backup has been created successfully!": "Новая резервная копия успешно создана!",
-    "Backup list is empty": "Список резервных копий пуст"
+    "Backup list is empty": "Список резервных копий пуст",
+    "Auto backup in the cloud": "Автоматическое резервное копирование в облаке"
 }
