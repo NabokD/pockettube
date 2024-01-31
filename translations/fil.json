@@ -418,5 +418,13 @@
     "No, cancel my subscription": "Hindi, kanselahin ang aking subscription",
     "Never mind, I don't want to cancel.": "Di bale, ayokong i-cancel.",
     "Since you liked our support,": "Dahil nagustuhan mo ang aming suporta,",
-    "Yes, I'll stay on for now": "Oo, mananatili ako sa ngayon"
+    "Yes, I'll stay on for now": "Oo, mananatili ako sa ngayon",
+    "Horizontal": "Vaakasuuntainen",
+    "Vertical": "Pystysuora",
+    "Restore Default": "Palauta oletusarvot",
+    "Grid view style": "Ruudukkonäkymätyyli",
+    "Column width": "Sarakkeen leveys",
+    "Count of Videos in cell": "Videoiden määrä solussa",
+    "Options": "Vaihtoehdot",
+    "Hide columns where all videos are watched": "Piilota sarakkeet, joissa kaikki videot katsotaan"
 }

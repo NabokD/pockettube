@@ -418,5 +418,13 @@
     "In the meantime, do you want to keep your subscription active?": "U međuvremenu, želite li svoju pretplatu zadržati aktivnom?",
     "No, I'd rather just cancel": "Ne, radije bih otkazao",
     "No, cancel my subscription": "Ne, otkaži moju pretplatu",
-    "Never mind, I don't want to cancel.": "Nema veze, ne želim otkazati."
+    "Never mind, I don't want to cancel.": "Nema veze, ne želim otkazati.",
+    "Horizontal": "Vodoravno",
+    "Vertical": "Okomito",
+    "Restore Default": "Vratiti tvorničke postavke",
+    "Grid view style": "Stil prikaza mreže",
+    "Column width": "Širina stupca",
+    "Count of Videos in cell": "Broj videozapisa u ćeliji",
+    "Options": "Opcije",
+    "Hide columns where all videos are watched": "Sakrij stupce u kojima se gledaju svi videozapisi"
 }

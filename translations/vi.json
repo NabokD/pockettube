@@ -418,5 +418,13 @@
     "No, I'd rather just cancel": "Không, tôi chỉ muốn hủy",
     "Yes, I'll stay on for now": "Vâng, tôi sẽ ở lại cho bây giờ",
     "No, cancel my subscription": "Không, hủy đăng ký của tôi",
-    "Never mind, I don't want to cancel.": "Đừng bận tâm, tôi không muốn hủy bỏ."
+    "Never mind, I don't want to cancel.": "Đừng bận tâm, tôi không muốn hủy bỏ.",
+    "Horizontal": "Nằm ngang",
+    "Vertical": "Thẳng đứng",
+    "Restore Default": "Khôi phục lại mặc định",
+    "Grid view style": "Phong cách xem lưới",
+    "Column width": "Chiều rộng cột",
+    "Count of Videos in cell": "Số lượng video trong ô",
+    "Options": "Tùy chọn",
+    "Hide columns where all videos are watched": "Ẩn các cột nơi tất cả video được xem"
 }

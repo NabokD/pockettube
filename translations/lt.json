@@ -418,5 +418,13 @@
     "Never mind, I don't want to cancel.": "Nesvarbu, aš nenoriu atšaukti.",
     "It wasn't all bad, right?": "Ne viskas buvo blogai, tiesa?",
     "can we chat a bit more about this?": "ar galime šiek tiek plačiau apie tai pakalbėti?",
-    "Didn't see the value": "Nematė vertės"
+    "Didn't see the value": "Nematė vertės",
+    "Horizontal": "Horizontāli",
+    "Vertical": "Vertikālais",
+    "Restore Default": "Atjaunot noklusējuma iestatījumus",
+    "Grid view style": "Tīkla skata stils",
+    "Column width": "Kolonnu platums",
+    "Count of Videos in cell": "Videoklipu skaits šūnā",
+    "Options": "Iespējas",
+    "Hide columns where all videos are watched": "Paslēpt kolonnas, kurās skatīti visi videoklipi"
 }

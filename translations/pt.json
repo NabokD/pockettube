@@ -418,5 +418,13 @@
     "Yes, let's chat": "Sim, vamos conversar",
     "Yes, I'll stay on for now": "Sim, vou ficar por enquanto",
     "No, cancel my subscription": "Não, cancelar minha assinatura",
-    "Never mind, I don't want to cancel.": "Não importa, não quero cancelar."
+    "Never mind, I don't want to cancel.": "Não importa, não quero cancelar.",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical",
+    "Restore Default": "Restaurar padrão",
+    "Grid view style": "Estilo de exibição de grade",
+    "Column width": "Largura da coluna",
+    "Count of Videos in cell": "Contagem de vídeos na célula",
+    "Options": "Opções",
+    "Hide columns where all videos are watched": "Ocultar colunas em que todos os vídeos são assistidos"
 }

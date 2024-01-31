@@ -418,5 +418,13 @@
     "Never mind, I don't want to cancel.": "Sudahlah, saya tidak ingin membatalkan.",
     "Did we do anything well?": "Apakah kita melakukan sesuatu dengan baik?",
     "Since you liked our support,": "Karena Anda menyukai dukungan kami,",
-    "We're happy you're here.": "Kami senang Anda ada di sini."
+    "We're happy you're here.": "Kami senang Anda ada di sini.",
+    "Horizontal": "Horisontal",
+    "Vertical": "Vertikal",
+    "Restore Default": "Kembalikan Default",
+    "Grid view style": "Gaya tampilan kisi",
+    "Column width": "Lebar kolom",
+    "Count of Videos in cell": "Jumlah Video dalam sel",
+    "Options": "Pilihan",
+    "Hide columns where all videos are watched": "Sembunyikan kolom tempat semua video ditonton"
 }

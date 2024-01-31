@@ -418,5 +418,13 @@
     "No, I'd rather just cancel": "不，我寧願直接取消",
     "Yes, I'll stay on for now": "是的，我會留下來",
     "No, cancel my subscription": "不，取消我的訂閱",
-    "Never mind, I don't want to cancel.": "沒關係，我不想取消。"
+    "Never mind, I don't want to cancel.": "沒關係，我不想取消。",
+    "Horizontal": "水平的",
+    "Vertical": "垂直的",
+    "Restore Default": "恢復預設",
+    "Grid view style": "網格視圖樣式",
+    "Column width": "列寬",
+    "Count of Videos in cell": "單元格中的視訊數量",
+    "Options": "選項",
+    "Hide columns where all videos are watched": "隱藏觀看所有影片的列"
 }

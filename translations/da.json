@@ -418,5 +418,13 @@
     "Yes, I'll stay on for now": "Ja, jeg bliver ved lige nu",
     "No, cancel my subscription": "Nej, opsig mit abonnement",
     "Never mind, I don't want to cancel.": "Pyt, jeg vil ikke aflyse.",
-    "It wasn't all bad, right?": "Det var ikke helt dårligt, vel?"
+    "It wasn't all bad, right?": "Det var ikke helt dårligt, vel?",
+    "Horizontal": "Vandret",
+    "Vertical": "Lodret",
+    "Restore Default": "Gendan standard",
+    "Grid view style": "Stil for gittervisning",
+    "Column width": "Kolonnebredde",
+    "Count of Videos in cell": "Antal videoer i cellen",
+    "Options": "Indstillinger",
+    "Hide columns where all videos are watched": "Skjul kolonner, hvor alle videoer er set"
 }

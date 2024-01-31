@@ -418,5 +418,13 @@
     "No, I'd rather just cancel": "Nie, radšej to zruším",
     "Yes, I'll stay on for now": "Áno, zatiaľ zostanem",
     "No, cancel my subscription": "Nie, zrušiť moje predplatné",
-    "Never mind, I don't want to cancel.": "Nevadí, nechcem zrušiť."
+    "Never mind, I don't want to cancel.": "Nevadí, nechcem zrušiť.",
+    "Horizontal": "Horizontálne",
+    "Vertical": "Vertikálne",
+    "Restore Default": "Obnoviť predvolené nastavenie",
+    "Grid view style": "Štýl zobrazenia mriežky",
+    "Column width": "Šírka stĺpca",
+    "Count of Videos in cell": "Počet videí v bunke",
+    "Options": "Možnosti",
+    "Hide columns where all videos are watched": "Skryť stĺpce, v ktorých sú sledované všetky videá"
 }

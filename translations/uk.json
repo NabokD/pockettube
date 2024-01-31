@@ -260,7 +260,7 @@
     "remove playlist link in TV mode": "видалити посилання зі списком в ТВ режимі",
     "hide icons": "не показувати іконки",
     "hide new videos count": "не показувати кількість нових відео",
-    "disable removing the channel from the group after unsubscribing": "вимкнути видалення каналу з групи після підписки",
+    "disable removing the channel from the group after unsubscribing": "вимкнути видалення каналу з групи після відписки",
     "lock position in the custom sort view": "заблокувати положення у власному режимі сортування",
     "Download link": "Посилання для завантаження",
     "You'll see new videos here after getting the notification": "Після отримання сповіщення ви побачите нові відео тут",
@@ -419,5 +419,13 @@
     "No, I'd rather just cancel": "Ні, я б краще просто скасував",
     "Yes, I'll stay on for now": "Так, поки що залишуся",
     "No, cancel my subscription": "Ні, скасувати мою підписку",
-    "Never mind, I don't want to cancel.": "Нічого, я не хочу скасовувати."
+    "Never mind, I don't want to cancel.": "Нічого, я не хочу скасовувати.",
+    "Horizontal": "Горизонтально",
+    "Vertical": "Вертикально",
+    "Restore Default": "Відновити за замовчуванням",
+    "Grid view style": "Стиль перегляду сітки",
+    "Column width": "Ширина стовпчика",
+    "Count of Videos in cell": "Кількість відео в комірці",
+    "Options": "Параметри",
+    "Hide columns where all videos are watched": "Приховати стовпці, в яких переглянуто всі відео"
 }

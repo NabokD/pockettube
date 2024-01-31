@@ -418,5 +418,13 @@
     "No, I'd rather just cancel": "Nu, prefer să anulez",
     "Yes, I'll stay on for now": "Da, voi rămâne deocamdată",
     "No, cancel my subscription": "Nu, anulați abonamentul",
-    "Never mind, I don't want to cancel.": "Nu contează, nu vreau să anulez."
+    "Never mind, I don't want to cancel.": "Nu contează, nu vreau să anulez.",
+    "Horizontal": "Orizontal",
+    "Vertical": "Vertical",
+    "Restore Default": "Restabilire implicită",
+    "Grid view style": "Stilul de vizualizare în grilă",
+    "Column width": "Lățimea coloanei",
+    "Count of Videos in cell": "Numărul de videoclipuri din celulă",
+    "Options": "Opțiuni",
+    "Hide columns where all videos are watched": "Ascundeți coloanele în care sunt vizionate toate videoclipurile"
 }

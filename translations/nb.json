@@ -418,5 +418,13 @@
     "Never mind, I don't want to cancel.": "Ikke bry meg, jeg vil ikke avbryte.",
     "We're sorry to see you go.": "Vi beklager å se deg gå.",
     "Since you liked our support,": "Siden du likte støtten vår,",
-    "Missing features/hard to use": "Manglende funksjoner/vanskelig å bruke"
+    "Missing features/hard to use": "Manglende funksjoner/vanskelig å bruke",
+    "Horizontal": "Horisontal",
+    "Vertical": "Vertikal",
+    "Restore Default": "Gjenopprett standard",
+    "Grid view style": "Stil for rutenettvisning",
+    "Column width": "Kolonnebredde",
+    "Count of Videos in cell": "Antall videoer i cellen",
+    "Options": "Alternativer",
+    "Hide columns where all videos are watched": "Skjul kolonner der alle videoer er sett"
 }

@@ -418,5 +418,15 @@
     "No, I'd rather just cancel": "No, I'd rather just cancel",
     "Yes, I'll stay on for now": "Yes, I'll stay on for now",
     "No, cancel my subscription": "No, cancel my subscription",
-    "Never mind, I don't want to cancel.": "Never mind, I don't want to cancel."
+    "Never mind, I don't want to cancel.": "Never mind, I don't want to cancel.",
+    "Earn free months": "Earn free months",
+    "Account": "Account",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical",
+    "Restore Default": "Restore Default",
+    "Grid view style": "Grid view style",
+    "Column width": "Column width",
+    "Count of Videos in cell": "Count of Videos in cell",
+    "Options": "Options",
+    "Hide columns where all videos are watched": "Hide columns where all videos are watched"
 }

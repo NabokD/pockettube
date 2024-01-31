@@ -418,5 +418,13 @@
     "No, I'd rather just cancel": "Hayır, iptal etmeyi tercih ederim",
     "Yes, I'll stay on for now": "Evet, şimdilik kalacağım",
     "No, cancel my subscription": "Hayır, aboneliğimi iptal et",
-    "Never mind, I don't want to cancel.": "Boşver, iptal etmek istemiyorum."
+    "Never mind, I don't want to cancel.": "Boşver, iptal etmek istemiyorum.",
+    "Horizontal": "Yatay",
+    "Vertical": "Dikey",
+    "Restore Default": "Varsayılanı Geri Yükle",
+    "Grid view style": "Izgara görünüm stili",
+    "Column width": "Sütun genişliği",
+    "Count of Videos in cell": "Hücredeki Video Sayısı",
+    "Options": "Seçenekler",
+    "Hide columns where all videos are watched": "Tüm videoların izlendiği sütunları gizle"
 }

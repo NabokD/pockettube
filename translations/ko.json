@@ -418,5 +418,13 @@
     "Many things - I'll be back": "많은 것들 - 내가 돌아올게",
     "Helpful support": "유용한 지원",
     "Yes, let's chat": "네, 채팅합시다",
-    "Never mind, I don't want to cancel.": "취소하고 싶지 않습니다."
+    "Never mind, I don't want to cancel.": "취소하고 싶지 않습니다.",
+    "Horizontal": "가로",
+    "Vertical": "세로",
+    "Restore Default": "기본값 복원",
+    "Grid view style": "그리드 뷰 스타일",
+    "Column width": "열 너비",
+    "Count of Videos in cell": "셀 내 동영상 개수",
+    "Options": "옵션",
+    "Hide columns where all videos are watched": "모든 동영상이 시청된 열 숨기기"
 }

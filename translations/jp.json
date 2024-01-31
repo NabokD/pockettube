@@ -418,5 +418,13 @@
     "Not useful right now": "現在役に立たない",
     "No, I'd rather just cancel": "いいえ、むしろキャンセルしたいです",
     "Yes, I'll stay on for now": "はい、とりあえず続けます",
-    "No, cancel my subscription": "いいえ、サブスクリプションをキャンセルします"
+    "No, cancel my subscription": "いいえ、サブスクリプションをキャンセルします",
+    "Horizontal": "水平",
+    "Vertical": "垂直",
+    "Restore Default": "デフォルトに戻す",
+    "Grid view style": "グリッドビュースタイル",
+    "Column width": "カラム幅",
+    "Count of Videos in cell": "セル内の動画数",
+    "Options": "オプション",
+    "Hide columns where all videos are watched": "すべての動画が視聴されている列を隠す"
 }

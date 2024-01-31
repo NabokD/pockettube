@@ -418,5 +418,13 @@
     "Never mind, I don't want to cancel.": "Ce n'est pas grave, je ne veux pas annuler.",
     "How did we fall short?": "Comment avons-nous échoué?",
     "Wonderful - we'll be in touch shortly!": "Merveilleux - nous vous contacterons sous peu !",
-    "Not useful right now": "Pas utile pour le moment"
+    "Not useful right now": "Pas utile pour le moment",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical",
+    "Restore Default": "Restaurer la valeur par défaut",
+    "Grid view style": "Style d'affichage de la grille",
+    "Column width": "Largeur de la colonne",
+    "Count of Videos in cell": "Nombre de vidéos dans la cellule",
+    "Options": "Options",
+    "Hide columns where all videos are watched": "Cacher les colonnes où toutes les vidéos sont regardées"
 }

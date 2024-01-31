@@ -418,5 +418,13 @@
     "No, I'd rather just cancel": "No, prefiero cancelar",
     "Yes, I'll stay on for now": "Sí, me quedaré por ahora.",
     "No, cancel my subscription": "No, cancelar mi suscripción",
-    "Never mind, I don't want to cancel.": "No importa, no quiero cancelar."
+    "Never mind, I don't want to cancel.": "No importa, no quiero cancelar.",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical",
+    "Restore Default": "Restaurar valores predeterminados",
+    "Grid view style": "Estilo de vista de cuadrícula",
+    "Column width": "Ancho de columna",
+    "Count of Videos in cell": "Recuento de vídeos en la celda",
+    "Options": "Opciones",
+    "Hide columns where all videos are watched": "Ocultar columnas donde se ven todos los vídeos"
 }

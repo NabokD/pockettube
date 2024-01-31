@@ -418,5 +418,13 @@
     "can we chat a bit more about this?": "kunnen we hier nog even over kletsen?",
     "We're happy you're here.": "We zijn blij dat je er bent.",
     "Missing features/hard to use": "Ontbrekende functies/moeilijk te gebruiken",
-    "Yes, let's chat": "Ja, laten we eens praten"
+    "Yes, let's chat": "Ja, laten we eens praten",
+    "Horizontal": "Horizontaal",
+    "Vertical": "Verticaal",
+    "Restore Default": "Standaard herstellen",
+    "Grid view style": "Rasterweergave stijl",
+    "Column width": "Kolombreedte",
+    "Count of Videos in cell": "Aantal video's in cel",
+    "Options": "Opties",
+    "Hide columns where all videos are watched": "Kolommen verbergen waarin alle video's zijn bekeken"
 }

@@ -418,5 +418,13 @@
     "Many things - I'll be back": "Vieles - ich komme wieder",
     "No, I'd rather just cancel": "Nein, ich würde lieber einfach kündigen",
     "No, cancel my subscription": "Nein, mein Abonnement kündigen",
-    "Never mind, I don't want to cancel.": "Macht nichts, ich möchte nicht kündigen."
+    "Never mind, I don't want to cancel.": "Macht nichts, ich möchte nicht kündigen.",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertikal",
+    "Restore Default": "Standard wiederherstellen",
+    "Grid view style": "Stil der Rasteransicht",
+    "Column width": "Spaltenbreite",
+    "Count of Videos in cell": "Anzahl der Videos in der Zelle",
+    "Options": "Optionen",
+    "Hide columns where all videos are watched": "Spalten ausblenden, in denen alle Videos angezeigt werden"
 }

@@ -418,5 +418,13 @@
     "No, I'd rather just cancel": "لا ، أفضل الإلغاء",
     "Yes, I'll stay on for now": "نعم ، سأبقى في الوقت الحالي",
     "No, cancel my subscription": "لا ، إلغاء اشتراكي",
-    "Never mind, I don't want to cancel.": "لا تهتم ، لا أريد الإلغاء."
+    "Never mind, I don't want to cancel.": "لا تهتم ، لا أريد الإلغاء.",
+    "Horizontal": "أفقي",
+    "Vertical": "رَأسِيّ",
+    "Restore Default": "استعادة الافتراضي",
+    "Grid view style": "نمط عرض الشبكة",
+    "Column width": "عرض العمود",
+    "Count of Videos in cell": "عدد مقاطع الفيديو في الخلية",
+    "Options": "خيارات",
+    "Hide columns where all videos are watched": "إخفاء الأعمدة التي تتم فيها مشاهدة جميع مقاطع الفيديو"
 }

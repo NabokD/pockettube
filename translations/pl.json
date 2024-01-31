@@ -418,5 +418,13 @@
     "No, cancel my subscription": "Nie, anuluj moją subskrypcję",
     "Never mind, I don't want to cancel.": "Nieważne, nie chcę odwoływać.",
     "Did we do anything well?": "Czy zrobiliśmy coś dobrze?",
-    "We're happy you're here.": "Cieszymy się, że tu jesteś."
+    "We're happy you're here.": "Cieszymy się, że tu jesteś.",
+    "Horizontal": "Poziomy",
+    "Vertical": "Pionowo",
+    "Restore Default": "Przywróć domyślne",
+    "Grid view style": "Styl widoku siatki",
+    "Column width": "Szerokość kolumny",
+    "Count of Videos in cell": "Liczba filmów w komórce",
+    "Options": "Opcje",
+    "Hide columns where all videos are watched": "Ukryj kolumny, w których oglądane są wszystkie filmy"
 }

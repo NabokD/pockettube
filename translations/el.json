@@ -418,5 +418,13 @@
     "We're sorry to see you go.": "Λυπούμαστε που φεύγεις.",
     "It wasn't all bad, right?": "Δεν ήταν όλα άσχημα, σωστά;",
     "can we chat a bit more about this?": "μπορούμε να μιλήσουμε λίγο περισσότερο για αυτό;",
-    "Missing features/hard to use": "Λείπουν χαρακτηριστικά/δύσκολο στη χρήση"
+    "Missing features/hard to use": "Λείπουν χαρακτηριστικά/δύσκολο στη χρήση",
+    "Horizontal": "Οριζόντια",
+    "Vertical": "Κάθετη",
+    "Restore Default": "Επαναφορά προεπιλογής",
+    "Grid view style": "Στυλ προβολής πλέγματος",
+    "Column width": "Πλάτος στήλης",
+    "Count of Videos in cell": "Μέτρηση των βίντεο στο κελί",
+    "Options": "Επιλογές",
+    "Hide columns where all videos are watched": "Απόκρυψη των στηλών όπου παρακολουθούνται όλα τα βίντεο"
 }

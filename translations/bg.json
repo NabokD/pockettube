@@ -418,5 +418,13 @@
     "Yes, I'll stay on for now": "Да, ще остана засега",
     "No, cancel my subscription": "Не, анулира абонамента ми",
     "Never mind, I don't want to cancel.": "Няма значение, не искам да отменям.",
-    "Many things - I'll be back": "Много неща - ще се върна"
+    "Many things - I'll be back": "Много неща - ще се върна",
+    "Horizontal": "Хоризонтално",
+    "Vertical": "Вертикален",
+    "Restore Default": "Възстановяване по подразбиране",
+    "Grid view style": "Стил на изгледа на мрежата",
+    "Column width": "Ширина на колоната",
+    "Count of Videos in cell": "Брой на видеоклиповете в клетката",
+    "Options": "Опции",
+    "Hide columns where all videos are watched": "Скриване на колоните, в които се гледат всички видеоклипове"
 }

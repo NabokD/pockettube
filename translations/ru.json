@@ -419,5 +419,13 @@
     "Easy to use": "Легко использовать",
     "Yes, let's chat": "Да, давай поболтаем",
     "No, I'd rather just cancel": "Нет, я бы предпочел просто отменить",
-    "Yes, I'll stay on for now": "Да, я пока останусь"
+    "Yes, I'll stay on for now": "Да, я пока останусь",
+    "Horizontal": "Горизонтальный",
+    "Vertical": "Вертикальный",
+    "Restore Default": "Восстановить по умолчанию",
+    "Grid view style": "Стиль представления сетки",
+    "Column width": "Ширина столбца",
+    "Count of Videos in cell": "Количество видео в ячейке",
+    "Options": "Опции",
+    "Hide columns where all videos are watched": "Скрыть столбцы, в которых просмотрены все видео"
 }
