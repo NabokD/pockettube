@@ -11,7 +11,7 @@ Since PocketTube is not fully open-source, this repository serves as a place for
 - [Chrome](//chrome.google.com/webstore/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb)
 - [Firefox](//addons.mozilla.org/en-US/firefox/addon/youtube-subscription-groups)
 - [Safari](//pockettube.io/install/PocketTube.dmg)
-- [Edge](//microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home)
+- [Edge](//microsoftedge.microsoft.com/addons/detail/pockettube-youtube-subsc/klfeohnijmogpjoeenglhonjfiacajpp)
 - [Opera](//addons.opera.com/en/extensions/details/pockettube-youtube-subscription-manager)
 
 ### Mobile Apps:
