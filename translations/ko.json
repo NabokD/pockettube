@@ -431,5 +431,8 @@
     "Remove watched videos": "시청한 동영상 삭제",
     "Save Discount": "할인",
     "Create": "생성",
-    "Search or Create": "검색 또는 생성"
+    "Search or Create": "검색 또는 생성",
+    "Sorting playlist videos by duration": "재생목록 비디오를 지속 시간별로 정렬",
+    "Custom filter by duration in the playlist": "재생목록에서 지속 시간별 사용자 지정 필터",
+    "Batch selection for Add to Queue": "일괄 선택하여 대기열에 추가"
 }

@@ -431,5 +431,8 @@
     "Remove watched videos": "İzlenen videoları kaldır",
     "Save Discount": "Tasarruf et",
     "Create": "Oluştur",
-    "Search or Create": "Ara veya Oluştur"
+    "Search or Create": "Ara veya Oluştur",
+    "Sorting playlist videos by duration": "Çalma listesi videolarını süreye göre sıralama",
+    "Custom filter by duration in the playlist": "Çalma listesinde süreye göre özel filtre",
+    "Batch selection for Add to Queue": "Kuyruğa Ekle için toplu seçim"
 }

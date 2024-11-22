@@ -431,5 +431,8 @@
     "Remove watched videos": "إزالة الفيديوهات التي تمّت مشاهدتها",
     "Save Discount": "-",
     "Create": "إنشاءإنشاء مجموعة",
-    "Search or Create": "ابحث أو أنشئ"
+    "Search or Create": "ابحث أو أنشئ",
+    "Sorting playlist videos by duration": "فرز مقاطع الفيديو في قائمة التشغيل حسب المدة",
+    "Custom filter by duration in the playlist": "فلتر مخصص حسب المدة في قائمة التشغيل",
+    "Batch selection for Add to Queue": "تحديد دفعات لإضافة إلى قائمة الانتظار"
 }

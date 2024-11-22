@@ -431,5 +431,8 @@
     "Remove watched videos": "Bekeken video's verwijderen",
     "Save Discount": "Bespaar",
     "Create": "Maken",
-    "Search or Create": "Zoek of Maak"
+    "Search or Create": "Zoek of Maak",
+    "Sorting playlist videos by duration": "Afspeellijstvideo's sorteren op duur",
+    "Custom filter by duration in the playlist": "Aangepast filter op duur in de afspeellijst",
+    "Batch selection for Add to Queue": "Batchselectie voor Toevoegen aan wachtrij"
 }

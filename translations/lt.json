@@ -431,5 +431,8 @@
     "Remove watched videos": "Pašalinti peržiūrėtus vaizdo įrašus",
     "Save Discount": "-",
     "Create": "Sukurti",
-    "Search or Create": "Ieškoti arba sukurti"
+    "Search or Create": "Ieškoti arba sukurti",
+    "Sorting playlist videos by duration": "Ordinare i video della playlist per durata",
+    "Custom filter by duration in the playlist": "Filtro personalizzato per durata nella playlist",
+    "Batch selection for Add to Queue": "Selezione multipla per Aggiungi alla coda"
 }

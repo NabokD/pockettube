@@ -431,5 +431,8 @@
     "Remove watched videos": "移除观看过的视频",
     "Save Discount": "节省",
     "Create": "创建",
-    "Search or Create": "搜索或创建"
+    "Search or Create": "搜索或创建",
+    "Sorting playlist videos by duration": "按时长排序播放列表中的视频",
+    "Custom filter by duration in the playlist": "播放列表中按时长自定义过滤",
+    "Batch selection for Add to Queue": "批量选择添加到队列"
 }

@@ -431,5 +431,8 @@
     "Remove watched videos": "Alisin ang mga napanood na video",
     "Save Discount": "-",
     "Create": "Lumikha",
-    "Search or Create": "Maghanap o Lumikha"
+    "Search or Create": "Maghanap o Lumikha",
+    "Sorting playlist videos by duration": "Pag-uuri ng mga video ng playlist ayon sa tagal",
+    "Custom filter by duration in the playlist": "Custom na filter ayon sa tagal sa playlist",
+    "Batch selection for Add to Queue": "Batch na pagpili para sa Idagdag sa Queue"
 }

@@ -431,5 +431,8 @@
     "Remove watched videos": "Gesehene Videos entfernen",
     "Save Discount": "Spare",
     "Create": "Erstellen",
-    "Search or Create": "Suchen oder Erstellen"
+    "Search or Create": "Suchen oder Erstellen",
+    "Sorting playlist videos by duration": "Sortieren von Playlist-Videos nach Dauer",
+    "Custom filter by duration in the playlist": "Benutzerdefinierter Filter nach Dauer in der Playlist",
+    "Batch selection for Add to Queue": "Stapelweise Auswahl für Zur Warteschlange hinzufügen"
 }

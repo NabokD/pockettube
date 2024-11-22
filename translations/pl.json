@@ -431,5 +431,8 @@
     "Remove watched videos": "Usuń obejrzane filmy",
     "Save Discount": "Zaoszczędź",
     "Create": "Utwórz",
-    "Search or Create": "Wyszukaj lub Utwórz"
+    "Search or Create": "Wyszukaj lub Utwórz",
+    "Sorting playlist videos by duration": "Sortowanie filmów w playliście według długości",
+    "Custom filter by duration in the playlist": "Niestandardowy filtr według długości w playliście",
+    "Batch selection for Add to Queue": "Partia wyboru do Dodaj do kolejki"
 }

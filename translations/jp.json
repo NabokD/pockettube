@@ -431,5 +431,8 @@
     "Remove watched videos": "視聴済みの動画を削除",
     "Save Discount": "オフ",
     "Create": "作成",
-    "Search or Create": "検索または作成"
+    "Search or Create": "検索または作成",
+    "Sorting playlist videos by duration": "プレイリストの動画を長さで並べ替え",
+    "Custom filter by duration in the playlist": "プレイリスト内の長さでカスタムフィルタリング",
+    "Batch selection for Add to Queue": "一括選択してキューに追加"
 }

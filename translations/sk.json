@@ -431,5 +431,8 @@
     "Remove watched videos": "Odstrániť pozreté videá",
     "Save Discount": "-",
     "Create": "Vytvoriť",
-    "Search or Create": "Vyhľadať alebo vytvoriť"
+    "Search or Create": "Vyhľadať alebo vytvoriť",
+    "Sorting playlist videos by duration": "Triedenie videí v zozname podľa trvania",
+    "Custom filter by duration in the playlist": "Vlastný filter podľa trvania v zozname",
+    "Batch selection for Add to Queue": "Hromadný výber pre Pridať do fronty"
 }

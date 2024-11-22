@@ -431,5 +431,8 @@
     "Remove watched videos": "Κατάργηση βίντεο που έχετε παρακολουθήσει",
     "Save Discount": "-",
     "Create": "Δημιουργία",
-    "Search or Create": "Αναζήτηση ή δημιουργία"
+    "Search or Create": "Αναζήτηση ή δημιουργία",
+    "Sorting playlist videos by duration": "Ταξινόμηση βίντεο στη λίστα αναπαραγωγής κατά διάρκεια",
+    "Custom filter by duration in the playlist": "Προσαρμοσμένο φίλτρο κατά διάρκεια στη λίστα αναπαραγωγής",
+    "Batch selection for Add to Queue": "Μαζική επιλογή για Προσθήκη στην ουρά"
 }

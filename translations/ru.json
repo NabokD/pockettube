@@ -432,5 +432,8 @@
     "Remove watched videos": "Удалить просмотренные видео",
     "Save Discount": "Экономия",
     "Create": "Создать",
-    "Search or Create": "Найти или Создать"
+    "Search or Create": "Найти или Создать",
+    "Sorting playlist videos by duration": "Сортировка видео в плейлисте по длительности",
+    "Custom filter by duration in the playlist": "Пользовательский фильтр по длительности в плейлисте",
+    "Batch selection for Add to Queue": "Групповой выбор для Добавить в очередь"
 }

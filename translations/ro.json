@@ -431,5 +431,8 @@
     "Remove watched videos": "Elimină videoclipurile vizionate",
     "Save Discount": "-",
     "Create": "Creați",
-    "Search or Create": "Căutați sau Creați"
+    "Search or Create": "Căutați sau Creați",
+    "Sorting playlist videos by duration": "Sortarea videoclipurilor din playlist după durată",
+    "Custom filter by duration in the playlist": "Filtru personalizat după durată în playlist",
+    "Batch selection for Add to Queue": "Selecție în lot pentru Adăugare la coadă"
 }

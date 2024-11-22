@@ -431,5 +431,8 @@
     "Remove watched videos": "Премахване на гледаните видеоклипове",
     "Save Discount": "-",
     "Create": "Създайте",
-    "Search or Create": "Търсене или създаване"
+    "Search or Create": "Търсене или създаване",
+    "Sorting playlist videos by duration": "Сортиране на видеоклипове в плейлиста по продължителност",
+    "Custom filter by duration in the playlist": "Персонализиран филтър по продължителност в плейлиста",
+    "Batch selection for Add to Queue": "Партиден избор за Добавяне в опашката"
 }

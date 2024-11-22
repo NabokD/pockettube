@@ -431,5 +431,8 @@
     "Remove watched videos": "Ukloni pogledane videozapise",
     "Save Discount": "-",
     "Create": "Stvori",
-    "Search or Create": "Pretraži ili stvori"
+    "Search or Create": "Pretraži ili stvori",
+    "Sorting playlist videos by duration": "Razvrstavanje videa na popisu po trajanju",
+    "Custom filter by duration in the playlist": "Prilagođeni filtar prema trajanju na popisu",
+    "Batch selection for Add to Queue": "Skupni odabir za Dodavanje u red"
 }

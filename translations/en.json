@@ -433,5 +433,8 @@
     "Remove watched videos": "Remove watched videos",
     "Save Discount": "Save",
     "Create": "Create",
-    "Search or Create": "Search or Create"
+    "Search or Create": "Search or Create",
+    "Sorting playlist videos by duration": "Sorting playlist videos by duration",
+    "Custom filter by duration in the playlist": "Custom filter by duration in the playlist",
+    "Batch selection for Add to Queue": "Batch selection for Add to Queue"
 }

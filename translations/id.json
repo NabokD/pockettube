@@ -431,5 +431,8 @@
     "Remove watched videos": "Hapus video yang ditonton",
     "Save Discount": "-",
     "Create": "Buat",
-    "Search or Create": "Cari atau Buat"
+    "Search or Create": "Cari atau Buat",
+    "Sorting playlist videos by duration": "Mengurutkan video playlist berdasarkan durasi",
+    "Custom filter by duration in the playlist": "Filter khusus berdasarkan durasi di playlist",
+    "Batch selection for Add to Queue": "Pilihan massal untuk Tambahkan ke Antrian"
 }

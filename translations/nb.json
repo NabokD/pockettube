@@ -431,5 +431,8 @@
     "Remove watched videos": "Fjern videoene du har sett",
     "Save Discount": "Spar",
     "Create": "Opprett",
-    "Search or Create": "Søk eller opprett"
+    "Search or Create": "Søk eller opprett",
+    "Sorting playlist videos by duration": "Sortering av spillelistevideoer etter varighet",
+    "Custom filter by duration in the playlist": "Tilpasset filter etter varighet i spillelisten",
+    "Batch selection for Add to Queue": "Batchvalg for Legg til i kø"
 }
