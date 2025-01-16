@@ -419,8 +419,6 @@
 	"Yes, I'll stay on for now": "",
 	"No, cancel my subscription": "",
 	"Never mind, I don't want to cancel.": "",
-	"Earn free months": "",
-	"Account": "",
 	"Horizontal": "",
 	"Vertical": "",
 	"Restore Default": "",
@@ -436,5 +434,16 @@
 	"Search or Create": "",
 	"Sorting playlist videos by duration": "",
 	"Custom filter by duration in the playlist": "",
-	"Batch selection for Add to Queue": ""
+	"Batch selection for Add to Queue": "",
+	"videos viewed above this threshold are considered watched (used for filtering)": "",
+	"Default Tab": "",
+	"Visibility Modes": "",
+	"Highlight in the group": "",
+	"Hide in the group": "",
+	"Default": "",
+	"Home": "",
+	"Videos": "",
+	"Shorts": "",
+	"Releases": "",
+	"Podcasts": ""
 }
