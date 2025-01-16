@@ -434,5 +434,16 @@
     "Search or Create": "Ieškoti arba sukurti",
     "Sorting playlist videos by duration": "Ordinare i video della playlist per durata",
     "Custom filter by duration in the playlist": "Filtro personalizzato per durata nella playlist",
-    "Batch selection for Add to Queue": "Selezione multipla per Aggiungi alla coda"
+    "Batch selection for Add to Queue": "Selezione multipla per Aggiungi alla coda",
+    "videos viewed above this threshold are considered watched (used for filtering)": "vaizdo įrašai, peržiūrėti virš šios ribos, laikomi peržiūrėtais (naudojami filtravimui).",
+    "Default Tab": "Numatytoji kortelė",
+    "Visibility Modes": "Matomumo režimai",
+    "Highlight in the group": "Išskirti grupėje",
+    "Hide in the group": "Pasislėpkite grupėje",
+    "Default": "Noklusējums",
+    "Home": "Pagrindinis",
+    "Videos": "Vaizdo įrašai",
+    "Shorts": "Shorts",
+    "Releases": "Leidimai",
+    "Podcasts": "Podcasts"
 }

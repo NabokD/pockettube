@@ -434,5 +434,16 @@
     "Search or Create": "Cari atau Buat",
     "Sorting playlist videos by duration": "Mengurutkan video playlist berdasarkan durasi",
     "Custom filter by duration in the playlist": "Filter khusus berdasarkan durasi di playlist",
-    "Batch selection for Add to Queue": "Pilihan massal untuk Tambahkan ke Antrian"
+    "Batch selection for Add to Queue": "Pilihan massal untuk Tambahkan ke Antrian",
+    "videos viewed above this threshold are considered watched (used for filtering)": "video yang dilihat di atas ambang ini dianggap telah ditonton (digunakan untuk penyaringan)",
+    "Default Tab": "Tab Default",
+    "Visibility Modes": "Mode Visibilitas",
+    "Highlight in the group": "Sorot di grup",
+    "Hide in the group": "Sembunyikan di grup",
+    "Default": "Default",
+    "Home": "Beranda",
+    "Videos": "Video",
+    "Shorts": "Shorts",
+    "Releases": "Rilis",
+    "Podcasts": "Podcast"
 }

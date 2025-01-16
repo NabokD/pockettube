@@ -434,5 +434,16 @@
     "Search or Create": "Ara veya Oluştur",
     "Sorting playlist videos by duration": "Çalma listesi videolarını süreye göre sıralama",
     "Custom filter by duration in the playlist": "Çalma listesinde süreye göre özel filtre",
-    "Batch selection for Add to Queue": "Kuyruğa Ekle için toplu seçim"
+    "Batch selection for Add to Queue": "Kuyruğa Ekle için toplu seçim",
+    "videos viewed above this threshold are considered watched (used for filtering)": "bu eşik üzerinde izlenen videolar izlenmiş olarak kabul edilir (filtreleme için kullanılır)",
+    "Default Tab": "Varsayılan Sekme",
+    "Visibility Modes": "Görünürlük Modları",
+    "Highlight in the group": "Grupta vurgula",
+    "Hide in the group": "Grupta gizle",
+    "Default": "Varsayılan",
+    "Home": "Ana Sayfa",
+    "Videos": "Videolar",
+    "Shorts": "Shorts",
+    "Releases": "Yayınlananlar",
+    "Podcasts": "Podcast'ler"
 }

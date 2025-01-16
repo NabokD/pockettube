@@ -434,5 +434,16 @@
     "Search or Create": "Vyhľadať alebo vytvoriť",
     "Sorting playlist videos by duration": "Triedenie videí v zozname podľa trvania",
     "Custom filter by duration in the playlist": "Vlastný filter podľa trvania v zozname",
-    "Batch selection for Add to Queue": "Hromadný výber pre Pridať do fronty"
+    "Batch selection for Add to Queue": "Hromadný výber pre Pridať do fronty",
+    "videos viewed above this threshold are considered watched (used for filtering)": "videá prezerané nad touto hranicou sa považujú za prezerané (používa sa na filtrovanie)",
+    "Default Tab": "Predvolená karta",
+    "Visibility Modes": "Režimy viditeľnosti",
+    "Highlight in the group": "Zvýrazniť v skupine",
+    "Hide in the group": "Skryť v skupine",
+    "Default": "Predvolené",
+    "Home": "Domov",
+    "Videos": "Videá",
+    "Shorts": "Shorts",
+    "Releases": "Vydania",
+    "Podcasts": "Podcasty"
 }

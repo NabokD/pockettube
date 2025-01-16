@@ -109,7 +109,7 @@
     "Date added (oldest)": "Fecha de subida (más antiguos)",
     "Most popular": "Más populares",
     "Uploads": "Subidas",
-    "Live": "En Directo",
+    "Live": "En vivo",
     "Community": "Comunidad",
     "Watch Later": "Ver más tarde",
     "List": "Lista",
@@ -434,5 +434,16 @@
     "Search or Create": "Buscar o Crear",
     "Sorting playlist videos by duration": "Ordenar vídeos de la lista de reproducción por duración",
     "Custom filter by duration in the playlist": "Filtro personalizado por duración en la lista de reproducción",
-    "Batch selection for Add to Queue": "Selección por lotes para Agregar a la cola"
+    "Batch selection for Add to Queue": "Selección por lotes para Agregar a la cola",
+    "videos viewed above this threshold are considered watched (used for filtering)": "los videos vistos por encima de este umbral se consideran vistos (usados para filtrar)",
+    "Default Tab": "Ficha Predeterminada",
+    "Visibility Modes": "Modos de visibilidad",
+    "Highlight in the group": "Resaltar en el grupo",
+    "Hide in the group": "Ocultar en el grupo",
+    "Default": "Predeterminado",
+    "Home": "Principal",
+    "Videos": "Videos",
+    "Shorts": "Shorts",
+    "Releases": "Lanzamientos",
+    "Podcasts": "Podcasts"
 }

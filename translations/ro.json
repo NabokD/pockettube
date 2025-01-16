@@ -434,5 +434,16 @@
     "Search or Create": "Căutați sau Creați",
     "Sorting playlist videos by duration": "Sortarea videoclipurilor din playlist după durată",
     "Custom filter by duration in the playlist": "Filtru personalizat după durată în playlist",
-    "Batch selection for Add to Queue": "Selecție în lot pentru Adăugare la coadă"
+    "Batch selection for Add to Queue": "Selecție în lot pentru Adăugare la coadă",
+    "videos viewed above this threshold are considered watched (used for filtering)": "videoclipurile vizionate peste acest prag sunt considerate vizionate (utilizat pentru filtrare)",
+    "Default Tab": "Tab implicit",
+    "Visibility Modes": "Moduri de vizibilitate",
+    "Highlight in the group": "Evidențiază în grup",
+    "Hide in the group": "Ascunde în grup",
+    "Default": "Implicit",
+    "Home": "Pagina de pornire",
+    "Videos": "Videoclipuri",
+    "Shorts": "Shorts",
+    "Releases": "Lansări",
+    "Podcasts": "Podcasturi"
 }

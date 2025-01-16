@@ -328,7 +328,6 @@
     "Unlimited 'mark as watched' for videos": "Необмежена кількість \"позначити як переглянуто\" для відео",
     "Access to all features for": "Доступ до всіх функцій для",
     "By signing in, you agree to our": "Увійшовши, ви погоджуєтеся з нашими",
-    "Privacy Policy": "Політика конфіденційності",
     "Please login to PocketTube": "Будь ласка, увійдіть до PocketTube",
     "Join 1,000+ people who’ve already supported us": "Приєднуйтесь до понад 1000 людей, які вже підтримали нас",
     "soon": "скоро",
@@ -435,5 +434,16 @@
     "Search or Create": "Знайти або створити",
     "Sorting playlist videos by duration": "Сортування відео в плейлисті за тривалістю",
     "Custom filter by duration in the playlist": "Користувацький фільтр за тривалістю в плейлисті",
-    "Batch selection for Add to Queue": "Груповий вибір для Додати до черги"
+    "Batch selection for Add to Queue": "Груповий вибір для Додати до черги",
+    "videos viewed above this threshold are considered watched (used for filtering)": "відео, переглянуті вище цього порогу, вважаються переглянутими (використовується для фільтрації)",
+    "Default Tab": "Вкладка за замовчуванням",
+    "Visibility Modes": "Режими видимості",
+    "Highlight in the group": "Виділити в групі",
+    "Hide in the group": "Приховати в групі",
+    "Default": "За замовчуванням",
+    "Home": "Головна",
+    "Videos": "Відео",
+    "Shorts": "YouTube Shorts",
+    "Releases": "Релізи",
+    "Podcasts": "Подкасти"
 }

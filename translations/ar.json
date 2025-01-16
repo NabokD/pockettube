@@ -109,8 +109,8 @@
     "Date added (oldest)": "تاريخ الإضافة (بدءًا من الأقدم)",
     "Most popular": "الأكثر شهرة",
     "Uploads": "الفيديوهات المرفعة",
-    "Live": "مباشر",
-    "Community": "المجتمع",
+    "Live": "بث مباشر",
+    "Community": "المنتدى",
     "Watch Later": "شاهد لاحقاً",
     "List": "قائمة",
     "Grid": "شبكة",
@@ -434,5 +434,16 @@
     "Search or Create": "ابحث أو أنشئ",
     "Sorting playlist videos by duration": "فرز مقاطع الفيديو في قائمة التشغيل حسب المدة",
     "Custom filter by duration in the playlist": "فلتر مخصص حسب المدة في قائمة التشغيل",
-    "Batch selection for Add to Queue": "تحديد دفعات لإضافة إلى قائمة الانتظار"
+    "Batch selection for Add to Queue": "تحديد دفعات لإضافة إلى قائمة الانتظار",
+    "videos viewed above this threshold are considered watched (used for filtering)": "الفيديوهات التي تمت مشاهدتها فوق هذا الحد تعتبر مشاهدة (تستخدم للتصفية)",
+    "Default Tab": " علامة التبويب الافتراضية",
+    "Visibility Modes": "أوضاع الرؤية",
+    "Highlight in the group": "إبراز في المجموعة",
+    "Hide in the group": "إخفاء في المجموعة",
+    "Default": "افتراضي",
+    "Home": "الصفحة الرئيسية",
+    "Videos": "الفيديوهات",
+    "Shorts": "Shorts",
+    "Releases": "الإصدارات",
+    "Podcasts": "برامج البودكاست"
 }

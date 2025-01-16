@@ -293,7 +293,7 @@
     "Unlimited count of groups": "Neograničen broj grupa",
     "Sorting by last updated date for playlists": "Sortiranje po zadnjem ažuriranom datumu za popise za reprodukciju",
     "Unlimited filter by videos topic in the playlist": "Neograničeno filtriranje prema temi videozapisa na popisu za reprodukciju",
-    "Playlists": "Popisi",
+    "Playlists": "Playliste",
     "Playlist": "Popis",
     "Playlists were added to": "Dodani su popisi za reprodukciju",
     "Playlists were removed": "Popisi za reprodukciju su uklonjeni",
@@ -434,5 +434,16 @@
     "Search or Create": "Pretraži ili stvori",
     "Sorting playlist videos by duration": "Razvrstavanje videa na popisu po trajanju",
     "Custom filter by duration in the playlist": "Prilagođeni filtar prema trajanju na popisu",
-    "Batch selection for Add to Queue": "Skupni odabir za Dodavanje u red"
+    "Batch selection for Add to Queue": "Skupni odabir za Dodavanje u red",
+    "videos viewed above this threshold are considered watched (used for filtering)": "videozapisi pregledani iznad ovog praga smatraju se gledanima (koristi se za filtriranje)",
+    "Default Tab": "Zadana kartica",
+    "Visibility Modes": "Načini vidljivosti",
+    "Highlight in the group": "Istakni u grupi",
+    "Hide in the group": "Sakrij u grupi",
+    "Default": "Zadano",
+    "Home": "Početna stranica",
+    "Videos": "Videozapisi",
+    "Shorts": "Shorts videozapisi",
+    "Releases": "Izdanja",
+    "Podcasts": "Podcasti"
 }

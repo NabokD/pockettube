@@ -292,7 +292,7 @@
     "Unlimited count of groups": "組別數量沒有上限",
     "Sorting by last updated date for playlists": "播放列表可按更新日期排序",
     "Unlimited filter by videos topic in the playlist": "影片列表可按主題自由篩選",
-    "Playlists": "播放列表",
+    "Playlists": "播放清單",
     "Playlist": "播放列表",
     "Playlists were added to": "播放列表已新增至",
     "Playlists were removed": "已移除播放列表",
@@ -434,5 +434,16 @@
     "Search or Create": "搜尋或建立",
     "Sorting playlist videos by duration": "按時長排序播放清單中的影片",
     "Custom filter by duration in the playlist": "播放清單中按時長自訂篩選",
-    "Batch selection for Add to Queue": "批量選擇添加到佇列"
+    "Batch selection for Add to Queue": "批量選擇添加到佇列",
+    "videos viewed above this threshold are considered watched (used for filtering)": "觀看超過此門檻的視頻被視為已觀看（用於篩選）",
+    "Default Tab": "預設標籤",
+    "Visibility Modes": "可見性模式",
+    "Highlight in the group": "在群組中突出顯示",
+    "Hide in the group": "在群組中隱藏",
+    "Default": "默認",
+    "Home": "首頁",
+    "Videos": "影片",
+    "Shorts": "Shorts",
+    "Releases": "發行內容",
+    "Podcasts": "Podcast"
 }

@@ -434,5 +434,16 @@
     "Search or Create": "검색 또는 생성",
     "Sorting playlist videos by duration": "재생목록 비디오를 지속 시간별로 정렬",
     "Custom filter by duration in the playlist": "재생목록에서 지속 시간별 사용자 지정 필터",
-    "Batch selection for Add to Queue": "일괄 선택하여 대기열에 추가"
+    "Batch selection for Add to Queue": "일괄 선택하여 대기열에 추가",
+    "videos viewed above this threshold are considered watched (used for filtering)": "이 임계값을 초과하여 시청한 동영상은 시청한 것으로 간주됩니다(필터링에 사용)",
+    "Default Tab": "기본 탭",
+    "Visibility Modes": "가시성 모드",
+    "Highlight in the group": "그룹에서 강조",
+    "Hide in the group": "그룹에서 숨기기",
+    "Default": "기본",
+    "Home": "홈",
+    "Videos": "동영상",
+    "Shorts": "Shorts",
+    "Releases": "발표곡",
+    "Podcasts": "팟캐스트"
 }

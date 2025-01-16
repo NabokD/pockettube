@@ -434,5 +434,16 @@
     "Search or Create": "Zoek of Maak",
     "Sorting playlist videos by duration": "Afspeellijstvideo's sorteren op duur",
     "Custom filter by duration in the playlist": "Aangepast filter op duur in de afspeellijst",
-    "Batch selection for Add to Queue": "Batchselectie voor Toevoegen aan wachtrij"
+    "Batch selection for Add to Queue": "Batchselectie voor Toevoegen aan wachtrij",
+    "videos viewed above this threshold are considered watched (used for filtering)": "video's die boven deze drempel worden bekeken, worden als bekeken beschouwd (gebruikt voor filteren)",
+    "Default Tab": "Standaard tabblad",
+    "Visibility Modes": "Zichtbaarheidsmodi",
+    "Highlight in the group": "Markeer in de groep",
+    "Hide in the group": "Verberg in de groep",
+    "Default": "Standaard",
+    "Home": "Home",
+    "Videos": "Video's",
+    "Shorts": "Shorts",
+    "Releases": "Releases",
+    "Podcasts": "Podcasts"
 }

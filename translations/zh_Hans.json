@@ -113,7 +113,7 @@
     "Most popular": "最受欢迎",
     "Uploads": "上传",
     "Live": "直播",
-    "Community": "社群",
+    "Community": "社区",
     "Watch Later": "稍后观看",
     "List": "列表",
     "Grid": "网格",
@@ -434,5 +434,16 @@
     "Search or Create": "搜索或创建",
     "Sorting playlist videos by duration": "按时长排序播放列表中的视频",
     "Custom filter by duration in the playlist": "播放列表中按时长自定义过滤",
-    "Batch selection for Add to Queue": "批量选择添加到队列"
+    "Batch selection for Add to Queue": "批量选择添加到队列",
+    "videos viewed above this threshold are considered watched (used for filtering)": "观看超过此阈值的视频被视为已观看（用于筛选）",
+    "Default Tab": "預設標籤",
+    "Visibility Modes": "可见性模式",
+    "Highlight in the group": "在组中突出显示",
+    "Hide in the group": "在组中隐藏",
+    "Default": "默认",
+    "Home": "首页",
+    "Videos": "视频",
+    "Shorts": "Shorts",
+    "Releases": "发布作品",
+    "Podcasts": "播客"
 }

@@ -328,7 +328,6 @@
     "Full access to community tab with latest posts": "Полный доступ к вкладке сообщества с последними сообщениями",
     "Unlimited 'mark as watched' for videos": "Неограниченное количество отметок \"как просмотренное\" для видео",
     "Access to all features for": "Доступ ко всем функциям для",
-    "Privacy Policy": "Политика конфиденциальности",
     "Please login to PocketTube": "Пожалуйста, войдите в PocketTube",
     "Join 1,000+ people who’ve already supported us": "Присоединяйтесь к более 1000 человек, которые нас уже поддержали",
     "soon": "скоро",
@@ -435,5 +434,16 @@
     "Search or Create": "Найти или Создать",
     "Sorting playlist videos by duration": "Сортировка видео в плейлисте по длительности",
     "Custom filter by duration in the playlist": "Пользовательский фильтр по длительности в плейлисте",
-    "Batch selection for Add to Queue": "Групповой выбор для Добавить в очередь"
+    "Batch selection for Add to Queue": "Групповой выбор для Добавить в очередь",
+    "videos viewed above this threshold are considered watched (used for filtering)": "видео, просмотренные выше этого порога, считаются просмотренными (используется для фильтрации)",
+    "Default Tab": "Вкладка по умолчанию",
+    "Visibility Modes": "Режимы видимости",
+    "Highlight in the group": "Выделить в группе",
+    "Hide in the group": "Скрыть в группе",
+    "Default": "По умолчанию",
+    "Home": "Главная",
+    "Videos": "Видео",
+    "Shorts": "Shorts",
+    "Releases": "Релизы",
+    "Podcasts": "Подкасты"
 }

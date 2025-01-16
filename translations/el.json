@@ -434,5 +434,16 @@
     "Search or Create": "Αναζήτηση ή δημιουργία",
     "Sorting playlist videos by duration": "Ταξινόμηση βίντεο στη λίστα αναπαραγωγής κατά διάρκεια",
     "Custom filter by duration in the playlist": "Προσαρμοσμένο φίλτρο κατά διάρκεια στη λίστα αναπαραγωγής",
-    "Batch selection for Add to Queue": "Μαζική επιλογή για Προσθήκη στην ουρά"
+    "Batch selection for Add to Queue": "Μαζική επιλογή για Προσθήκη στην ουρά",
+    "videos viewed above this threshold are considered watched (used for filtering)": "βίντεο που προβλήθηκαν πάνω από αυτό το όριο θεωρούνται παρακολουθημένα (χρησιμοποιείται για φιλτράρισμα)",
+    "Default Tab": "Προεπιλεγμένη καρτέλα",
+    "Visibility Modes": "Τρόποι ορατότητας",
+    "Highlight in the group": "Επισήμανση στην ομάδα",
+    "Hide in the group": "Απόκρυψη στην ομάδα",
+    "Default": "Προεπιλογή",
+    "Home": "Αρχική",
+    "Videos": "Βίντεο",
+    "Shorts": "Shorts",
+    "Releases": "Κυκλοφορίες",
+    "Podcasts": "Podcast"
 }

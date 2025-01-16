@@ -434,5 +434,16 @@
     "Search or Create": "Søg eller opret",
     "Sorting playlist videos by duration": "Sortering af afspilningslistevideoer efter varighed",
     "Custom filter by duration in the playlist": "Brugerdefineret filter efter varighed i afspilningslisten",
-    "Batch selection for Add to Queue": "Batchvalg til Tilføj til kø"
+    "Batch selection for Add to Queue": "Batchvalg til Tilføj til kø",
+    "videos viewed above this threshold are considered watched (used for filtering)": "videoer set over denne tærskel betragtes som set (bruges til filtrering)",
+    "Default Tab": "Standard-fanen",
+    "Visibility Modes": "Synlighedstilstande",
+    "Highlight in the group": "Fremhæv i gruppen",
+    "Hide in the group": "Skjul i gruppen",
+    "Default": "Standard",
+    "Home": "Start",
+    "Videos": "Videoer",
+    "Shorts": "Shorts",
+    "Releases": "Udgivelser",
+    "Podcasts": "Podcasts"
 }

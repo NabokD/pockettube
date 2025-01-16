@@ -111,7 +111,7 @@
     "Most popular": "Най-популярни",
     "Uploads": "Качвания",
     "Live": "На живо",
-    "Community": "Общество",
+    "Community": "Общност",
     "Watch Later": "Гледане по-късно",
     "List": "Лист",
     "Grid": "Решетка",
@@ -434,5 +434,16 @@
     "Search or Create": "Търсене или създаване",
     "Sorting playlist videos by duration": "Сортиране на видеоклипове в плейлиста по продължителност",
     "Custom filter by duration in the playlist": "Персонализиран филтър по продължителност в плейлиста",
-    "Batch selection for Add to Queue": "Партиден избор за Добавяне в опашката"
+    "Batch selection for Add to Queue": "Партиден избор за Добавяне в опашката",
+    "videos viewed above this threshold are considered watched (used for filtering)": "видеоклипове, гледани над този праг, се считат за гледани (използва се за филтриране)",
+    "Default Tab": "Таб по подразбиране",
+    "Visibility Modes": "Режими на видимост",
+    "Highlight in the group": "Подчертай в групата",
+    "Hide in the group": "Скрий в групата",
+    "Default": "По подразбиране",
+    "Home": "Начална страница",
+    "Videos": "Видеоклипове",
+    "Shorts": "Shorts",
+    "Releases": "Нови заглавия",
+    "Podcasts": "Подкаст емисии"
 }

@@ -434,5 +434,16 @@
     "Search or Create": "Rechercher ou Créer",
     "Sorting playlist videos by duration": "Tri des vidéos de la playlist par durée",
     "Custom filter by duration in the playlist": "Filtre personnalisé par durée dans la playlist",
-    "Batch selection for Add to Queue": "Sélection en masse pour Ajouter à la file"
+    "Batch selection for Add to Queue": "Sélection en masse pour Ajouter à la file",
+    "videos viewed above this threshold are considered watched (used for filtering)": "les vidéos visionnées au-delà de ce seuil sont considérées comme regardées (utilisées pour le filtrage)",
+    "Default Tab": "Onglet par défaut",
+    "Visibility Modes": "Modes de visibilité",
+    "Highlight in the group": "Mettre en surbrillance dans le groupe",
+    "Hide in the group": "Masquer dans le groupe",
+    "Default": "Par défaut",
+    "Home": "Accueil",
+    "Videos": "Vidéos",
+    "Shorts": "Shorts",
+    "Releases": "Sorties",
+    "Podcasts": "Podcasts"
 }

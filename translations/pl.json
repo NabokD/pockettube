@@ -434,5 +434,16 @@
     "Search or Create": "Wyszukaj lub Utwórz",
     "Sorting playlist videos by duration": "Sortowanie filmów w playliście według długości",
     "Custom filter by duration in the playlist": "Niestandardowy filtr według długości w playliście",
-    "Batch selection for Add to Queue": "Partia wyboru do Dodaj do kolejki"
+    "Batch selection for Add to Queue": "Partia wyboru do Dodaj do kolejki",
+    "videos viewed above this threshold are considered watched (used for filtering)": "filmy obejrzane powyżej tego progu są uznawane za obejrzane (używane do filtrowania)",
+    "Default Tab": "Domyślna karta",
+    "Visibility Modes": "Tryby widoczności",
+    "Highlight in the group": "Wyróżnij w grupie",
+    "Hide in the group": "Ukryj w grupie",
+    "Default": "Domyślny",
+    "Home": "Główna",
+    "Videos": "Wideo",
+    "Shorts": "Shorts",
+    "Releases": "Wydania",
+    "Podcasts": "Podcasty"
 }

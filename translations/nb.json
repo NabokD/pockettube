@@ -434,5 +434,16 @@
     "Search or Create": "Søk eller opprett",
     "Sorting playlist videos by duration": "Sortering av spillelistevideoer etter varighet",
     "Custom filter by duration in the playlist": "Tilpasset filter etter varighet i spillelisten",
-    "Batch selection for Add to Queue": "Batchvalg for Legg til i kø"
+    "Batch selection for Add to Queue": "Batchvalg for Legg til i kø",
+    "videos viewed above this threshold are considered watched (used for filtering)": "videoer sett over denne terskelen regnes som sett (brukes til filtrering)",
+    "Default Tab": "Standard-fanen",
+    "Visibility Modes": "Synlighetsmoduser",
+    "Highlight in the group": "Fremhev i gruppen",
+    "Hide in the group": "Skjul i gruppen",
+    "Default": "Standard",
+    "Home": "Start",
+    "Videos": "Videoer",
+    "Shorts": "Shorts-videoer",
+    "Releases": "Utgivelser",
+    "Podcasts": "Podcaster"
 }

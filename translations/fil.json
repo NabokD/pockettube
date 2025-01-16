@@ -434,5 +434,16 @@
     "Search or Create": "Maghanap o Lumikha",
     "Sorting playlist videos by duration": "Pag-uuri ng mga video ng playlist ayon sa tagal",
     "Custom filter by duration in the playlist": "Custom na filter ayon sa tagal sa playlist",
-    "Batch selection for Add to Queue": "Batch na pagpili para sa Idagdag sa Queue"
+    "Batch selection for Add to Queue": "Batch na pagpili para sa Idagdag sa Queue",
+    "videos viewed above this threshold are considered watched (used for filtering)": "ang mga video na napanood sa itaas ng threshold na ito ay itinuturing na napanood (ginagamit para sa pagsasala)",
+    "Default Tab": "Default na Tab",
+    "Visibility Modes": "Mga Mode ng Visibility",
+    "Highlight in the group": "I-highlight sa grupo",
+    "Hide in the group": "Itago sa grupo",
+    "Default": "Default",
+    "Home": "Home",
+    "Videos": "Mga Video",
+    "Shorts": "Shorts",
+    "Releases": "Mga Release",
+    "Podcasts": "Mga Podcast"
 }

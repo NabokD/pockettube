@@ -434,5 +434,16 @@
     "Search or Create": "Tìm kiếm hoặc Tạo",
     "Sorting playlist videos by duration": "Sắp xếp video danh sách phát theo thời lượng",
     "Custom filter by duration in the playlist": "Bộ lọc tùy chỉnh theo thời lượng trong danh sách phát",
-    "Batch selection for Add to Queue": "Chọn hàng loạt để Thêm vào Hàng đợi"
+    "Batch selection for Add to Queue": "Chọn hàng loạt để Thêm vào Hàng đợi",
+    "videos viewed above this threshold are considered watched (used for filtering)": "video được xem vượt ngưỡng này được coi là đã xem (sử dụng để lọc)",
+    "Default Tab": "Tab mặc định",
+    "Visibility Modes": "Chế độ Hiển thị",
+    "Highlight in the group": "Làm nổi bật trong nhóm",
+    "Hide in the group": "Ẩn trong nhóm",
+    "Default": "Mặc định",
+    "Home": "Trang chủ",
+    "Videos": "Video",
+    "Shorts": "Shorts",
+    "Releases": "Bản phát hành",
+    "Podcasts": "Podcast"
 }

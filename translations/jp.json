@@ -434,5 +434,16 @@
     "Search or Create": "検索または作成",
     "Sorting playlist videos by duration": "プレイリストの動画を長さで並べ替え",
     "Custom filter by duration in the playlist": "プレイリスト内の長さでカスタムフィルタリング",
-    "Batch selection for Add to Queue": "一括選択してキューに追加"
+    "Batch selection for Add to Queue": "一括選択してキューに追加",
+    "videos viewed above this threshold are considered watched (used for filtering)": "この閾値を超えて視聴された動画は視聴済みと見なされます（フィルタリングに使用されます）",
+    "Default Tab": "デフォルトタブ",
+    "Visibility Modes": "可視性モード",
+    "Highlight in the group": "グループ内で強調表示",
+    "Hide in the group": "グループ内で非表示",
+    "Default": "デフォルト",
+    "Home": "ホーム",
+    "Videos": "動画",
+    "Shorts": "ショート",
+    "Releases": "リリース",
+    "Podcasts": "ポッドキャスト"
 }
