@@ -445,5 +445,6 @@
     "Videos": "動画",
     "Shorts": "ショート",
     "Releases": "リリース",
-    "Podcasts": "ポッドキャスト"
+    "Podcasts": "ポッドキャスト",
+    "watched threshold": "視聴しきい値"
 }

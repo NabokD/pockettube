@@ -259,7 +259,7 @@
     "hide video collection container from YouTube main page": "Videosammlungscontainer auf der YouTube-Hauptseite ausblenden",
     "remove playlist link in TV mode": "Entferne Playlisten-Link im TV-Modus",
     "hide icons": "Verberge Symbole",
-    "hide new videos count": "verstecke die Anzahl neuer Videos",
+    "hide new videos count": "Verstecke die Anzahl neuer Videos",
     "disable removing the channel from the group after unsubscribing": "Deaktivieren Sie das Entfernen des Kanals aus der Sammlung nach dem Abbestellen",
     "lock position in the custom sort view": "Sperrposition in der benutzerdefinierten Sortieransicht",
     "Download link": "Download link",
@@ -445,5 +445,6 @@
     "Videos": "Videos",
     "Shorts": "Shorts",
     "Releases": "Veröffentlichungen",
-    "Podcasts": "Podcasts"
+    "Podcasts": "Podcasts",
+    "watched threshold": "Gesehene schwelle"
 }
