@@ -8,23 +8,23 @@ Since PocketTube is not fully open-source, this repository serves as a place for
 
 ### Supported Browsers:
 
-- [Chrome](//chrome.google.com/webstore/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb)
-- [Firefox](//addons.mozilla.org/en-US/firefox/addon/youtube-subscription-groups)
-- [Safari](//pockettube.io/install/PocketTube.dmg)
-- [Edge](//microsoftedge.microsoft.com/addons/detail/pockettube-youtube-subsc/klfeohnijmogpjoeenglhonjfiacajpp)
-- [Opera](//addons.opera.com/en/extensions/details/pockettube-youtube-subscription-manager)
+-   [Chrome](//chrome.google.com/webstore/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb)
+-   [Firefox](//addons.mozilla.org/en-US/firefox/addon/youtube-subscription-groups)
+-   [Safari](//pockettube.io/install/PocketTube.dmg)
+-   [Edge](//microsoftedge.microsoft.com/addons/detail/pockettube-youtube-subsc/klfeohnijmogpjoeenglhonjfiacajpp)
+-   [Opera](//addons.opera.com/en/extensions/details/pockettube-youtube-subscription-manager)
 
 ### Mobile Apps:
 
-- [Android](//play.google.com/store/apps/details?id=com.youtubesubscriptionmanager)
-- [iOS](//apps.apple.com/us/app/pockettube-subscription-manage/id1475688814)
+-   [Android](//play.google.com/store/apps/details?id=com.youtubesubscriptionmanager)
+-   [iOS](//apps.apple.com/us/app/pockettube-subscription-manage/id1475688814)
 
 ### Where You Can Find Us:
 
-- :envelope: hello@yousub.info
-- :bird: [twitter.com/YoutubeSubM](//twitter.com/YoutubeSubM)
-- :orange_book: [reddit.com/r/pockettube](//www.reddit.com/r/pockettube)
-- :tada: [yousub.info](//pockettube.io)
+-   :envelope: hello@pockettube.io
+-   :bird: [@PocketTubeIO](//x.com/PocketTubeIO)
+-   :orange_book: [reddit.com/r/pockettube](//www.reddit.com/r/pockettube)
+-   :tada: [pockettube.io](//pockettube.io)
 
 ### Supporting The Project
 
