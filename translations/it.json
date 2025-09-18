@@ -116,7 +116,7 @@
     "Grid": "Griglia",
     "Saved to Watch later": "Salvato per guardarlo più tardi",
     "Share group": "Condividi gruppo",
-    "Scheduled": "Programmato",
+    "Scheduled": "In programma",
     "Filter by video type": "Filtra per tipologia video",
     "Unwatched": "Non guardato",
     "All Videos": "Tutti i video",
@@ -447,5 +447,6 @@
     "Releases": "Uscite",
     "Podcasts": "Podcast",
     "watched threshold": "Soglia di visualizzazione",
-    "Posts": "Post"
+    "Posts": "Post",
+    "Tags": "Tag"
 }

@@ -117,7 +117,7 @@
     "Grid": "Решетка",
     "Saved to Watch later": "Запазено в Гледане по-късно",
     "Share group": "Споделете група",
-    "Scheduled": "Планирани",
+    "Scheduled": "Предстоящ",
     "Filter by video type": "Филтрирай видео предпочитания",
     "Unwatched": "Негледани",
     "All Videos": "Всички Видеоклипове",
@@ -447,5 +447,6 @@
     "Releases": "Нови заглавия",
     "Podcasts": "Подкаст емисии",
     "watched threshold": "гледан праг",
-    "Posts": "Публикации"
+    "Posts": "Публикации",
+    "Tags": "Маркери"
 }

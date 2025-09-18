@@ -116,7 +116,7 @@
     "Grid": "Tablo",
     "Saved to Watch later": "Daha Sonra İzle bölümüne kaydedildi",
     "Share group": "Paylaş",
-    "Scheduled": "Planlandı",
+    "Scheduled": "Yakında",
     "Filter by video type": "Video türüne göre filtrele",
     "Unwatched": "Izlenmemiş",
     "All Videos": "Tüm videolar",
@@ -447,5 +447,6 @@
     "Releases": "Yayınlananlar",
     "Podcasts": "Podcast'ler",
     "watched threshold": "izleme eşiği",
-    "Posts": "Gönderiler"
+    "Posts": "Gönderiler",
+    "Tags": "Etiketler"
 }

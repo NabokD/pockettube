@@ -116,7 +116,7 @@
     "Grid": "Πλέγμα",
     "Saved to Watch later": "Αποθηκεύτηκε για μεταγενέστερη παρακολούθηση",
     "Share group": "Κοινοποίηση ομάδας",
-    "Scheduled": "Προγραμματισμένο",
+    "Scheduled": "Προσεχές",
     "Filter by video type": "Φιλτράρισμα ανά τύπο βίντεο",
     "Unwatched": "Άβλεπτα",
     "All Videos": "Όλα τα Βίντεο",
@@ -447,5 +447,6 @@
     "Releases": "Κυκλοφορίες",
     "Podcasts": "Podcast",
     "watched threshold": "όριο παρακολούθησης",
-    "Posts": "Αναρτήσεις"
+    "Posts": "Αναρτήσεις",
+    "Tags": "Ετικέτες"
 }

@@ -116,7 +116,7 @@
     "Grid": "Siatka",
     "Saved to Watch later": "Zapisano na playliście Do obejrzenia",
     "Share group": "Udostępnij",
-    "Scheduled": "Planowy",
+    "Scheduled": "Wkrótce",
     "Filter by video type": "Filtruj według typu wideo",
     "Unwatched": "nie obejrzałem",
     "All Videos": "Wszystkie filmy",
@@ -447,5 +447,6 @@
     "Releases": "Wydania",
     "Podcasts": "Podcasty",
     "watched threshold": "próg obejrzenia",
-    "Posts": "Posty"
+    "Posts": "Posty",
+    "Tags": "Tagi"
 }

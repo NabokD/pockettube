@@ -116,7 +116,7 @@
     "Grid": "Список",
     "Saved to Watch later": "Збережено в списку Переглянути пізніше",
     "Share group": "Поділитися",
-    "Scheduled": "За розкладом",
+    "Scheduled": "Незабаром",
     "Filter by video type": "Фільтр за типом відео",
     "Unwatched": "Не переглянуто",
     "All Videos": "Усі відео",
@@ -443,9 +443,10 @@
     "Default": "За замовчуванням",
     "Home": "Головна",
     "Videos": "Відео",
-    "Shorts": "YouTube Shorts",
+    "Shorts": "Shorts",
     "Releases": "Релізи",
     "Podcasts": "Подкасти",
     "watched threshold": "поріг перегляду",
-    "Posts": "Дописи"
+    "Posts": "Дописи",
+    "Tags": "Теги"
 }

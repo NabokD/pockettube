@@ -117,7 +117,7 @@
     "Grid": "Kisi",
     "Saved to Watch later": "Simpan ke Tonton nanti",
     "Share group": "Bagikan grup",
-    "Scheduled": "Terjadwal",
+    "Scheduled": "Mendatang",
     "Filter by video type": "Filter menurut jenis video",
     "Unwatched": "Belum ditonton",
     "All Videos": "Semua Video",
@@ -447,5 +447,6 @@
     "Releases": "Rilis",
     "Podcasts": "Podcast",
     "watched threshold": "ambang ditonton",
-    "Posts": "Postingan"
+    "Posts": "Postingan",
+    "Tags": "Tag"
 }

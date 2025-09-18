@@ -116,7 +116,7 @@
     "Grid": "Gitter",
     "Saved to Watch later": "Er gemt i Se senere",
     "Share group": "Del",
-    "Scheduled": "Planlagt",
+    "Scheduled": "Kommende",
     "Filter by video type": "Filtrer efter videotype",
     "Unwatched": "ikke set",
     "All Videos": "Alle videoer",
@@ -447,5 +447,6 @@
     "Releases": "Udgivelser",
     "Podcasts": "Podcasts",
     "watched threshold": "set tærskel",
-    "Posts": "Opslag"
+    "Posts": "Opslag",
+    "Tags": "Tags"
 }

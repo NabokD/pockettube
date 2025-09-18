@@ -116,7 +116,7 @@
     "Grid": "Mriežka",
     "Saved to Watch later": "Uložené do zoznamu Pozrieť neskôr",
     "Share group": "zhliadnutí",
-    "Scheduled": "Naplánovaný",
+    "Scheduled": "Nadchádzajúce",
     "Filter by video type": "Filtrovať podľa typu videa",
     "Unwatched": "nepozerané",
     "All Videos": "Všetky videá",
@@ -447,5 +447,6 @@
     "Releases": "Vydania",
     "Podcasts": "Podcasty",
     "watched threshold": "prahová hodnota sledovania",
-    "Posts": "Príspevky"
+    "Posts": "Príspevky",
+    "Tags": "Štítky"
 }

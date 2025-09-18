@@ -116,7 +116,7 @@
     "Grid": "Rešetka",
     "Saved to Watch later": "Spremljeno na popis Gledaj kasnije",
     "Share group": "Podijeli grupu",
-    "Scheduled": "Najavljeni videi",
+    "Scheduled": "Uskoro",
     "Filter by video type": "Filtriraj po tipu videa",
     "Unwatched": "Nepogledani videi",
     "All Videos": "Svi videi",
@@ -443,9 +443,10 @@
     "Default": "Zadano",
     "Home": "Početna stranica",
     "Videos": "Videozapisi",
-    "Shorts": "Shorts videozapisi",
+    "Shorts": "Shorts",
     "Releases": "Izdanja",
     "Podcasts": "Podcasti",
     "watched threshold": "Prag gledanja",
-    "Posts": "Postovi"
+    "Posts": "Postovi",
+    "Tags": "Oznake"
 }

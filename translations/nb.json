@@ -116,7 +116,7 @@
     "Grid": "Rutenett",
     "Saved to Watch later": "Lagret i Se senere",
     "Share group": "Del",
-    "Scheduled": "Planlagt",
+    "Scheduled": "Kommer",
     "Filter by video type": "Filtrer etter videotype",
     "Unwatched": "ikke sett på",
     "All Videos": "Alle videoer",
@@ -443,9 +443,10 @@
     "Default": "Standard",
     "Home": "Start",
     "Videos": "Videoer",
-    "Shorts": "Shorts-videoer",
+    "Shorts": "Shorts",
     "Releases": "Utgivelser",
     "Podcasts": "Podcaster",
     "watched threshold": "sett terskel",
-    "Posts": "Innlegg"
+    "Posts": "Innlegg",
+    "Tags": "Etiketter"
 }

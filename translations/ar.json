@@ -116,7 +116,7 @@
     "Grid": "شبكة",
     "Saved to Watch later": "تم حفظ الفيديو في قائمة المشاهدة لاحقًا",
     "Share group": "مشاركة المجموعة",
-    "Scheduled": "مجدول",
+    "Scheduled": "الفيديوهات القادمة",
     "Filter by video type": "تصفية حسب نوع الفيديو",
     "Unwatched": "غير مشاهدة",
     "All Videos": "جميع مقاطع الفيديو",
@@ -447,5 +447,6 @@
     "Releases": "الإصدارات",
     "Podcasts": "برامج البودكاست",
     "watched threshold": "عتبة المشاهدة",
-    "Posts": "المنشورات"
+    "Posts": "المنشورات",
+    "Tags": "العلامات"
 }

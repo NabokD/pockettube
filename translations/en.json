@@ -116,7 +116,7 @@
     "Grid": "Grid",
     "Saved to Watch later": "Saved to Watch later",
     "Share group": "Share group",
-    "Scheduled": "Scheduled",
+    "Scheduled": "Upcoming",
     "Filter by video type": "Filter by video type",
     "Unwatched": "Unwatched",
     "All Videos": "All Videos",
@@ -447,5 +447,6 @@
     "Releases": "Releases",
     "Podcasts": "Podcasts",
     "watched threshold": "watched threshold",
-    "Posts": "Posts"
+    "Posts": "Posts",
+    "Tags": "Tags"
 }

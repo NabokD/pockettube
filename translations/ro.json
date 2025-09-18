@@ -116,7 +116,7 @@
     "Grid": "Grilă",
     "Saved to Watch later": "Salvat în Vizionează mai târziu",
     "Share group": "Trimite",
-    "Scheduled": "programat",
+    "Scheduled": "În viitor",
     "Filter by video type": "Filtrează după tipul de videoclip",
     "Unwatched": "nu privit",
     "All Videos": "Toate videoclipurile",
@@ -447,5 +447,6 @@
     "Releases": "Lansări",
     "Podcasts": "Podcasturi",
     "watched threshold": "prag de vizionare",
-    "Posts": "Postări"
+    "Posts": "Postări",
+    "Tags": "Etichete"
 }

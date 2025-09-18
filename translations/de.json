@@ -116,7 +116,7 @@
     "Grid": "Raster",
     "Saved to Watch later": "Zu Später ansehen hinzugefügt",
     "Share group": "Gruppe teilen",
-    "Scheduled": "Geplant",
+    "Scheduled": "Anstehend",
     "Filter by video type": "Nach Videotyp filtern",
     "Unwatched": "nicht gesehen",
     "All Videos": "Alle Videos",
@@ -447,5 +447,6 @@
     "Releases": "Veröffentlichungen",
     "Podcasts": "Podcasts",
     "watched threshold": "Gesehene schwelle",
-    "Posts": "Beiträge"
+    "Posts": "Beiträge",
+    "Tags": "Tags"
 }

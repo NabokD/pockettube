@@ -116,7 +116,7 @@
     "Grid": "表",
     "Saved to Watch later": "[後で見る] に保存しました",
     "Share group": "共有",
-    "Scheduled": "予定",
+    "Scheduled": "配信予定",
     "Filter by video type": "動画タイプでフィルタリング",
     "Unwatched": "未視聴",
     "All Videos": "すべての動画",
@@ -447,5 +447,6 @@
     "Releases": "リリース",
     "Podcasts": "ポッドキャスト",
     "watched threshold": "視聴しきい値",
-    "Posts": "投稿"
+    "Posts": "投稿",
+    "Tags": "タグ"
 }

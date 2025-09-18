@@ -116,7 +116,7 @@
     "Grid": "Lưới",
     "Saved to Watch later": "Lưu để xem sau",
     "Share group": "Chia sẽ nhóm",
-    "Scheduled": "Lên kế hoạch",
+    "Scheduled": "Sắp diễn ra",
     "Filter by video type": "Lọc theo loại video",
     "Unwatched": "Chưa xem",
     "All Videos": "Tất cả video",
@@ -447,5 +447,6 @@
     "Releases": "Bản phát hành",
     "Podcasts": "Podcast",
     "watched threshold": "Ngưỡng đã xem",
-    "Posts": "Bài đăng"
+    "Posts": "Bài đăng",
+    "Tags": "Thẻ"
 }

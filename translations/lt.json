@@ -117,7 +117,7 @@
     "Grid": "Tinklelis",
     "Saved to Watch later": "Išsaugota į žiūrėti vėliau",
     "Share group": "Dalintis grupe",
-    "Scheduled": "Suplanuota",
+    "Scheduled": "Suplanuotas",
     "Filter by video type": "Filtruoti pagal vaizdo įrašo tipą",
     "Unwatched": "Nežiūrėta",
     "All Videos": "Visi vaizdo įrašai",
@@ -447,5 +447,6 @@
     "Releases": "Leidimai",
     "Podcasts": "Podcasts",
     "watched threshold": "peržiūrėta riba",
-    "Posts": "Įrašai"
+    "Posts": "Įrašai",
+    "Tags": "Žymos"
 }

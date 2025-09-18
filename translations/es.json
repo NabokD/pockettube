@@ -116,7 +116,7 @@
     "Grid": "Cuadrícula",
     "Saved to Watch later": "Guardado en Ver más tarde",
     "Share group": "Compartir grupo",
-    "Scheduled": "Programada",
+    "Scheduled": "Próximamente",
     "Filter by video type": "Filtrar por tipo de video",
     "Unwatched": "No visto",
     "All Videos": "Todos los videos",
@@ -447,5 +447,6 @@
     "Releases": "Lanzamientos",
     "Podcasts": "Podcasts",
     "watched threshold": "umbral de visualización",
-    "Posts": "Publicaciones"
+    "Posts": "Publicaciones",
+    "Tags": "Etiquetas"
 }

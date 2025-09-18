@@ -117,7 +117,7 @@
     "Grid": "Pa-grid",
     "Saved to Watch later": "Na-save sa Panoorin mamaya",
     "Share group": "Ibahagi ang grupo",
-    "Scheduled": "Naka-iskedyul",
+    "Scheduled": "Nalalapit",
     "Filter by video type": "Sumaklaw ayon sa uri ng bidyo",
     "Unwatched": "'Di pa napapanood",
     "All Videos": "Lahat ng bidyo",
@@ -447,5 +447,6 @@
     "Releases": "Mga Release",
     "Podcasts": "Mga Podcast",
     "watched threshold": "Napanood na threshold",
-    "Posts": "Mga Post"
+    "Posts": "Mga Post",
+    "Tags": "Mga Tag"
 }

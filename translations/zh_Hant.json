@@ -132,7 +132,7 @@
     "Grid": "網格",
     "Saved to Watch later": "儲存至「稍後觀看」",
     "Share group": "分享組別",
-    "Scheduled": "即將開始",
+    "Scheduled": "即將直播",
     "Filter by video type": "以影片種類篩選",
     "Unwatched": "未觀看",
     "All Videos": "全部影片",
@@ -447,5 +447,6 @@
     "Releases": "發行內容",
     "Podcasts": "Podcast",
     "watched threshold": "觀看閾值",
-    "Posts": "貼文"
+    "Posts": "貼文",
+    "Tags": "標記"
 }

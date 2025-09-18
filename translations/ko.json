@@ -116,7 +116,7 @@
     "Grid": "바둑판식",
     "Saved to Watch later": "나중에 볼 동영상에 저장됨",
     "Share group": "그룹 공유",
-    "Scheduled": "공개예정",
+    "Scheduled": "예정",
     "Filter by video type": "동영상 유형으로 필터",
     "Unwatched": "시청하지 않음",
     "All Videos": "모든 동영상",
@@ -447,5 +447,6 @@
     "Releases": "발표곡",
     "Podcasts": "팟캐스트",
     "watched threshold": "시청 임계값",
-    "Posts": "게시물"
+    "Posts": "게시물",
+    "Tags": "태그"
 }

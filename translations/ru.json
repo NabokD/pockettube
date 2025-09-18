@@ -116,7 +116,7 @@
     "Grid": "Сетка",
     "Saved to Watch later": "Добавлено в плейлист Смотреть позже",
     "Share group": "Поделиться",
-    "Scheduled": "Запланированное",
+    "Scheduled": "Скоро",
     "Filter by video type": "Фильтр по типу видео",
     "Unwatched": "Не просмотренное",
     "All Videos": "Все видео",
@@ -447,5 +447,6 @@
     "Releases": "Релизы",
     "Podcasts": "Подкасты",
     "watched threshold": "порог просмотра",
-    "Posts": "Записи"
+    "Posts": "Записи",
+    "Tags": "Теги"
 }
